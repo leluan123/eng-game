@@ -283,8 +283,8 @@ class UIManager {
 
     this.wordText.textContent = wordData.word;
     this.wordMeaning.textContent = wordData.vnMeaning || '';
-    this.wordHint.textContent = wordData.hint || '';
-    this.wordHint.style.display = wordData.hint ? 'block' : 'none';
+    // Hint is only shown in feedback/results, not during the question
+    this.wordHint.style.display = 'none';
   }
 
   /**
@@ -509,9 +509,10 @@ class UIManager {
 
   /**
    * Show boss damage animation.
+   * @param {number} [damage] - The damage amount to display (optional, defaults to 25)
    */
-  showBossDamage() {
-    this.damageNumber.textContent = `-25`;
+  showBossDamage(damage) {
+    this.damageNumber.textContent = `-${damage || 25}`;
     this.bossDamageAnim.style.display = 'block';
     this.bossDamageAnim.style.animation = 'none';
     void this.bossDamageAnim.offsetHeight;
@@ -524,10 +525,25 @@ class UIManager {
   /**
    * Show the explanation after answering a boss question.
    * @param {string} explanation - The explanation text
+   * @returns {Promise<void>} Resolves when OK is clicked
    */
   showBossExplanation(explanation) {
-    this.explanationText.textContent = explanation;
-    this.bossExplanation.style.display = 'block';
+    return new Promise(resolve => {
+      this.explanationText.textContent = explanation;
+      this.bossExplanation.style.display = 'block';
+
+      const okBtn = document.getElementById('btn-boss-ok');
+      if (!okBtn) { resolve(); return; }
+
+      // Remove any previous handler to prevent duplicates
+      const newBtn = okBtn.cloneNode(true);
+      okBtn.parentNode.replaceChild(newBtn, okBtn);
+
+      newBtn.addEventListener('click', () => {
+        this.bossExplanation.style.display = 'none';
+        resolve();
+      });
+    });
   }
 
   /**
@@ -568,14 +584,17 @@ class UIManager {
   }
 
   /**
-   * Show boss fight player hearts.
+   * Show boss fight player hearts (shows all 5 with filled/empty).
    * @param {number} hearts - Current heart count
+   * @param {number} maxHearts - Maximum hearts (default 5)
    */
-  showBossHearts(hearts) {
+  showBossHearts(hearts, maxHearts = 5) {
     this.bossHearts.innerHTML = '';
-    for (let i = 0; i < hearts; i++) {
+    for (let i = 0; i < maxHearts; i++) {
       const heart = document.createElement('span');
-      heart.textContent = '❤️';
+      heart.className = 'heart';
+      heart.textContent = i < hearts ? '❤️' : '🤍';
+      if (i >= hearts) heart.classList.add('lost');
       this.bossHearts.appendChild(heart);
     }
   }

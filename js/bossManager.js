@@ -16,12 +16,21 @@ class BossManager {
     this.bossHP = 100;
     /** @type {number} Maximum boss HP */
     this.maxBossHP = 100;
-    /** @type {number} Damage dealt per correct answer */
-    this.damagePerHit = 25;
+    /** @type {number} Damage dealt per correct answer (varies by difficulty) */
+    this.damagePerHit = 10;
     /** @type {number} Questions between boss fights */
     this.questionsBetweenBosses = 20;
     /** @type {Array} Questions already used (to avoid repeats until reshuffle) */
     this.usedQuestions = [];
+    /** @type {string} Current difficulty */
+    this.currentDifficulty = 'easy';
+
+    /** Difficulty-based boss settings: easy=10dmg, medium=5dmg, hard=4dmg */
+    this.difficultySettings = {
+      easy:   { damagePerHit: 10, maxBossHP: 100 },
+      medium: { damagePerHit: 5,  maxBossHP: 100 },
+      hard:   { damagePerHit: 4,  maxBossHP: 100 }
+    };
   }
 
   /**
@@ -100,9 +109,24 @@ class BossManager {
   }
 
   /**
-   * Reset boss HP to full.
+   * Set the difficulty for the boss fight.
+   * Adjusts damage per hit and max HP based on difficulty.
+   * @param {string} difficulty - 'easy', 'medium', or 'hard'
+   */
+  setDifficulty(difficulty) {
+    this.currentDifficulty = difficulty;
+    const settings = this.difficultySettings[difficulty] || this.difficultySettings.easy;
+    this.damagePerHit = settings.damagePerHit;
+    this.maxBossHP = settings.maxBossHP;
+  }
+
+  /**
+   * Reset boss HP to full (uses current difficulty settings).
    */
   resetHP() {
+    const settings = this.difficultySettings[this.currentDifficulty] || this.difficultySettings.easy;
+    this.damagePerHit = settings.damagePerHit;
+    this.maxBossHP = settings.maxBossHP;
     this.bossHP = this.maxBossHP;
   }
 

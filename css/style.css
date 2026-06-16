@@ -996,6 +996,12 @@ button {
   line-height: 1.6;
 }
 
+.btn-boss-ok {
+  margin-top: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  min-width: 80px;
+}
+
 .boss-hearts {
   display: flex;
   gap: var(--space-sm);

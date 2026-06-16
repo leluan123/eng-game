@@ -162,6 +162,9 @@ class Game {
 
     this.levelManager.setLevel(level, true);
 
+    // Sync difficulty to bossManager
+    this.bossManager.setDifficulty(this.levelManager.currentDifficulty);
+
     this.ui.showScreen('game');
     this.ui.updateHearts(this.hearts);
     this.ui.updateLevelBadge(level);
@@ -176,21 +179,17 @@ class Game {
   _nextQuestion() {
     if (!this.isPlaying) return;
 
-    const stats = Storage.load();
-    if (this.bossManager.shouldTriggerBoss(stats.totalQuestions)) {
-      this._startBossFight();
-      return;
-    }
-
     this.questionNumber++;
     if (this.questionNumber > this.totalQuestionsInLevel) {
-      this._completeLevel();
+      // All regular questions done — start the boss fight as the final challenge
+      this._startBossFight();
       return;
     }
 
     const word = this.levelManager.getNextWord();
     if (!word) {
-      this._completeLevel();
+      // No more words — start the boss fight
+      this._startBossFight();
       return;
     }
 
@@ -300,12 +299,18 @@ class Game {
   async _startBossFight() {
     this.isBossFight = true;
     this.isAnswering = false;
+
+    // Sync difficulty and reset boss HP
+    this.bossManager.setDifficulty(this.levelManager.currentDifficulty);
     this.bossManager.resetHP();
+
+    // Player gets 5 fresh hearts for the boss fight
+    this.hearts = this.maxHearts;
+    this.ui.showBossHearts(this.hearts);
 
     const question = this.bossManager.selectQuestion();
     this.ui.setBossCorrectAnswer(question.answer);
     this.ui.setupBossUI(question, this.bossManager.bossHP, this.bossManager.maxBossHP);
-    this.ui.showBossHearts(this.hearts);
     this.ui.updateBossHP(this.bossManager.bossHP, this.bossManager.maxBossHP);
     this.ui.showScreen('boss');
   }
@@ -320,7 +325,7 @@ class Game {
     if (isCorrect) {
       this.bossManager.hurtBoss();
       this.ui.updateBossHP(this.bossManager.bossHP, this.bossManager.maxBossHP);
-      this.ui.showBossDamage();
+      this.ui.showBossDamage(this.bossManager.damagePerHit);
       this.audio.playBossHit();
 
       this.xp += this.xpPerCorrect;
@@ -330,8 +335,7 @@ class Game {
       Storage.save(stats);
       this._updateXpUI();
 
-      this.ui.showBossExplanation(this.bossManager.currentQuestion.explanation);
-      await this._delay(1500);
+      await this.ui.showBossExplanation(this.bossManager.currentQuestion.explanation);
 
       if (this.bossManager.isBossDefeated()) {
         this._defeatBoss();
@@ -348,15 +352,13 @@ class Game {
       this.audio.playHeartLoss();
       this.audio.playWrong();
       this.ui.showBossHearts(this.hearts);
-      this.ui.showBossExplanation(this.bossManager.currentQuestion.explanation);
+      await this.ui.showBossExplanation(this.bossManager.currentQuestion.explanation);
 
       this.xp = Math.max(0, this.xp + this.xpPerWrong);
       const stats = Storage.load();
       stats.xp = this.xp;
       Storage.save(stats);
       this._updateXpUI();
-
-      await this._delay(1500);
 
       if (this.hearts <= 0) {
         this.isPlaying = false;
@@ -390,12 +392,8 @@ class Game {
   }
 
   _continueAfterBoss() {
-    if (this.isPlaying) {
-      this.ui.showScreen('game');
-      this._nextQuestion();
-    } else {
-      this._showMenu();
-    }
+    // After boss victory, complete the level (boss was the final challenge)
+    this._completeLevel();
   }
 
   _completeLevel() {
@@ -429,6 +427,8 @@ class Game {
 
   _setDifficulty(difficulty) {
     this.levelManager.setDifficulty(difficulty);
+    // Sync difficulty to bossManager so boss damage matches
+    this.bossManager.setDifficulty(difficulty);
     if (this.isPlaying) {
       this.totalQuestionsInLevel = this.levelManager.getQuestionCount();
       this.ui.updateQuestionCounter(this.questionNumber, this.totalQuestionsInLevel);

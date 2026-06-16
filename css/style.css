@@ -1637,32 +1637,13 @@ button {
 
 /* Prevent iOS bounce/overscroll on the body */
 html {
-  overscroll-behavior: none;
+  overscroll-behavior-y: none;
 }
 
-body {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  -webkit-overflow-scrolling: touch;
-}
-
-/* Ensure screens fill the viewport */
+/* Ensure screens fill the viewport and allow scrolling */
 .screen {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-}
-
-/* Prevent pull-to-refresh */
-body::before {
-  content: '';
-  position: fixed;
-  top: -100%;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
 }
 
 /* PWA standalone mode - extra spacing at bottom for home indicator */

@@ -3,7 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#6c63ff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="WordType">
+  <meta name="description" content="Learn English Grammar Through Play - WordType">
+  <meta name="mobile-web-app-capable" content="yes">
   <title>WordType - English Grammar Game</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192x192.png">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -278,5 +287,19 @@
   <script src="js/bossManager.js"></script>
   <script src="js/ui.js"></script>
   <script src="js/game.js"></script>
+  <script>
+    // Register Service Worker for PWA
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then((registration) => {
+            console.log('[PWA] Service Worker registered with scope:', registration.scope);
+          })
+          .catch((error) => {
+            console.error('[PWA] Service Worker registration failed:', error);
+          });
+      });
+    }
+  </script>
 </body>
 </html>

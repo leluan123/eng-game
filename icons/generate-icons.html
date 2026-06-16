@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Generate PWA Icons</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #1a1a2e; color: #fff; }
+    h1 { color: #6c63ff; }
+    .icon-preview { display: inline-block; margin: 10px; text-align: center; }
+    .icon-preview canvas { border: 1px solid #444; border-radius: 12px; }
+    .icon-preview p { margin-top: 5px; font-size: 14px; }
+    button { 
+      background: #6c63ff; color: white; border: none; padding: 12px 24px; 
+      border-radius: 8px; font-size: 16px; cursor: pointer; margin: 10px 5px;
+    }
+    button:hover { background: #5a52d5; }
+    #download-all { background: #27ae60; font-size: 18px; padding: 15px 30px; }
+    #download-all:hover { background: #219a52; }
+  </style>
+</head>
+<body>
+  <h1>🎨 WordType PWA Icon Generator</h1>
+  <p>Click "Download All" to save all icon sizes to your <code>icons/</code> folder.</p>
+  
+  <button id="download-all">⬇ Download All Icons</button>
+  <div id="previews"></div>
+
+  <script>
+    const SIZES = [72, 96, 128, 144, 152, 192, 384, 512];
+    const previews = document.getElementById('previews');
+    const canvases = [];
+
+    function drawIcon(canvas, size) {
+      const ctx = canvas.getContext('2d');
+      const r = size / 2;
+      
+      // Background circle
+      const gradient = ctx.createRadialGradient(r, r, 0, r, r, r);
+      gradient.addColorStop(0, '#8b85ff');
+      gradient.addColorStop(1, '#6c63ff');
+      ctx.beginPath();
+      ctx.arc(r, r, r, 0, Math.PI * 2);
+      ctx.fillStyle = gradient;
+      ctx.fill();
+      
+      // "En" text
+      ctx.fillStyle = '#ffffff';
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.font = `bold ${size * 0.35}px Arial, sans-serif`;
+      ctx.fillText('En', r, r - size * 0.02);
+      
+      // Small star
+      ctx.font = `${size * 0.12}px Arial, sans-serif`;
+      ctx.fillText('⭐', r, r + size * 0.25);
+    }
+
+    // Create canvases
+    SIZES.forEach(size => {
+      const container = document.createElement('div');
+      container.className = 'icon-preview';
+      
+      const canvas = document.createElement('canvas');
+      canvas.width = size;
+      canvas.height = size;
+      canvas.id = `icon-${size}`;
+      drawIcon(canvas, size);
+      
+      const label = document.createElement('p');
+      label.textContent = `${size}x${size}`;
+      
+      container.appendChild(canvas);
+      container.appendChild(label);
+      previews.appendChild(container);
+      canvases.push({ canvas, size });
+    });
+
+    // Download all
+    document.getElementById('download-all').addEventListener('click', () => {
+      canvases.forEach(({ canvas, size }) => {
+        const link = document.createElement('a');
+        link.download = `icon-${size}x${size}.png`;
+        link.href = canvas.toDataURL('image/png');
+        link.click();
+      });
+      alert('All icons downloaded! Place them in the icons/ folder.');
+    });
+  </script>
+</body>
+</html>

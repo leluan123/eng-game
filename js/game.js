@@ -36,6 +36,19 @@ class Game {
     this.dataLoaded = false;
   }
 
+  // PWA Haptic Feedback - provides vibration on supported devices
+  _haptic(type = 'light') {
+    if ('vibrate' in navigator) {
+      switch (type) {
+        case 'light': navigator.vibrate(10); break;   // Button press
+        case 'medium': navigator.vibrate(25); break;  // Correct answer
+        case 'heavy': navigator.vibrate(50); break;   // Wrong answer / boss hit
+        case 'success': navigator.vibrate([20, 50, 20]); break; // Victory
+        case 'error': navigator.vibrate([50, 30, 50]); break;  // Game over
+      }
+    }
+  }
+
   async init() {
     try {
       document.querySelector('.btn-primary').textContent = 'Loading...';
@@ -76,7 +89,7 @@ class Game {
   }
 
   _setupEventListeners() {
-    document.getElementById('btn-play').addEventListener('click', () => this._startLevel(this.currentLevel));
+    document.getElementById('btn-play').addEventListener('click', () => { this._haptic('light'); this._startLevel(this.currentLevel); });
     document.getElementById('btn-levels').addEventListener('click', () => this._showLevelsScreen());
     document.getElementById('btn-stats').addEventListener('click', () => this._showStatsScreen());
     document.getElementById('btn-levels-back').addEventListener('click', () => this._showMenu());
@@ -84,10 +97,10 @@ class Game {
     document.getElementById('btn-reset-stats').addEventListener('click', () => this._resetStats());
 
     this.ui.answerButtons.forEach(btn => {
-      btn.addEventListener('click', (e) => this._handleAnswer(e.currentTarget.dataset.type));
+      btn.addEventListener('click', (e) => { this._haptic('light'); this._handleAnswer(e.currentTarget.dataset.type); });
     });
 
-    document.addEventListener('ui:bossAnswer', (e) => this._handleBossAnswer(e.detail.answer));
+    document.addEventListener('ui:bossAnswer', (e) => { this._haptic('light'); this._handleBossAnswer(e.detail.answer); });
     document.addEventListener('ui:playLevel', (e) => this._startLevel(e.detail.level));
 
     document.getElementById('btn-next-level').addEventListener('click', () => this._goToNextLevel());

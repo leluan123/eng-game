@@ -1,0 +1,5223 @@
+[
+  {
+    "id": 551,
+    "word": "success",
+    "type": "noun",
+    "family": "success",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự thành công",
+    "hint": "Nhóm từ: success (noun)",
+    "confusionWords": [
+      "succeed",
+      "successful",
+      "successfully"
+    ]
+  },
+  {
+    "id": 552,
+    "word": "succeed",
+    "type": "verb",
+    "family": "success",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thành công",
+    "hint": "Nhóm từ: success (verb)",
+    "confusionWords": [
+      "success",
+      "successful",
+      "successfully"
+    ]
+  },
+  {
+    "id": 553,
+    "word": "successful",
+    "type": "adjective",
+    "family": "success",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thành công",
+    "hint": "Nhóm từ: success (adjective)",
+    "confusionWords": [
+      "success",
+      "succeed",
+      "successfully"
+    ]
+  },
+  {
+    "id": 554,
+    "word": "successfully",
+    "type": "adverb",
+    "family": "success",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thành công",
+    "hint": "Nhóm từ: success (adverb)",
+    "confusionWords": [
+      "success",
+      "succeed",
+      "successful"
+    ]
+  },
+  {
+    "id": 555,
+    "word": "beauty",
+    "type": "noun",
+    "family": "beauty",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "vẻ đẹp",
+    "hint": "Nhóm từ: beauty (noun)",
+    "confusionWords": [
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ]
+  },
+  {
+    "id": 556,
+    "word": "beautify",
+    "type": "verb",
+    "family": "beauty",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm đẹp",
+    "hint": "Nhóm từ: beauty (verb)",
+    "confusionWords": [
+      "beauty",
+      "beautiful",
+      "beautifully"
+    ]
+  },
+  {
+    "id": 557,
+    "word": "beautiful",
+    "type": "adjective",
+    "family": "beauty",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "xinh đẹp",
+    "hint": "Nhóm từ: beauty (adjective)",
+    "confusionWords": [
+      "beauty",
+      "beautify",
+      "beautifully"
+    ]
+  },
+  {
+    "id": 558,
+    "word": "beautifully",
+    "type": "adverb",
+    "family": "beauty",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách xinh đẹp",
+    "hint": "Nhóm từ: beauty (adverb)",
+    "confusionWords": [
+      "beauty",
+      "beautify",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 559,
+    "word": "care",
+    "type": "noun",
+    "family": "care",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự cẩn thận",
+    "hint": "Nhóm từ: care (noun)",
+    "confusionWords": [
+      "careful",
+      "carefully"
+    ]
+  },
+  {
+    "id": 560,
+    "word": "careful",
+    "type": "adjective",
+    "family": "care",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "cẩn thận",
+    "hint": "Nhóm từ: care (adjective)",
+    "confusionWords": [
+      "care",
+      "care",
+      "carefully"
+    ]
+  },
+  {
+    "id": 561,
+    "word": "carefully",
+    "type": "adverb",
+    "family": "care",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách cẩn thận",
+    "hint": "Nhóm từ: care (adverb)",
+    "confusionWords": [
+      "care",
+      "care",
+      "careful"
+    ]
+  },
+  {
+    "id": 562,
+    "word": "health",
+    "type": "noun",
+    "family": "health",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sức khỏe",
+    "hint": "Nhóm từ: health (noun)",
+    "confusionWords": [
+      "heal",
+      "healthy",
+      "healthily"
+    ]
+  },
+  {
+    "id": 563,
+    "word": "heal",
+    "type": "verb",
+    "family": "health",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "chữa lành",
+    "hint": "Nhóm từ: health (verb)",
+    "confusionWords": [
+      "health",
+      "healthy",
+      "healthily"
+    ]
+  },
+  {
+    "id": 564,
+    "word": "healthy",
+    "type": "adjective",
+    "family": "health",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "khỏe mạnh",
+    "hint": "Nhóm từ: health (adjective)",
+    "confusionWords": [
+      "health",
+      "heal",
+      "healthily"
+    ]
+  },
+  {
+    "id": 565,
+    "word": "healthily",
+    "type": "adverb",
+    "family": "health",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách lành mạnh",
+    "hint": "Nhóm từ: health (adverb)",
+    "confusionWords": [
+      "health",
+      "heal",
+      "healthy"
+    ]
+  },
+  {
+    "id": 566,
+    "word": "education",
+    "type": "noun",
+    "family": "educate",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "nền giáo dục",
+    "hint": "Nhóm từ: educate (noun)",
+    "confusionWords": [
+      "educate",
+      "educational",
+      "educationally"
+    ]
+  },
+  {
+    "id": 567,
+    "word": "educate",
+    "type": "verb",
+    "family": "educate",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "giáo dục",
+    "hint": "Nhóm từ: educate (verb)",
+    "confusionWords": [
+      "education",
+      "educational",
+      "educationally"
+    ]
+  },
+  {
+    "id": 568,
+    "word": "educational",
+    "type": "adjective",
+    "family": "educate",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "mang tính giáo dục",
+    "hint": "Nhóm từ: educate (adjective)",
+    "confusionWords": [
+      "education",
+      "educate",
+      "educationally"
+    ]
+  },
+  {
+    "id": 569,
+    "word": "educationally",
+    "type": "adverb",
+    "family": "educate",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt giáo dục",
+    "hint": "Nhóm từ: educate (adverb)",
+    "confusionWords": [
+      "education",
+      "educate",
+      "educational"
+    ]
+  },
+  {
+    "id": 570,
+    "word": "creation",
+    "type": "noun",
+    "family": "create",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự sáng tạo",
+    "hint": "Nhóm từ: create (noun)",
+    "confusionWords": [
+      "create",
+      "creative",
+      "creatively"
+    ]
+  },
+  {
+    "id": 571,
+    "word": "create",
+    "type": "verb",
+    "family": "create",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sáng tạo",
+    "hint": "Nhóm từ: create (verb)",
+    "confusionWords": [
+      "creation",
+      "creative",
+      "creatively"
+    ]
+  },
+  {
+    "id": 572,
+    "word": "creative",
+    "type": "adjective",
+    "family": "create",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sáng tạo",
+    "hint": "Nhóm từ: create (adjective)",
+    "confusionWords": [
+      "creation",
+      "create",
+      "creatively"
+    ]
+  },
+  {
+    "id": 573,
+    "word": "creatively",
+    "type": "adverb",
+    "family": "create",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách sáng tạo",
+    "hint": "Nhóm từ: create (adverb)",
+    "confusionWords": [
+      "creation",
+      "create",
+      "creative"
+    ]
+  },
+  {
+    "id": 574,
+    "word": "decision",
+    "type": "noun",
+    "family": "decide",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự quyết định",
+    "hint": "Nhóm từ: decide (noun)",
+    "confusionWords": [
+      "decide",
+      "decisive",
+      "decisively"
+    ]
+  },
+  {
+    "id": 575,
+    "word": "decide",
+    "type": "verb",
+    "family": "decide",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "quyết định",
+    "hint": "Nhóm từ: decide (verb)",
+    "confusionWords": [
+      "decision",
+      "decisive",
+      "decisively"
+    ]
+  },
+  {
+    "id": 576,
+    "word": "decisive",
+    "type": "adjective",
+    "family": "decide",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "kiên quyết",
+    "hint": "Nhóm từ: decide (adjective)",
+    "confusionWords": [
+      "decision",
+      "decide",
+      "decisively"
+    ]
+  },
+  {
+    "id": 577,
+    "word": "decisively",
+    "type": "adverb",
+    "family": "decide",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách kiên quyết",
+    "hint": "Nhóm từ: decide (adverb)",
+    "confusionWords": [
+      "decision",
+      "decide",
+      "decisive"
+    ]
+  },
+  {
+    "id": 578,
+    "word": "development",
+    "type": "noun",
+    "family": "develop",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự phát triển",
+    "hint": "Nhóm từ: develop (noun)",
+    "confusionWords": [
+      "develop",
+      "developing",
+      "developingly"
+    ]
+  },
+  {
+    "id": 579,
+    "word": "develop",
+    "type": "verb",
+    "family": "develop",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "phát triển",
+    "hint": "Nhóm từ: develop (verb)",
+    "confusionWords": [
+      "development",
+      "developing",
+      "developingly"
+    ]
+  },
+  {
+    "id": 580,
+    "word": "developing",
+    "type": "adjective",
+    "family": "develop",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đang phát triển",
+    "hint": "Nhóm từ: develop (adjective)",
+    "confusionWords": [
+      "development",
+      "develop",
+      "developingly"
+    ]
+  },
+  {
+    "id": 581,
+    "word": "developingly",
+    "type": "adverb",
+    "family": "develop",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách phát triển",
+    "hint": "Nhóm từ: develop (adverb)",
+    "confusionWords": [
+      "development",
+      "develop",
+      "developing"
+    ]
+  },
+  {
+    "id": 582,
+    "word": "interest",
+    "type": "noun",
+    "family": "interest",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự quan tâm",
+    "hint": "Nhóm từ: interest (noun)",
+    "confusionWords": [
+      "interesting",
+      "interestingly"
+    ]
+  },
+  {
+    "id": 583,
+    "word": "interesting",
+    "type": "adjective",
+    "family": "interest",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thú vị",
+    "hint": "Nhóm từ: interest (adjective)",
+    "confusionWords": [
+      "interest",
+      "interest",
+      "interestingly"
+    ]
+  },
+  {
+    "id": 584,
+    "word": "interestingly",
+    "type": "adverb",
+    "family": "interest",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thú vị",
+    "hint": "Nhóm từ: interest (adverb)",
+    "confusionWords": [
+      "interest",
+      "interest",
+      "interesting"
+    ]
+  },
+  {
+    "id": 585,
+    "word": "friendship",
+    "type": "noun",
+    "family": "friend",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "tình bạn",
+    "hint": "Nhóm từ: friend (noun)",
+    "confusionWords": [
+      "befriend",
+      "friendly",
+      "friendlily"
+    ]
+  },
+  {
+    "id": 586,
+    "word": "befriend",
+    "type": "verb",
+    "family": "friend",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "kết bạn",
+    "hint": "Nhóm từ: friend (verb)",
+    "confusionWords": [
+      "friendship",
+      "friendly",
+      "friendlily"
+    ]
+  },
+  {
+    "id": 587,
+    "word": "friendly",
+    "type": "adjective",
+    "family": "friend",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thân thiện",
+    "hint": "Nhóm từ: friend (adjective)",
+    "confusionWords": [
+      "friendship",
+      "befriend",
+      "friendlily"
+    ]
+  },
+  {
+    "id": 588,
+    "word": "friendlily",
+    "type": "adverb",
+    "family": "friend",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thân thiện",
+    "hint": "Nhóm từ: friend (adverb)",
+    "confusionWords": [
+      "friendship",
+      "befriend",
+      "friendly"
+    ]
+  },
+  {
+    "id": 589,
+    "word": "danger",
+    "type": "noun",
+    "family": "danger",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự nguy hiểm",
+    "hint": "Nhóm từ: danger (noun)",
+    "confusionWords": [
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ]
+  },
+  {
+    "id": 590,
+    "word": "endanger",
+    "type": "verb",
+    "family": "danger",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "gây nguy hiểm",
+    "hint": "Nhóm từ: danger (verb)",
+    "confusionWords": [
+      "danger",
+      "dangerous",
+      "dangerously"
+    ]
+  },
+  {
+    "id": 591,
+    "word": "dangerous",
+    "type": "adjective",
+    "family": "danger",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "nguy hiểm",
+    "hint": "Nhóm từ: danger (adjective)",
+    "confusionWords": [
+      "danger",
+      "endanger",
+      "dangerously"
+    ]
+  },
+  {
+    "id": 592,
+    "word": "dangerously",
+    "type": "adverb",
+    "family": "danger",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách nguy hiểm",
+    "hint": "Nhóm từ: danger (adverb)",
+    "confusionWords": [
+      "danger",
+      "endanger",
+      "dangerous"
+    ]
+  },
+  {
+    "id": 593,
+    "word": "use",
+    "type": "noun",
+    "family": "use",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự sử dụng",
+    "hint": "Nhóm từ: use (noun)",
+    "confusionWords": [
+      "useful",
+      "usefully"
+    ]
+  },
+  {
+    "id": 594,
+    "word": "useful",
+    "type": "adjective",
+    "family": "use",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hữu ích",
+    "hint": "Nhóm từ: use (adjective)",
+    "confusionWords": [
+      "use",
+      "use",
+      "usefully"
+    ]
+  },
+  {
+    "id": 595,
+    "word": "usefully",
+    "type": "adverb",
+    "family": "use",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách hữu ích",
+    "hint": "Nhóm từ: use (adverb)",
+    "confusionWords": [
+      "use",
+      "use",
+      "useful"
+    ]
+  },
+  {
+    "id": 596,
+    "word": "help",
+    "type": "noun",
+    "family": "help",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự giúp đỡ",
+    "hint": "Nhóm từ: help (noun)",
+    "confusionWords": [
+      "helpful",
+      "helpfully"
+    ]
+  },
+  {
+    "id": 597,
+    "word": "helpful",
+    "type": "adjective",
+    "family": "help",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "có ích",
+    "hint": "Nhóm từ: help (adjective)",
+    "confusionWords": [
+      "help",
+      "help",
+      "helpfully"
+    ]
+  },
+  {
+    "id": 598,
+    "word": "helpfully",
+    "type": "adverb",
+    "family": "help",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách có ích",
+    "hint": "Nhóm từ: help (adverb)",
+    "confusionWords": [
+      "help",
+      "help",
+      "helpful"
+    ]
+  },
+  {
+    "id": 599,
+    "word": "comfort",
+    "type": "noun",
+    "family": "comfort",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự thoải mái",
+    "hint": "Nhóm từ: comfort (noun)",
+    "confusionWords": [
+      "comfortable",
+      "comfortably"
+    ]
+  },
+  {
+    "id": 600,
+    "word": "comfortable",
+    "type": "adjective",
+    "family": "comfort",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thoải mái",
+    "hint": "Nhóm từ: comfort (adjective)",
+    "confusionWords": [
+      "comfort",
+      "comfort",
+      "comfortably"
+    ]
+  },
+  {
+    "id": 601,
+    "word": "comfortably",
+    "type": "adverb",
+    "family": "comfort",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thoải mái",
+    "hint": "Nhóm từ: comfort (adverb)",
+    "confusionWords": [
+      "comfort",
+      "comfort",
+      "comfortable"
+    ]
+  },
+  {
+    "id": 602,
+    "word": "power",
+    "type": "noun",
+    "family": "power",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sức mạnh",
+    "hint": "Nhóm từ: power (noun)",
+    "confusionWords": [
+      "empower",
+      "powerful",
+      "powerfully"
+    ]
+  },
+  {
+    "id": 603,
+    "word": "empower",
+    "type": "verb",
+    "family": "power",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "trao quyền",
+    "hint": "Nhóm từ: power (verb)",
+    "confusionWords": [
+      "power",
+      "powerful",
+      "powerfully"
+    ]
+  },
+  {
+    "id": 604,
+    "word": "powerful",
+    "type": "adjective",
+    "family": "power",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "mạnh mẽ",
+    "hint": "Nhóm từ: power (adjective)",
+    "confusionWords": [
+      "power",
+      "empower",
+      "powerfully"
+    ]
+  },
+  {
+    "id": 605,
+    "word": "powerfully",
+    "type": "adverb",
+    "family": "power",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách mạnh mẽ",
+    "hint": "Nhóm từ: power (adverb)",
+    "confusionWords": [
+      "power",
+      "empower",
+      "powerful"
+    ]
+  },
+  {
+    "id": 606,
+    "word": "peace",
+    "type": "noun",
+    "family": "peace",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "hòa bình",
+    "hint": "Nhóm từ: peace (noun)",
+    "confusionWords": [
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ]
+  },
+  {
+    "id": 607,
+    "word": "pacify",
+    "type": "verb",
+    "family": "peace",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm yên lòng",
+    "hint": "Nhóm từ: peace (verb)",
+    "confusionWords": [
+      "peace",
+      "peaceful",
+      "peacefully"
+    ]
+  },
+  {
+    "id": 608,
+    "word": "peaceful",
+    "type": "adjective",
+    "family": "peace",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "yên bình",
+    "hint": "Nhóm từ: peace (adjective)",
+    "confusionWords": [
+      "peace",
+      "pacify",
+      "peacefully"
+    ]
+  },
+  {
+    "id": 609,
+    "word": "peacefully",
+    "type": "adverb",
+    "family": "peace",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách hòa bình",
+    "hint": "Nhóm từ: peace (adverb)",
+    "confusionWords": [
+      "peace",
+      "pacify",
+      "peaceful"
+    ]
+  },
+  {
+    "id": 610,
+    "word": "nation",
+    "type": "noun",
+    "family": "nation",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "quốc gia",
+    "hint": "Nhóm từ: nation (noun)",
+    "confusionWords": [
+      "nationalize",
+      "national",
+      "nationally"
+    ]
+  },
+  {
+    "id": 611,
+    "word": "nationalize",
+    "type": "verb",
+    "family": "nation",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "quốc gia hóa",
+    "hint": "Nhóm từ: nation (verb)",
+    "confusionWords": [
+      "nation",
+      "national",
+      "nationally"
+    ]
+  },
+  {
+    "id": 612,
+    "word": "national",
+    "type": "adjective",
+    "family": "nation",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc quốc gia",
+    "hint": "Nhóm từ: nation (adjective)",
+    "confusionWords": [
+      "nation",
+      "nationalize",
+      "nationally"
+    ]
+  },
+  {
+    "id": 613,
+    "word": "nationally",
+    "type": "adverb",
+    "family": "nation",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "trên toàn quốc",
+    "hint": "Nhóm từ: nation (adverb)",
+    "confusionWords": [
+      "nation",
+      "nationalize",
+      "national"
+    ]
+  },
+  {
+    "id": 614,
+    "word": "culture",
+    "type": "noun",
+    "family": "culture",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "văn hóa",
+    "hint": "Nhóm từ: culture (noun)",
+    "confusionWords": [
+      "cultivate",
+      "cultural",
+      "culturally"
+    ]
+  },
+  {
+    "id": 615,
+    "word": "cultivate",
+    "type": "verb",
+    "family": "culture",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "trau dồi",
+    "hint": "Nhóm từ: culture (verb)",
+    "confusionWords": [
+      "culture",
+      "cultural",
+      "culturally"
+    ]
+  },
+  {
+    "id": 616,
+    "word": "cultural",
+    "type": "adjective",
+    "family": "culture",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc văn hóa",
+    "hint": "Nhóm từ: culture (adjective)",
+    "confusionWords": [
+      "culture",
+      "cultivate",
+      "culturally"
+    ]
+  },
+  {
+    "id": 617,
+    "word": "culturally",
+    "type": "adverb",
+    "family": "culture",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt văn hóa",
+    "hint": "Nhóm từ: culture (adverb)",
+    "confusionWords": [
+      "culture",
+      "cultivate",
+      "cultural"
+    ]
+  },
+  {
+    "id": 618,
+    "word": "science",
+    "type": "noun",
+    "family": "science",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "khoa học",
+    "hint": "Nhóm từ: science (noun)",
+    "confusionWords": [
+      "scientific",
+      "scientifically"
+    ]
+  },
+  {
+    "id": 619,
+    "word": "scientific",
+    "type": "adjective",
+    "family": "science",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc khoa học",
+    "hint": "Nhóm từ: science (adjective)",
+    "confusionWords": [
+      "science",
+      "science",
+      "scientifically"
+    ]
+  },
+  {
+    "id": 620,
+    "word": "scientifically",
+    "type": "adverb",
+    "family": "science",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt khoa học",
+    "hint": "Nhóm từ: science (adverb)",
+    "confusionWords": [
+      "science",
+      "science",
+      "scientific"
+    ]
+  },
+  {
+    "id": 621,
+    "word": "music",
+    "type": "noun",
+    "family": "music",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "âm nhạc",
+    "hint": "Nhóm từ: music (noun)",
+    "confusionWords": [
+      "musical",
+      "musically"
+    ]
+  },
+  {
+    "id": 622,
+    "word": "musical",
+    "type": "adjective",
+    "family": "music",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc âm nhạc",
+    "hint": "Nhóm từ: music (adjective)",
+    "confusionWords": [
+      "music",
+      "music",
+      "musically"
+    ]
+  },
+  {
+    "id": 623,
+    "word": "musically",
+    "type": "adverb",
+    "family": "music",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt âm nhạc",
+    "hint": "Nhóm từ: music (adverb)",
+    "confusionWords": [
+      "music",
+      "music",
+      "musical"
+    ]
+  },
+  {
+    "id": 624,
+    "word": "industry",
+    "type": "noun",
+    "family": "industry",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "công nghiệp",
+    "hint": "Nhóm từ: industry (noun)",
+    "confusionWords": [
+      "industrialize",
+      "industrial",
+      "industrially"
+    ]
+  },
+  {
+    "id": 625,
+    "word": "industrialize",
+    "type": "verb",
+    "family": "industry",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "công nghiệp hóa",
+    "hint": "Nhóm từ: industry (verb)",
+    "confusionWords": [
+      "industry",
+      "industrial",
+      "industrially"
+    ]
+  },
+  {
+    "id": 626,
+    "word": "industrial",
+    "type": "adjective",
+    "family": "industry",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc công nghiệp",
+    "hint": "Nhóm từ: industry (adjective)",
+    "confusionWords": [
+      "industry",
+      "industrialize",
+      "industrially"
+    ]
+  },
+  {
+    "id": 627,
+    "word": "industrially",
+    "type": "adverb",
+    "family": "industry",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt công nghiệp",
+    "hint": "Nhóm từ: industry (adverb)",
+    "confusionWords": [
+      "industry",
+      "industrialize",
+      "industrial"
+    ]
+  },
+  {
+    "id": 628,
+    "word": "history",
+    "type": "noun",
+    "family": "history",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "lịch sử",
+    "hint": "Nhóm từ: history (noun)",
+    "confusionWords": [
+      "historic",
+      "historically"
+    ]
+  },
+  {
+    "id": 629,
+    "word": "historic",
+    "type": "adjective",
+    "family": "history",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "mang tính lịch sử",
+    "hint": "Nhóm từ: history (adjective)",
+    "confusionWords": [
+      "history",
+      "history",
+      "historically"
+    ]
+  },
+  {
+    "id": 630,
+    "word": "historically",
+    "type": "adverb",
+    "family": "history",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt lịch sử",
+    "hint": "Nhóm từ: history (adverb)",
+    "confusionWords": [
+      "history",
+      "history",
+      "historic"
+    ]
+  },
+  {
+    "id": 631,
+    "word": "nature",
+    "type": "noun",
+    "family": "nature",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "tự nhiên",
+    "hint": "Nhóm từ: nature (noun)",
+    "confusionWords": [
+      "naturalize",
+      "natural",
+      "naturally"
+    ]
+  },
+  {
+    "id": 632,
+    "word": "naturalize",
+    "type": "verb",
+    "family": "nature",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tự nhiên hóa",
+    "hint": "Nhóm từ: nature (verb)",
+    "confusionWords": [
+      "nature",
+      "natural",
+      "naturally"
+    ]
+  },
+  {
+    "id": 633,
+    "word": "natural",
+    "type": "adjective",
+    "family": "nature",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc tự nhiên",
+    "hint": "Nhóm từ: nature (adjective)",
+    "confusionWords": [
+      "nature",
+      "naturalize",
+      "naturally"
+    ]
+  },
+  {
+    "id": 634,
+    "word": "naturally",
+    "type": "adverb",
+    "family": "nature",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tự nhiên",
+    "hint": "Nhóm từ: nature (adverb)",
+    "confusionWords": [
+      "nature",
+      "naturalize",
+      "natural"
+    ]
+  },
+  {
+    "id": 635,
+    "word": "technology",
+    "type": "noun",
+    "family": "technology",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "công nghệ",
+    "hint": "Nhóm từ: technology (noun)",
+    "confusionWords": [
+      "technological",
+      "technologically"
+    ]
+  },
+  {
+    "id": 636,
+    "word": "technological",
+    "type": "adjective",
+    "family": "technology",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc công nghệ",
+    "hint": "Nhóm từ: technology (adjective)",
+    "confusionWords": [
+      "technology",
+      "technology",
+      "technologically"
+    ]
+  },
+  {
+    "id": 637,
+    "word": "technologically",
+    "type": "adverb",
+    "family": "technology",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt công nghệ",
+    "hint": "Nhóm từ: technology (adverb)",
+    "confusionWords": [
+      "technology",
+      "technology",
+      "technological"
+    ]
+  },
+  {
+    "id": 638,
+    "word": "environment",
+    "type": "noun",
+    "family": "environment",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "môi trường",
+    "hint": "Nhóm từ: environment (noun)",
+    "confusionWords": [
+      "environmental",
+      "environmentally"
+    ]
+  },
+  {
+    "id": 639,
+    "word": "environmental",
+    "type": "adjective",
+    "family": "environment",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc môi trường",
+    "hint": "Nhóm từ: environment (adjective)",
+    "confusionWords": [
+      "environment",
+      "environment",
+      "environmentally"
+    ]
+  },
+  {
+    "id": 640,
+    "word": "environmentally",
+    "type": "adverb",
+    "family": "environment",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt môi trường",
+    "hint": "Nhóm từ: environment (adverb)",
+    "confusionWords": [
+      "environment",
+      "environment",
+      "environmental"
+    ]
+  },
+  {
+    "id": 641,
+    "word": "communication",
+    "type": "noun",
+    "family": "communicate",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự giao tiếp",
+    "hint": "Nhóm từ: communicate (noun)",
+    "confusionWords": [
+      "communicate",
+      "communicative",
+      "communicatively"
+    ]
+  },
+  {
+    "id": 642,
+    "word": "communicate",
+    "type": "verb",
+    "family": "communicate",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "giao tiếp",
+    "hint": "Nhóm từ: communicate (verb)",
+    "confusionWords": [
+      "communication",
+      "communicative",
+      "communicatively"
+    ]
+  },
+  {
+    "id": 643,
+    "word": "communicative",
+    "type": "adjective",
+    "family": "communicate",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "cởi mở giao tiếp",
+    "hint": "Nhóm từ: communicate (adjective)",
+    "confusionWords": [
+      "communication",
+      "communicate",
+      "communicatively"
+    ]
+  },
+  {
+    "id": 644,
+    "word": "communicatively",
+    "type": "adverb",
+    "family": "communicate",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "bằng cách giao tiếp",
+    "hint": "Nhóm từ: communicate (adverb)",
+    "confusionWords": [
+      "communication",
+      "communicate",
+      "communicative"
+    ]
+  },
+  {
+    "id": 645,
+    "word": "celebration",
+    "type": "noun",
+    "family": "celebrate",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "lễ kỷ niệm",
+    "hint": "Nhóm từ: celebrate (noun)",
+    "confusionWords": [
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ]
+  },
+  {
+    "id": 646,
+    "word": "celebrate",
+    "type": "verb",
+    "family": "celebrate",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "ăn mừng",
+    "hint": "Nhóm từ: celebrate (verb)",
+    "confusionWords": [
+      "celebration",
+      "celebrated",
+      "celebratedly"
+    ]
+  },
+  {
+    "id": 647,
+    "word": "celebrated",
+    "type": "adjective",
+    "family": "celebrate",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "nổi tiếng",
+    "hint": "Nhóm từ: celebrate (adjective)",
+    "confusionWords": [
+      "celebration",
+      "celebrate",
+      "celebratedly"
+    ]
+  },
+  {
+    "id": 648,
+    "word": "celebratedly",
+    "type": "adverb",
+    "family": "celebrate",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách nổi tiếng",
+    "hint": "Nhóm từ: celebrate (adverb)",
+    "confusionWords": [
+      "celebration",
+      "celebrate",
+      "celebrated"
+    ]
+  },
+  {
+    "id": 649,
+    "word": "comparison",
+    "type": "noun",
+    "family": "compare",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự so sánh",
+    "hint": "Nhóm từ: compare (noun)",
+    "confusionWords": [
+      "compare",
+      "comparative",
+      "comparatively"
+    ]
+  },
+  {
+    "id": 650,
+    "word": "compare",
+    "type": "verb",
+    "family": "compare",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "so sánh",
+    "hint": "Nhóm từ: compare (verb)",
+    "confusionWords": [
+      "comparison",
+      "comparative",
+      "comparatively"
+    ]
+  },
+  {
+    "id": 651,
+    "word": "comparative",
+    "type": "adjective",
+    "family": "compare",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "so sánh",
+    "hint": "Nhóm từ: compare (adjective)",
+    "confusionWords": [
+      "comparison",
+      "compare",
+      "comparatively"
+    ]
+  },
+  {
+    "id": 652,
+    "word": "comparatively",
+    "type": "adverb",
+    "family": "compare",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "tương đối",
+    "hint": "Nhóm từ: compare (adverb)",
+    "confusionWords": [
+      "comparison",
+      "compare",
+      "comparative"
+    ]
+  },
+  {
+    "id": 653,
+    "word": "protection",
+    "type": "noun",
+    "family": "protect",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự bảo vệ",
+    "hint": "Nhóm từ: protect (noun)",
+    "confusionWords": [
+      "protect",
+      "protective",
+      "protectively"
+    ]
+  },
+  {
+    "id": 654,
+    "word": "protect",
+    "type": "verb",
+    "family": "protect",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "bảo vệ",
+    "hint": "Nhóm từ: protect (verb)",
+    "confusionWords": [
+      "protection",
+      "protective",
+      "protectively"
+    ]
+  },
+  {
+    "id": 655,
+    "word": "protective",
+    "type": "adjective",
+    "family": "protect",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "bảo vệ",
+    "hint": "Nhóm từ: protect (adjective)",
+    "confusionWords": [
+      "protection",
+      "protect",
+      "protectively"
+    ]
+  },
+  {
+    "id": 656,
+    "word": "protectively",
+    "type": "adverb",
+    "family": "protect",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách bảo vệ",
+    "hint": "Nhóm từ: protect (adverb)",
+    "confusionWords": [
+      "protection",
+      "protect",
+      "protective"
+    ]
+  },
+  {
+    "id": 657,
+    "word": "organization",
+    "type": "noun",
+    "family": "organize",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "tổ chức",
+    "hint": "Nhóm từ: organize (noun)",
+    "confusionWords": [
+      "organize",
+      "organizational",
+      "organizationally"
+    ]
+  },
+  {
+    "id": 658,
+    "word": "organize",
+    "type": "verb",
+    "family": "organize",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tổ chức",
+    "hint": "Nhóm từ: organize (verb)",
+    "confusionWords": [
+      "organization",
+      "organizational",
+      "organizationally"
+    ]
+  },
+  {
+    "id": 659,
+    "word": "organizational",
+    "type": "adjective",
+    "family": "organize",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc tổ chức",
+    "hint": "Nhóm từ: organize (adjective)",
+    "confusionWords": [
+      "organization",
+      "organize",
+      "organizationally"
+    ]
+  },
+  {
+    "id": 660,
+    "word": "organizationally",
+    "type": "adverb",
+    "family": "organize",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt tổ chức",
+    "hint": "Nhóm từ: organize (adverb)",
+    "confusionWords": [
+      "organization",
+      "organize",
+      "organizational"
+    ]
+  },
+  {
+    "id": 661,
+    "word": "support",
+    "type": "noun",
+    "family": "support",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự ủng hộ",
+    "hint": "Nhóm từ: support (noun)",
+    "confusionWords": [
+      "supportive",
+      "supportively"
+    ]
+  },
+  {
+    "id": 662,
+    "word": "supportive",
+    "type": "adjective",
+    "family": "support",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đỡ đầu, ủng hộ",
+    "hint": "Nhóm từ: support (adjective)",
+    "confusionWords": [
+      "support",
+      "support",
+      "supportively"
+    ]
+  },
+  {
+    "id": 663,
+    "word": "supportively",
+    "type": "adverb",
+    "family": "support",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách ủng hộ",
+    "hint": "Nhóm từ: support (adverb)",
+    "confusionWords": [
+      "support",
+      "support",
+      "supportive"
+    ]
+  },
+  {
+    "id": 664,
+    "word": "action",
+    "type": "noun",
+    "family": "act",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "hành động",
+    "hint": "Nhóm từ: act (noun)",
+    "confusionWords": [
+      "act",
+      "active",
+      "actively"
+    ]
+  },
+  {
+    "id": 665,
+    "word": "act",
+    "type": "verb",
+    "family": "act",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hành động",
+    "hint": "Nhóm từ: act (verb)",
+    "confusionWords": [
+      "action",
+      "active",
+      "actively"
+    ]
+  },
+  {
+    "id": 666,
+    "word": "active",
+    "type": "adjective",
+    "family": "act",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "năng động",
+    "hint": "Nhóm từ: act (adjective)",
+    "confusionWords": [
+      "action",
+      "act",
+      "actively"
+    ]
+  },
+  {
+    "id": 667,
+    "word": "actively",
+    "type": "adverb",
+    "family": "act",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách chủ động",
+    "hint": "Nhóm từ: act (adverb)",
+    "confusionWords": [
+      "action",
+      "act",
+      "active"
+    ]
+  },
+  {
+    "id": 668,
+    "word": "attraction",
+    "type": "noun",
+    "family": "attract",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự thu hút",
+    "hint": "Nhóm từ: attract (noun)",
+    "confusionWords": [
+      "attract",
+      "attractive",
+      "attractively"
+    ]
+  },
+  {
+    "id": 669,
+    "word": "attract",
+    "type": "verb",
+    "family": "attract",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thu hút",
+    "hint": "Nhóm từ: attract (verb)",
+    "confusionWords": [
+      "attraction",
+      "attractive",
+      "attractively"
+    ]
+  },
+  {
+    "id": 670,
+    "word": "attractive",
+    "type": "adjective",
+    "family": "attract",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hấp dẫn",
+    "hint": "Nhóm từ: attract (adjective)",
+    "confusionWords": [
+      "attraction",
+      "attract",
+      "attractively"
+    ]
+  },
+  {
+    "id": 671,
+    "word": "attractively",
+    "type": "adverb",
+    "family": "attract",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách hấp dẫn",
+    "hint": "Nhóm từ: attract (adverb)",
+    "confusionWords": [
+      "attraction",
+      "attract",
+      "attractive"
+    ]
+  },
+  {
+    "id": 672,
+    "word": "sadness",
+    "type": "noun",
+    "family": "sad",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "nỗi buồn",
+    "hint": "Nhóm từ: sad (noun)",
+    "confusionWords": [
+      "sadden",
+      "sad",
+      "sadly"
+    ]
+  },
+  {
+    "id": 673,
+    "word": "sadden",
+    "type": "verb",
+    "family": "sad",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm buồn",
+    "hint": "Nhóm từ: sad (verb)",
+    "confusionWords": [
+      "sadness",
+      "sad",
+      "sadly"
+    ]
+  },
+  {
+    "id": 674,
+    "word": "sad",
+    "type": "adjective",
+    "family": "sad",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "buồn bã",
+    "hint": "Nhóm từ: sad (adjective)",
+    "confusionWords": [
+      "sadness",
+      "sadden",
+      "sadly"
+    ]
+  },
+  {
+    "id": 675,
+    "word": "sadly",
+    "type": "adverb",
+    "family": "sad",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách buồn bã",
+    "hint": "Nhóm từ: sad (adverb)",
+    "confusionWords": [
+      "sadness",
+      "sadden",
+      "sad"
+    ]
+  },
+  {
+    "id": 676,
+    "word": "happiness",
+    "type": "noun",
+    "family": "happy",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "niềm hạnh phúc",
+    "hint": "Nhóm từ: happy (noun)",
+    "confusionWords": [
+      "happy",
+      "happy",
+      "happily"
+    ]
+  },
+  {
+    "id": 677,
+    "word": "happy",
+    "type": "verb",
+    "family": "happy",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hạnh phúc",
+    "hint": "Nhóm từ: happy (verb)",
+    "confusionWords": [
+      "happiness",
+      "happily"
+    ]
+  },
+  {
+    "id": 678,
+    "word": "happily",
+    "type": "adverb",
+    "family": "happy",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách vui vẻ",
+    "hint": "Nhóm từ: happy (adverb)",
+    "confusionWords": [
+      "happiness",
+      "happy",
+      "happy"
+    ]
+  },
+  {
+    "id": 679,
+    "word": "ability",
+    "type": "noun",
+    "family": "able",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "khả năng",
+    "hint": "Nhóm từ: able (noun)",
+    "confusionWords": [
+      "enable",
+      "able",
+      "ably"
+    ]
+  },
+  {
+    "id": 680,
+    "word": "enable",
+    "type": "verb",
+    "family": "able",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "cho phép",
+    "hint": "Nhóm từ: able (verb)",
+    "confusionWords": [
+      "ability",
+      "able",
+      "ably"
+    ]
+  },
+  {
+    "id": 681,
+    "word": "able",
+    "type": "adjective",
+    "family": "able",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "có thể",
+    "hint": "Nhóm từ: able (adjective)",
+    "confusionWords": [
+      "ability",
+      "enable",
+      "ably"
+    ]
+  },
+  {
+    "id": 682,
+    "word": "ably",
+    "type": "adverb",
+    "family": "able",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách có tài",
+    "hint": "Nhóm từ: able (adverb)",
+    "confusionWords": [
+      "ability",
+      "enable",
+      "able"
+    ]
+  },
+  {
+    "id": 683,
+    "word": "direction",
+    "type": "noun",
+    "family": "direct",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "hướng đi",
+    "hint": "Nhóm từ: direct (noun)",
+    "confusionWords": [
+      "direct",
+      "direct",
+      "directly"
+    ]
+  },
+  {
+    "id": 684,
+    "word": "direct",
+    "type": "verb",
+    "family": "direct",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hướng dẫn",
+    "hint": "Nhóm từ: direct (verb)",
+    "confusionWords": [
+      "direction",
+      "directly"
+    ]
+  },
+  {
+    "id": 685,
+    "word": "directly",
+    "type": "adverb",
+    "family": "direct",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách trực tiếp",
+    "hint": "Nhóm từ: direct (adverb)",
+    "confusionWords": [
+      "direction",
+      "direct",
+      "direct"
+    ]
+  },
+  {
+    "id": 686,
+    "word": "excite",
+    "type": "noun",
+    "family": "excite",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự phấn khích",
+    "hint": "Nhóm từ: excite (noun)",
+    "confusionWords": [
+      "exciting",
+      "excitingly"
+    ]
+  },
+  {
+    "id": 687,
+    "word": "exciting",
+    "type": "adjective",
+    "family": "excite",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thú vị, phấn khích",
+    "hint": "Nhóm từ: excite (adjective)",
+    "confusionWords": [
+      "excite",
+      "excite",
+      "excitingly"
+    ]
+  },
+  {
+    "id": 688,
+    "word": "excitingly",
+    "type": "adverb",
+    "family": "excite",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách phấn khích",
+    "hint": "Nhóm từ: excite (adverb)",
+    "confusionWords": [
+      "excite",
+      "excite",
+      "exciting"
+    ]
+  },
+  {
+    "id": 689,
+    "word": "fame",
+    "type": "noun",
+    "family": "fame",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự nổi tiếng",
+    "hint": "Nhóm từ: fame (noun)",
+    "confusionWords": [
+      "defame",
+      "famous",
+      "famously"
+    ]
+  },
+  {
+    "id": 690,
+    "word": "defame",
+    "type": "verb",
+    "family": "fame",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "nói xấu",
+    "hint": "Nhóm từ: fame (verb)",
+    "confusionWords": [
+      "fame",
+      "famous",
+      "famously"
+    ]
+  },
+  {
+    "id": 691,
+    "word": "famous",
+    "type": "adjective",
+    "family": "fame",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "nổi tiếng",
+    "hint": "Nhóm từ: fame (adjective)",
+    "confusionWords": [
+      "fame",
+      "defame",
+      "famously"
+    ]
+  },
+  {
+    "id": 692,
+    "word": "famously",
+    "type": "adverb",
+    "family": "fame",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách nổi tiếng",
+    "hint": "Nhóm từ: fame (adverb)",
+    "confusionWords": [
+      "fame",
+      "defame",
+      "famous"
+    ]
+  },
+  {
+    "id": 693,
+    "word": "agreement",
+    "type": "noun",
+    "family": "agree",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự đồng ý",
+    "hint": "Nhóm từ: agree (noun)",
+    "confusionWords": [
+      "agree",
+      "agreeable",
+      "agreeably"
+    ]
+  },
+  {
+    "id": 694,
+    "word": "agree",
+    "type": "verb",
+    "family": "agree",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đồng ý",
+    "hint": "Nhóm từ: agree (verb)",
+    "confusionWords": [
+      "agreement",
+      "agreeable",
+      "agreeably"
+    ]
+  },
+  {
+    "id": 695,
+    "word": "agreeable",
+    "type": "adjective",
+    "family": "agree",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "dễ chịu",
+    "hint": "Nhóm từ: agree (adjective)",
+    "confusionWords": [
+      "agreement",
+      "agree",
+      "agreeably"
+    ]
+  },
+  {
+    "id": 696,
+    "word": "agreeably",
+    "type": "adverb",
+    "family": "agree",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách dễ chịu",
+    "hint": "Nhóm từ: agree (adverb)",
+    "confusionWords": [
+      "agreement",
+      "agree",
+      "agreeable"
+    ]
+  },
+  {
+    "id": 697,
+    "word": "appearance",
+    "type": "noun",
+    "family": "appear",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "di diện mạo",
+    "hint": "Nhóm từ: appear (noun)",
+    "confusionWords": [
+      "appear",
+      "apparent",
+      "apparently"
+    ]
+  },
+  {
+    "id": 698,
+    "word": "appear",
+    "type": "verb",
+    "family": "appear",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "xuất hiện",
+    "hint": "Nhóm từ: appear (verb)",
+    "confusionWords": [
+      "appearance",
+      "apparent",
+      "apparently"
+    ]
+  },
+  {
+    "id": 699,
+    "word": "apparent",
+    "type": "adjective",
+    "family": "appear",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "rõ ràng",
+    "hint": "Nhóm từ: appear (adjective)",
+    "confusionWords": [
+      "appearance",
+      "appear",
+      "apparently"
+    ]
+  },
+  {
+    "id": 700,
+    "word": "apparently",
+    "type": "adverb",
+    "family": "appear",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "nhìn có vẻ",
+    "hint": "Nhóm từ: appear (adverb)",
+    "confusionWords": [
+      "appearance",
+      "appear",
+      "apparent"
+    ]
+  },
+  {
+    "id": 701,
+    "word": "assistance",
+    "type": "noun",
+    "family": "assist",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự giúp đỡ",
+    "hint": "Nhóm từ: assist (noun)",
+    "confusionWords": [
+      "assist",
+      "assistant",
+      "assistantly"
+    ]
+  },
+  {
+    "id": 702,
+    "word": "assist",
+    "type": "verb",
+    "family": "assist",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "giúp đỡ",
+    "hint": "Nhóm từ: assist (verb)",
+    "confusionWords": [
+      "assistance",
+      "assistant",
+      "assistantly"
+    ]
+  },
+  {
+    "id": 703,
+    "word": "assistant",
+    "type": "adjective",
+    "family": "assist",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "phụ tá",
+    "hint": "Nhóm từ: assist (adjective)",
+    "confusionWords": [
+      "assistance",
+      "assist",
+      "assistantly"
+    ]
+  },
+  {
+    "id": 704,
+    "word": "assistantly",
+    "type": "adverb",
+    "family": "assist",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách phụ tá",
+    "hint": "Nhóm từ: assist (adverb)",
+    "confusionWords": [
+      "assistance",
+      "assist",
+      "assistant"
+    ]
+  },
+  {
+    "id": 705,
+    "word": "attendance",
+    "type": "noun",
+    "family": "attend",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự tham gia",
+    "hint": "Nhóm từ: attend (noun)",
+    "confusionWords": [
+      "attend",
+      "attentive",
+      "attentively"
+    ]
+  },
+  {
+    "id": 706,
+    "word": "attend",
+    "type": "verb",
+    "family": "attend",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tham gia",
+    "hint": "Nhóm từ: attend (verb)",
+    "confusionWords": [
+      "attendance",
+      "attentive",
+      "attentively"
+    ]
+  },
+  {
+    "id": 707,
+    "word": "attentive",
+    "type": "adjective",
+    "family": "attend",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "chú ý",
+    "hint": "Nhóm từ: attend (adjective)",
+    "confusionWords": [
+      "attendance",
+      "attend",
+      "attentively"
+    ]
+  },
+  {
+    "id": 708,
+    "word": "attentively",
+    "type": "adverb",
+    "family": "attend",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách chú ý",
+    "hint": "Nhóm từ: attend (adverb)",
+    "confusionWords": [
+      "attendance",
+      "attend",
+      "attentive"
+    ]
+  },
+  {
+    "id": 709,
+    "word": "bravery",
+    "type": "noun",
+    "family": "brave",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự dũng cảm",
+    "hint": "Nhóm từ: brave (noun)",
+    "confusionWords": [
+      "brave",
+      "brave",
+      "bravely"
+    ]
+  },
+  {
+    "id": 710,
+    "word": "brave",
+    "type": "verb",
+    "family": "brave",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "bất chấp",
+    "hint": "Nhóm từ: brave (verb)",
+    "confusionWords": [
+      "bravery",
+      "bravely"
+    ]
+  },
+  {
+    "id": 711,
+    "word": "bravely",
+    "type": "adverb",
+    "family": "brave",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách dũng cảm",
+    "hint": "Nhóm từ: brave (adverb)",
+    "confusionWords": [
+      "bravery",
+      "brave",
+      "brave"
+    ]
+  },
+  {
+    "id": 712,
+    "word": "brightness",
+    "type": "noun",
+    "family": "bright",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "độ sáng",
+    "hint": "Nhóm từ: bright (noun)",
+    "confusionWords": [
+      "brighten",
+      "bright",
+      "brightly"
+    ]
+  },
+  {
+    "id": 713,
+    "word": "brighten",
+    "type": "verb",
+    "family": "bright",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm sáng",
+    "hint": "Nhóm từ: bright (verb)",
+    "confusionWords": [
+      "brightness",
+      "bright",
+      "brightly"
+    ]
+  },
+  {
+    "id": 714,
+    "word": "bright",
+    "type": "adjective",
+    "family": "bright",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sáng sủa",
+    "hint": "Nhóm từ: bright (adjective)",
+    "confusionWords": [
+      "brightness",
+      "brighten",
+      "brightly"
+    ]
+  },
+  {
+    "id": 715,
+    "word": "brightly",
+    "type": "adverb",
+    "family": "bright",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách sáng sủa",
+    "hint": "Nhóm từ: bright (adverb)",
+    "confusionWords": [
+      "brightness",
+      "brighten",
+      "bright"
+    ]
+  },
+  {
+    "id": 716,
+    "word": "collection",
+    "type": "noun",
+    "family": "collect",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "bộ sưu tập",
+    "hint": "Nhóm từ: collect (noun)",
+    "confusionWords": [
+      "collect",
+      "collective",
+      "collectively"
+    ]
+  },
+  {
+    "id": 717,
+    "word": "collect",
+    "type": "verb",
+    "family": "collect",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sưu tập",
+    "hint": "Nhóm từ: collect (verb)",
+    "confusionWords": [
+      "collection",
+      "collective",
+      "collectively"
+    ]
+  },
+  {
+    "id": 718,
+    "word": "collective",
+    "type": "adjective",
+    "family": "collect",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tập thể",
+    "hint": "Nhóm từ: collect (adjective)",
+    "confusionWords": [
+      "collection",
+      "collect",
+      "collectively"
+    ]
+  },
+  {
+    "id": 719,
+    "word": "collectively",
+    "type": "adverb",
+    "family": "collect",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tập thể",
+    "hint": "Nhóm từ: collect (adverb)",
+    "confusionWords": [
+      "collection",
+      "collect",
+      "collective"
+    ]
+  },
+  {
+    "id": 720,
+    "word": "competition",
+    "type": "noun",
+    "family": "compete",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "cuộc thi",
+    "hint": "Nhóm từ: compete (noun)",
+    "confusionWords": [
+      "compete",
+      "competitive",
+      "competitively"
+    ]
+  },
+  {
+    "id": 721,
+    "word": "compete",
+    "type": "verb",
+    "family": "compete",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "cạnh tranh",
+    "hint": "Nhóm từ: compete (verb)",
+    "confusionWords": [
+      "competition",
+      "competitive",
+      "competitively"
+    ]
+  },
+  {
+    "id": 722,
+    "word": "competitive",
+    "type": "adjective",
+    "family": "compete",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "mang tính cạnh tranh",
+    "hint": "Nhóm từ: compete (adjective)",
+    "confusionWords": [
+      "competition",
+      "compete",
+      "competitively"
+    ]
+  },
+  {
+    "id": 723,
+    "word": "competitively",
+    "type": "adverb",
+    "family": "compete",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách cạnh tranh",
+    "hint": "Nhóm từ: compete (adverb)",
+    "confusionWords": [
+      "competition",
+      "compete",
+      "competitive"
+    ]
+  },
+  {
+    "id": 724,
+    "word": "confidence",
+    "type": "noun",
+    "family": "confidence",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự tự tin",
+    "hint": "Nhóm từ: confidence (noun)",
+    "confusionWords": [
+      "confide",
+      "confident",
+      "confidently"
+    ]
+  },
+  {
+    "id": 725,
+    "word": "confide",
+    "type": "verb",
+    "family": "confidence",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tâm sự",
+    "hint": "Nhóm từ: confidence (verb)",
+    "confusionWords": [
+      "confidence",
+      "confident",
+      "confidently"
+    ]
+  },
+  {
+    "id": 726,
+    "word": "confident",
+    "type": "adjective",
+    "family": "confidence",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tự tin",
+    "hint": "Nhóm từ: confidence (adjective)",
+    "confusionWords": [
+      "confidence",
+      "confide",
+      "confidently"
+    ]
+  },
+  {
+    "id": 727,
+    "word": "confidently",
+    "type": "adverb",
+    "family": "confidence",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tự tin",
+    "hint": "Nhóm từ: confidence (adverb)",
+    "confusionWords": [
+      "confidence",
+      "confide",
+      "confident"
+    ]
+  },
+  {
+    "id": 728,
+    "word": "connection",
+    "type": "noun",
+    "family": "connect",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự kết nối",
+    "hint": "Nhóm từ: connect (noun)",
+    "confusionWords": [
+      "connect",
+      "connected",
+      "connectedly"
+    ]
+  },
+  {
+    "id": 729,
+    "word": "connect",
+    "type": "verb",
+    "family": "connect",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "kết nối",
+    "hint": "Nhóm từ: connect (verb)",
+    "confusionWords": [
+      "connection",
+      "connected",
+      "connectedly"
+    ]
+  },
+  {
+    "id": 730,
+    "word": "connected",
+    "type": "adjective",
+    "family": "connect",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "được kết nối",
+    "hint": "Nhóm từ: connect (adjective)",
+    "confusionWords": [
+      "connection",
+      "connect",
+      "connectedly"
+    ]
+  },
+  {
+    "id": 731,
+    "word": "connectedly",
+    "type": "adverb",
+    "family": "connect",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "liên tục",
+    "hint": "Nhóm từ: connect (adverb)",
+    "confusionWords": [
+      "connection",
+      "connect",
+      "connected"
+    ]
+  },
+  {
+    "id": 732,
+    "word": "courage",
+    "type": "noun",
+    "family": "courage",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "lòng can đảm",
+    "hint": "Nhóm từ: courage (noun)",
+    "confusionWords": [
+      "encourage",
+      "courageous",
+      "courageously"
+    ]
+  },
+  {
+    "id": 733,
+    "word": "encourage",
+    "type": "verb",
+    "family": "courage",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "khuyến khích",
+    "hint": "Nhóm từ: courage (verb)",
+    "confusionWords": [
+      "courage",
+      "courageous",
+      "courageously"
+    ]
+  },
+  {
+    "id": 734,
+    "word": "courageous",
+    "type": "adjective",
+    "family": "courage",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "can đảm",
+    "hint": "Nhóm từ: courage (adjective)",
+    "confusionWords": [
+      "courage",
+      "encourage",
+      "courageously"
+    ]
+  },
+  {
+    "id": 735,
+    "word": "courageously",
+    "type": "adverb",
+    "family": "courage",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách can đảm",
+    "hint": "Nhóm từ: courage (adverb)",
+    "confusionWords": [
+      "courage",
+      "encourage",
+      "courageous"
+    ]
+  },
+  {
+    "id": 736,
+    "word": "darkness",
+    "type": "noun",
+    "family": "dark",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "bóng tối",
+    "hint": "Nhóm từ: dark (noun)",
+    "confusionWords": [
+      "darken",
+      "dark",
+      "darkly"
+    ]
+  },
+  {
+    "id": 737,
+    "word": "darken",
+    "type": "verb",
+    "family": "dark",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm tối",
+    "hint": "Nhóm từ: dark (verb)",
+    "confusionWords": [
+      "darkness",
+      "dark",
+      "darkly"
+    ]
+  },
+  {
+    "id": 738,
+    "word": "dark",
+    "type": "adjective",
+    "family": "dark",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tối tăm",
+    "hint": "Nhóm từ: dark (adjective)",
+    "confusionWords": [
+      "darkness",
+      "darken",
+      "darkly"
+    ]
+  },
+  {
+    "id": 739,
+    "word": "darkly",
+    "type": "adverb",
+    "family": "dark",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tối tăm",
+    "hint": "Nhóm từ: dark (adverb)",
+    "confusionWords": [
+      "darkness",
+      "darken",
+      "dark"
+    ]
+  },
+  {
+    "id": 740,
+    "word": "depth",
+    "type": "noun",
+    "family": "deep",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "chiều sâu",
+    "hint": "Nhóm từ: deep (noun)",
+    "confusionWords": [
+      "deepen",
+      "deep",
+      "deeply"
+    ]
+  },
+  {
+    "id": 741,
+    "word": "deepen",
+    "type": "verb",
+    "family": "deep",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm sâu",
+    "hint": "Nhóm từ: deep (verb)",
+    "confusionWords": [
+      "depth",
+      "deep",
+      "deeply"
+    ]
+  },
+  {
+    "id": 742,
+    "word": "deep",
+    "type": "adjective",
+    "family": "deep",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sâu sắc",
+    "hint": "Nhóm từ: deep (adjective)",
+    "confusionWords": [
+      "depth",
+      "deepen",
+      "deeply"
+    ]
+  },
+  {
+    "id": 743,
+    "word": "deeply",
+    "type": "adverb",
+    "family": "deep",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách sâu sắc",
+    "hint": "Nhóm từ: deep (adverb)",
+    "confusionWords": [
+      "depth",
+      "deepen",
+      "deep"
+    ]
+  },
+  {
+    "id": 744,
+    "word": "dependence",
+    "type": "noun",
+    "family": "depend",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự phụ thuộc",
+    "hint": "Nhóm từ: depend (noun)",
+    "confusionWords": [
+      "depend",
+      "dependent",
+      "dependently"
+    ]
+  },
+  {
+    "id": 745,
+    "word": "depend",
+    "type": "verb",
+    "family": "depend",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "phụ thuộc",
+    "hint": "Nhóm từ: depend (verb)",
+    "confusionWords": [
+      "dependence",
+      "dependent",
+      "dependently"
+    ]
+  },
+  {
+    "id": 746,
+    "word": "dependent",
+    "type": "adjective",
+    "family": "depend",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "phụ thuộc",
+    "hint": "Nhóm từ: depend (adjective)",
+    "confusionWords": [
+      "dependence",
+      "depend",
+      "dependently"
+    ]
+  },
+  {
+    "id": 747,
+    "word": "dependently",
+    "type": "adverb",
+    "family": "depend",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách phụ thuộc",
+    "hint": "Nhóm từ: depend (adverb)",
+    "confusionWords": [
+      "dependence",
+      "depend",
+      "dependent"
+    ]
+  },
+  {
+    "id": 748,
+    "word": "description",
+    "type": "noun",
+    "family": "describe",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự miêu tả",
+    "hint": "Nhóm từ: describe (noun)",
+    "confusionWords": [
+      "describe",
+      "descriptive",
+      "descriptively"
+    ]
+  },
+  {
+    "id": 749,
+    "word": "describe",
+    "type": "verb",
+    "family": "describe",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "miêu tả",
+    "hint": "Nhóm từ: describe (verb)",
+    "confusionWords": [
+      "description",
+      "descriptive",
+      "descriptively"
+    ]
+  },
+  {
+    "id": 750,
+    "word": "descriptive",
+    "type": "adjective",
+    "family": "describe",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "có tính miêu tả",
+    "hint": "Nhóm từ: describe (adjective)",
+    "confusionWords": [
+      "description",
+      "describe",
+      "descriptively"
+    ]
+  },
+  {
+    "id": 751,
+    "word": "descriptively",
+    "type": "adverb",
+    "family": "describe",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "bằng cách miêu tả",
+    "hint": "Nhóm từ: describe (adverb)",
+    "confusionWords": [
+      "description",
+      "describe",
+      "descriptive"
+    ]
+  },
+  {
+    "id": 752,
+    "word": "difference",
+    "type": "noun",
+    "family": "differ",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự khác biệt",
+    "hint": "Nhóm từ: differ (noun)",
+    "confusionWords": [
+      "differ",
+      "different",
+      "differently"
+    ]
+  },
+  {
+    "id": 753,
+    "word": "differ",
+    "type": "verb",
+    "family": "differ",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "khác biệt",
+    "hint": "Nhóm từ: differ (verb)",
+    "confusionWords": [
+      "difference",
+      "different",
+      "differently"
+    ]
+  },
+  {
+    "id": 754,
+    "word": "different",
+    "type": "adjective",
+    "family": "differ",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "khác nhau",
+    "hint": "Nhóm từ: differ (adjective)",
+    "confusionWords": [
+      "difference",
+      "differ",
+      "differently"
+    ]
+  },
+  {
+    "id": 755,
+    "word": "differently",
+    "type": "adverb",
+    "family": "differ",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách khác biệt",
+    "hint": "Nhóm từ: differ (adverb)",
+    "confusionWords": [
+      "difference",
+      "differ",
+      "different"
+    ]
+  },
+  {
+    "id": 756,
+    "word": "difficulty",
+    "type": "noun",
+    "family": "difficult",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự khó khăn",
+    "hint": "Nhóm từ: difficult (noun)",
+    "confusionWords": [
+      "difficult",
+      "difficultly"
+    ]
+  },
+  {
+    "id": 757,
+    "word": "difficult",
+    "type": "adjective",
+    "family": "difficult",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "khó khăn",
+    "hint": "Nhóm từ: difficult (adjective)",
+    "confusionWords": [
+      "difficulty",
+      "difficulty",
+      "difficultly"
+    ]
+  },
+  {
+    "id": 758,
+    "word": "difficultly",
+    "type": "adverb",
+    "family": "difficult",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách khó khăn",
+    "hint": "Nhóm từ: difficult (adverb)",
+    "confusionWords": [
+      "difficulty",
+      "difficulty",
+      "difficult"
+    ]
+  },
+  {
+    "id": 759,
+    "word": "disappointment",
+    "type": "noun",
+    "family": "disappoint",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự thất vọng",
+    "hint": "Nhóm từ: disappoint (noun)",
+    "confusionWords": [
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ]
+  },
+  {
+    "id": 760,
+    "word": "disappoint",
+    "type": "verb",
+    "family": "disappoint",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm thất vọng",
+    "hint": "Nhóm từ: disappoint (verb)",
+    "confusionWords": [
+      "disappointment",
+      "disappointing",
+      "disappointingly"
+    ]
+  },
+  {
+    "id": 761,
+    "word": "disappointing",
+    "type": "adjective",
+    "family": "disappoint",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đáng thất vọng",
+    "hint": "Nhóm từ: disappoint (adjective)",
+    "confusionWords": [
+      "disappointment",
+      "disappoint",
+      "disappointingly"
+    ]
+  },
+  {
+    "id": 762,
+    "word": "disappointingly",
+    "type": "adverb",
+    "family": "disappoint",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thất vọng",
+    "hint": "Nhóm từ: disappoint (adverb)",
+    "confusionWords": [
+      "disappointment",
+      "disappoint",
+      "disappointing"
+    ]
+  },
+  {
+    "id": 763,
+    "word": "honesty",
+    "type": "noun",
+    "family": "honest",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "lòng trung thực",
+    "hint": "Nhóm từ: honest (noun)",
+    "confusionWords": [
+      "honest",
+      "honest",
+      "honestly"
+    ]
+  },
+  {
+    "id": 764,
+    "word": "honest",
+    "type": "verb",
+    "family": "honest",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "trung thực",
+    "hint": "Nhóm từ: honest (verb)",
+    "confusionWords": [
+      "honesty",
+      "honestly"
+    ]
+  },
+  {
+    "id": 765,
+    "word": "honestly",
+    "type": "adverb",
+    "family": "honest",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách trung thực",
+    "hint": "Nhóm từ: honest (adverb)",
+    "confusionWords": [
+      "honesty",
+      "honest",
+      "honest"
+    ]
+  },
+  {
+    "id": 766,
+    "word": "economy",
+    "type": "noun",
+    "family": "economy",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "nền kinh tế",
+    "hint": "Nhóm từ: economy (noun)",
+    "confusionWords": [
+      "economize",
+      "economic",
+      "economically"
+    ]
+  },
+  {
+    "id": 767,
+    "word": "economize",
+    "type": "verb",
+    "family": "economy",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tiết kiệm",
+    "hint": "Nhóm từ: economy (verb)",
+    "confusionWords": [
+      "economy",
+      "economic",
+      "economically"
+    ]
+  },
+  {
+    "id": 768,
+    "word": "economic",
+    "type": "adjective",
+    "family": "economy",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuộc kinh tế",
+    "hint": "Nhóm từ: economy (adjective)",
+    "confusionWords": [
+      "economy",
+      "economize",
+      "economically"
+    ]
+  },
+  {
+    "id": 769,
+    "word": "economically",
+    "type": "adverb",
+    "family": "economy",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "về mặt kinh tế",
+    "hint": "Nhóm từ: economy (adverb)",
+    "confusionWords": [
+      "economy",
+      "economize",
+      "economic"
+    ]
+  },
+  {
+    "id": 770,
+    "word": "employment",
+    "type": "noun",
+    "family": "employ",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "việc làm",
+    "hint": "Nhóm từ: employ (noun)",
+    "confusionWords": [
+      "employ",
+      "employed",
+      "employedly"
+    ]
+  },
+  {
+    "id": 771,
+    "word": "employ",
+    "type": "verb",
+    "family": "employ",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thuê mướn",
+    "hint": "Nhóm từ: employ (verb)",
+    "confusionWords": [
+      "employment",
+      "employed",
+      "employedly"
+    ]
+  },
+  {
+    "id": 772,
+    "word": "employed",
+    "type": "adjective",
+    "family": "employ",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "có việc làm",
+    "hint": "Nhóm từ: employ (adjective)",
+    "confusionWords": [
+      "employment",
+      "employ",
+      "employedly"
+    ]
+  },
+  {
+    "id": 773,
+    "word": "employedly",
+    "type": "adverb",
+    "family": "employ",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "theo cách thuê mướn",
+    "hint": "Nhóm từ: employ (adverb)",
+    "confusionWords": [
+      "employment",
+      "employ",
+      "employed"
+    ]
+  },
+  {
+    "id": 774,
+    "word": "enjoyment",
+    "type": "noun",
+    "family": "enjoy",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự thích thú",
+    "hint": "Nhóm từ: enjoy (noun)",
+    "confusionWords": [
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ]
+  },
+  {
+    "id": 775,
+    "word": "enjoy",
+    "type": "verb",
+    "family": "enjoy",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thưởng thức",
+    "hint": "Nhóm từ: enjoy (verb)",
+    "confusionWords": [
+      "enjoyment",
+      "enjoyable",
+      "enjoyably"
+    ]
+  },
+  {
+    "id": 776,
+    "word": "enjoyable",
+    "type": "adjective",
+    "family": "enjoy",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thú vị",
+    "hint": "Nhóm từ: enjoy (adjective)",
+    "confusionWords": [
+      "enjoyment",
+      "enjoy",
+      "enjoyably"
+    ]
+  },
+  {
+    "id": 777,
+    "word": "enjoyably",
+    "type": "adverb",
+    "family": "enjoy",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thú vị",
+    "hint": "Nhóm từ: enjoy (adverb)",
+    "confusionWords": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable"
+    ]
+  },
+  {
+    "id": 778,
+    "word": "explanation",
+    "type": "noun",
+    "family": "explain",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự giải thích",
+    "hint": "Nhóm từ: explain (noun)",
+    "confusionWords": [
+      "explain",
+      "explanatory",
+      "explainingly"
+    ]
+  },
+  {
+    "id": 779,
+    "word": "explain",
+    "type": "verb",
+    "family": "explain",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "giải thích",
+    "hint": "Nhóm từ: explain (verb)",
+    "confusionWords": [
+      "explanation",
+      "explanatory",
+      "explainingly"
+    ]
+  },
+  {
+    "id": 780,
+    "word": "explanatory",
+    "type": "adjective",
+    "family": "explain",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "mang tính giải thích",
+    "hint": "Nhóm từ: explain (adjective)",
+    "confusionWords": [
+      "explanation",
+      "explain",
+      "explainingly"
+    ]
+  },
+  {
+    "id": 781,
+    "word": "explainingly",
+    "type": "adverb",
+    "family": "explain",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "bằng cách giải thích",
+    "hint": "Nhóm từ: explain (adverb)",
+    "confusionWords": [
+      "explanation",
+      "explain",
+      "explanatory"
+    ]
+  },
+  {
+    "id": 782,
+    "word": "forgetfulness",
+    "type": "noun",
+    "family": "forget",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "tính hay quên",
+    "hint": "Nhóm từ: forget (noun)",
+    "confusionWords": [
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ]
+  },
+  {
+    "id": 783,
+    "word": "forget",
+    "type": "verb",
+    "family": "forget",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "quên",
+    "hint": "Nhóm từ: forget (verb)",
+    "confusionWords": [
+      "forgetfulness",
+      "forgetful",
+      "forgetfully"
+    ]
+  },
+  {
+    "id": 784,
+    "word": "forgetful",
+    "type": "adjective",
+    "family": "forget",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hay quên",
+    "hint": "Nhóm từ: forget (adjective)",
+    "confusionWords": [
+      "forgetfulness",
+      "forget",
+      "forgetfully"
+    ]
+  },
+  {
+    "id": 785,
+    "word": "forgetfully",
+    "type": "adverb",
+    "family": "forget",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách đãng trí",
+    "hint": "Nhóm từ: forget (adverb)",
+    "confusionWords": [
+      "forgetfulness",
+      "forget",
+      "forgetful"
+    ]
+  },
+  {
+    "id": 786,
+    "word": "freedom",
+    "type": "noun",
+    "family": "free",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự tự do",
+    "hint": "Nhóm từ: free (noun)",
+    "confusionWords": [
+      "free",
+      "free",
+      "freely"
+    ]
+  },
+  {
+    "id": 787,
+    "word": "free",
+    "type": "verb",
+    "family": "free",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "giải phóng",
+    "hint": "Nhóm từ: free (verb)",
+    "confusionWords": [
+      "freedom",
+      "freely"
+    ]
+  },
+  {
+    "id": 788,
+    "word": "freely",
+    "type": "adverb",
+    "family": "free",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tự do",
+    "hint": "Nhóm từ: free (adverb)",
+    "confusionWords": [
+      "freedom",
+      "free",
+      "free"
+    ]
+  },
+  {
+    "id": 789,
+    "word": "growth",
+    "type": "noun",
+    "family": "grow",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự phát triển",
+    "hint": "Nhóm từ: grow (noun)",
+    "confusionWords": [
+      "grow",
+      "growing",
+      "growingly"
+    ]
+  },
+  {
+    "id": 790,
+    "word": "grow",
+    "type": "verb",
+    "family": "grow",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tăng trưởng",
+    "hint": "Nhóm từ: grow (verb)",
+    "confusionWords": [
+      "growth",
+      "growing",
+      "growingly"
+    ]
+  },
+  {
+    "id": 791,
+    "word": "growing",
+    "type": "adjective",
+    "family": "grow",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đang lớn",
+    "hint": "Nhóm từ: grow (adjective)",
+    "confusionWords": [
+      "growth",
+      "grow",
+      "growingly"
+    ]
+  },
+  {
+    "id": 792,
+    "word": "growingly",
+    "type": "adverb",
+    "family": "grow",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "ngày càng tăng",
+    "hint": "Nhóm từ: grow (adverb)",
+    "confusionWords": [
+      "growth",
+      "grow",
+      "growing"
+    ]
+  },
+  {
+    "id": 793,
+    "word": "height",
+    "type": "noun",
+    "family": "high",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "chiều cao",
+    "hint": "Nhóm từ: high (noun)",
+    "confusionWords": [
+      "heighten",
+      "high",
+      "highly"
+    ]
+  },
+  {
+    "id": 794,
+    "word": "heighten",
+    "type": "verb",
+    "family": "high",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "nâng cao",
+    "hint": "Nhóm từ: high (verb)",
+    "confusionWords": [
+      "height",
+      "high",
+      "highly"
+    ]
+  },
+  {
+    "id": 795,
+    "word": "high",
+    "type": "adjective",
+    "family": "high",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "cao",
+    "hint": "Nhóm từ: high (adjective)",
+    "confusionWords": [
+      "height",
+      "heighten",
+      "highly"
+    ]
+  },
+  {
+    "id": 796,
+    "word": "highly",
+    "type": "adverb",
+    "family": "high",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "rất nhiều, cao",
+    "hint": "Nhóm từ: high (adverb)",
+    "confusionWords": [
+      "height",
+      "heighten",
+      "high"
+    ]
+  },
+  {
+    "id": 797,
+    "word": "imagination",
+    "type": "noun",
+    "family": "imagine",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự tưởng tượng",
+    "hint": "Nhóm từ: imagine (noun)",
+    "confusionWords": [
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ]
+  },
+  {
+    "id": 798,
+    "word": "imagine",
+    "type": "verb",
+    "family": "imagine",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tưởng tượng",
+    "hint": "Nhóm từ: imagine (verb)",
+    "confusionWords": [
+      "imagination",
+      "imaginative",
+      "imaginatively"
+    ]
+  },
+  {
+    "id": 799,
+    "word": "imaginative",
+    "type": "adjective",
+    "family": "imagine",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "giàu tưởng tượng",
+    "hint": "Nhóm từ: imagine (adjective)",
+    "confusionWords": [
+      "imagination",
+      "imagine",
+      "imaginatively"
+    ]
+  },
+  {
+    "id": 800,
+    "word": "imaginatively",
+    "type": "adverb",
+    "family": "imagine",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tưởng tượng",
+    "hint": "Nhóm từ: imagine (adverb)",
+    "confusionWords": [
+      "imagination",
+      "imagine",
+      "imaginative"
+    ]
+  },
+  {
+    "id": 801,
+    "word": "impression",
+    "type": "noun",
+    "family": "impress",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "ấn tượng",
+    "hint": "Nhóm từ: impress (noun)",
+    "confusionWords": [
+      "impress",
+      "impressive",
+      "impressively"
+    ]
+  },
+  {
+    "id": 802,
+    "word": "impress",
+    "type": "verb",
+    "family": "impress",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "gây ấn tượng",
+    "hint": "Nhóm từ: impress (verb)",
+    "confusionWords": [
+      "impression",
+      "impressive",
+      "impressively"
+    ]
+  },
+  {
+    "id": 803,
+    "word": "impressive",
+    "type": "adjective",
+    "family": "impress",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "gợi ấn tượng",
+    "hint": "Nhóm từ: impress (adjective)",
+    "confusionWords": [
+      "impression",
+      "impress",
+      "impressively"
+    ]
+  },
+  {
+    "id": 804,
+    "word": "impressively",
+    "type": "adverb",
+    "family": "impress",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách ấn tượng",
+    "hint": "Nhóm từ: impress (adverb)",
+    "confusionWords": [
+      "impression",
+      "impress",
+      "impressive"
+    ]
+  },
+  {
+    "id": 805,
+    "word": "improvement",
+    "type": "noun",
+    "family": "improve",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự cải thiện",
+    "hint": "Nhóm từ: improve (noun)",
+    "confusionWords": [
+      "improve",
+      "improved",
+      "improvingly"
+    ]
+  },
+  {
+    "id": 806,
+    "word": "improve",
+    "type": "verb",
+    "family": "improve",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "cải tiến",
+    "hint": "Nhóm từ: improve (verb)",
+    "confusionWords": [
+      "improvement",
+      "improved",
+      "improvingly"
+    ]
+  },
+  {
+    "id": 807,
+    "word": "improved",
+    "type": "adjective",
+    "family": "improve",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "được cải thiện",
+    "hint": "Nhóm từ: improve (adjective)",
+    "confusionWords": [
+      "improvement",
+      "improve",
+      "improvingly"
+    ]
+  },
+  {
+    "id": 808,
+    "word": "improvingly",
+    "type": "adverb",
+    "family": "improve",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách cải thiện",
+    "hint": "Nhóm từ: improve (adverb)",
+    "confusionWords": [
+      "improvement",
+      "improve",
+      "improved"
+    ]
+  },
+  {
+    "id": 809,
+    "word": "information",
+    "type": "noun",
+    "family": "inform",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "thông tin",
+    "hint": "Nhóm từ: inform (noun)",
+    "confusionWords": [
+      "inform",
+      "informative",
+      "informatively"
+    ]
+  },
+  {
+    "id": 810,
+    "word": "inform",
+    "type": "verb",
+    "family": "inform",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thông báo",
+    "hint": "Nhóm từ: inform (verb)",
+    "confusionWords": [
+      "information",
+      "informative",
+      "informatively"
+    ]
+  },
+  {
+    "id": 811,
+    "word": "informative",
+    "type": "adjective",
+    "family": "inform",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "nhiều thông tin",
+    "hint": "Nhóm từ: inform (adjective)",
+    "confusionWords": [
+      "information",
+      "inform",
+      "informatively"
+    ]
+  },
+  {
+    "id": 812,
+    "word": "informatively",
+    "type": "adverb",
+    "family": "inform",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "đầy đủ thông tin",
+    "hint": "Nhóm từ: inform (adverb)",
+    "confusionWords": [
+      "information",
+      "inform",
+      "informative"
+    ]
+  },
+  {
+    "id": 813,
+    "word": "invention",
+    "type": "noun",
+    "family": "invent",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự phát minh",
+    "hint": "Nhóm từ: invent (noun)",
+    "confusionWords": [
+      "invent",
+      "inventive",
+      "inventively"
+    ]
+  },
+  {
+    "id": 814,
+    "word": "invent",
+    "type": "verb",
+    "family": "invent",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "phát minh",
+    "hint": "Nhóm từ: invent (verb)",
+    "confusionWords": [
+      "invention",
+      "inventive",
+      "inventively"
+    ]
+  },
+  {
+    "id": 815,
+    "word": "inventive",
+    "type": "adjective",
+    "family": "invent",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sáng tạo",
+    "hint": "Nhóm từ: invent (adjective)",
+    "confusionWords": [
+      "invention",
+      "invent",
+      "inventively"
+    ]
+  },
+  {
+    "id": 816,
+    "word": "inventively",
+    "type": "adverb",
+    "family": "invent",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách sáng tạo",
+    "hint": "Nhóm từ: invent (adverb)",
+    "confusionWords": [
+      "invention",
+      "invent",
+      "inventive"
+    ]
+  },
+  {
+    "id": 817,
+    "word": "invitation",
+    "type": "noun",
+    "family": "invite",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "lời mời",
+    "hint": "Nhóm từ: invite (noun)",
+    "confusionWords": [
+      "invite",
+      "inviting",
+      "invitingly"
+    ]
+  },
+  {
+    "id": 818,
+    "word": "invite",
+    "type": "verb",
+    "family": "invite",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "mời",
+    "hint": "Nhóm từ: invite (verb)",
+    "confusionWords": [
+      "invitation",
+      "inviting",
+      "invitingly"
+    ]
+  },
+  {
+    "id": 819,
+    "word": "inviting",
+    "type": "adjective",
+    "family": "invite",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hấp dẫn",
+    "hint": "Nhóm từ: invite (adjective)",
+    "confusionWords": [
+      "invitation",
+      "invite",
+      "invitingly"
+    ]
+  },
+  {
+    "id": 820,
+    "word": "invitingly",
+    "type": "adverb",
+    "family": "invite",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách hấp dẫn",
+    "hint": "Nhóm từ: invite (adverb)",
+    "confusionWords": [
+      "invitation",
+      "invite",
+      "inviting"
+    ]
+  },
+  {
+    "id": 821,
+    "word": "kindness",
+    "type": "noun",
+    "family": "kind",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "lòng tốt",
+    "hint": "Nhóm từ: kind (noun)",
+    "confusionWords": [
+      "kind",
+      "kind",
+      "kindly"
+    ]
+  },
+  {
+    "id": 822,
+    "word": "kind",
+    "type": "verb",
+    "family": "kind",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tử tế",
+    "hint": "Nhóm từ: kind (verb)",
+    "confusionWords": [
+      "kindness",
+      "kindly"
+    ]
+  },
+  {
+    "id": 823,
+    "word": "kindly",
+    "type": "adverb",
+    "family": "kind",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tử tế",
+    "hint": "Nhóm từ: kind (adverb)",
+    "confusionWords": [
+      "kindness",
+      "kind",
+      "kind"
+    ]
+  },
+  {
+    "id": 824,
+    "word": "knowledge",
+    "type": "noun",
+    "family": "know",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "kiến thức",
+    "hint": "Nhóm từ: know (noun)",
+    "confusionWords": [
+      "know",
+      "knowledgeable",
+      "knowledgeably"
+    ]
+  },
+  {
+    "id": 825,
+    "word": "know",
+    "type": "verb",
+    "family": "know",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "biết",
+    "hint": "Nhóm từ: know (verb)",
+    "confusionWords": [
+      "knowledge",
+      "knowledgeable",
+      "knowledgeably"
+    ]
+  },
+  {
+    "id": 826,
+    "word": "knowledgeable",
+    "type": "adjective",
+    "family": "know",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "am hiểu",
+    "hint": "Nhóm từ: know (adjective)",
+    "confusionWords": [
+      "knowledge",
+      "know",
+      "knowledgeably"
+    ]
+  },
+  {
+    "id": 827,
+    "word": "knowledgeably",
+    "type": "adverb",
+    "family": "know",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách am hiểu",
+    "hint": "Nhóm từ: know (adverb)",
+    "confusionWords": [
+      "knowledge",
+      "know",
+      "knowledgeable"
+    ]
+  },
+  {
+    "id": 828,
+    "word": "life",
+    "type": "noun",
+    "family": "live",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "cuộc sống",
+    "hint": "Nhóm từ: live (noun)",
+    "confusionWords": [
+      "live",
+      "lively",
+      "live"
+    ]
+  },
+  {
+    "id": 829,
+    "word": "live",
+    "type": "verb",
+    "family": "live",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sống",
+    "hint": "Nhóm từ: live (verb)",
+    "confusionWords": [
+      "life",
+      "lively"
+    ]
+  },
+  {
+    "id": 830,
+    "word": "lively",
+    "type": "adjective",
+    "family": "live",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sinh động",
+    "hint": "Nhóm từ: live (adjective)",
+    "confusionWords": [
+      "life",
+      "live",
+      "live"
+    ]
+  },
+  {
+    "id": 831,
+    "word": "length",
+    "type": "noun",
+    "family": "long",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "chiều dài",
+    "hint": "Nhóm từ: long (noun)",
+    "confusionWords": [
+      "lengthen",
+      "long",
+      "longingly"
+    ]
+  },
+  {
+    "id": 832,
+    "word": "lengthen",
+    "type": "verb",
+    "family": "long",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "kéo dài",
+    "hint": "Nhóm từ: long (verb)",
+    "confusionWords": [
+      "length",
+      "long",
+      "longingly"
+    ]
+  },
+  {
+    "id": 833,
+    "word": "long",
+    "type": "adjective",
+    "family": "long",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "dài",
+    "hint": "Nhóm từ: long (adjective)",
+    "confusionWords": [
+      "length",
+      "lengthen",
+      "longingly"
+    ]
+  },
+  {
+    "id": 834,
+    "word": "longingly",
+    "type": "adverb",
+    "family": "long",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thèm muốn",
+    "hint": "Nhóm từ: long (adverb)",
+    "confusionWords": [
+      "length",
+      "lengthen",
+      "long"
+    ]
+  },
+  {
+    "id": 835,
+    "word": "love",
+    "type": "noun",
+    "family": "love",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "tình yêu",
+    "hint": "Nhóm từ: love (noun)",
+    "confusionWords": [
+      "lovely",
+      "lovingly"
+    ]
+  },
+  {
+    "id": 836,
+    "word": "lovely",
+    "type": "adjective",
+    "family": "love",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đáng yêu",
+    "hint": "Nhóm từ: love (adjective)",
+    "confusionWords": [
+      "love",
+      "love",
+      "lovingly"
+    ]
+  },
+  {
+    "id": 837,
+    "word": "lovingly",
+    "type": "adverb",
+    "family": "love",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách âu yếm",
+    "hint": "Nhóm từ: love (adverb)",
+    "confusionWords": [
+      "love",
+      "love",
+      "lovely"
+    ]
+  },
+  {
+    "id": 838,
+    "word": "movement",
+    "type": "noun",
+    "family": "move",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự di chuyển",
+    "hint": "Nhóm từ: move (noun)",
+    "confusionWords": [
+      "move",
+      "movable",
+      "movably"
+    ]
+  },
+  {
+    "id": 839,
+    "word": "move",
+    "type": "verb",
+    "family": "move",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "di chuyển",
+    "hint": "Nhóm từ: move (verb)",
+    "confusionWords": [
+      "movement",
+      "movable",
+      "movably"
+    ]
+  },
+  {
+    "id": 840,
+    "word": "movable",
+    "type": "adjective",
+    "family": "move",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "có thể di chuyển",
+    "hint": "Nhóm từ: move (adjective)",
+    "confusionWords": [
+      "movement",
+      "move",
+      "movably"
+    ]
+  },
+  {
+    "id": 841,
+    "word": "movably",
+    "type": "adverb",
+    "family": "move",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "di động",
+    "hint": "Nhóm từ: move (adverb)",
+    "confusionWords": [
+      "movement",
+      "move",
+      "movable"
+    ]
+  },
+  {
+    "id": 842,
+    "word": "noise",
+    "type": "noun",
+    "family": "noise",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "tiếng ồn",
+    "hint": "Nhóm từ: noise (noun)",
+    "confusionWords": [
+      "noisy",
+      "noisily"
+    ]
+  },
+  {
+    "id": 843,
+    "word": "noisy",
+    "type": "adjective",
+    "family": "noise",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "ồn ào",
+    "hint": "Nhóm từ: noise (adjective)",
+    "confusionWords": [
+      "noise",
+      "noise",
+      "noisily"
+    ]
+  },
+  {
+    "id": 844,
+    "word": "noisily",
+    "type": "adverb",
+    "family": "noise",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách ồn ào",
+    "hint": "Nhóm từ: noise (adverb)",
+    "confusionWords": [
+      "noise",
+      "noise",
+      "noisy"
+    ]
+  },
+  {
+    "id": 845,
+    "word": "perfection",
+    "type": "noun",
+    "family": "perfect",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự hoàn hảo",
+    "hint": "Nhóm từ: perfect (noun)",
+    "confusionWords": [
+      "perfect",
+      "perfect",
+      "perfectly"
+    ]
+  },
+  {
+    "id": 846,
+    "word": "perfect",
+    "type": "verb",
+    "family": "perfect",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "hoàn thiện",
+    "hint": "Nhóm từ: perfect (verb)",
+    "confusionWords": [
+      "perfection",
+      "perfectly"
+    ]
+  },
+  {
+    "id": 847,
+    "word": "perfectly",
+    "type": "adverb",
+    "family": "perfect",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách hoàn hảo",
+    "hint": "Nhóm từ: perfect (adverb)",
+    "confusionWords": [
+      "perfection",
+      "perfect",
+      "perfect"
+    ]
+  },
+  {
+    "id": 848,
+    "word": "performance",
+    "type": "noun",
+    "family": "perform",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "buổi biểu diễn",
+    "hint": "Nhóm từ: perform (noun)",
+    "confusionWords": [
+      "perform",
+      "performing",
+      "performingly"
+    ]
+  },
+  {
+    "id": 849,
+    "word": "perform",
+    "type": "verb",
+    "family": "perform",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "biểu diễn",
+    "hint": "Nhóm từ: perform (verb)",
+    "confusionWords": [
+      "performance",
+      "performing",
+      "performingly"
+    ]
+  },
+  {
+    "id": 850,
+    "word": "performing",
+    "type": "adjective",
+    "family": "perform",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đang biểu diễn",
+    "hint": "Nhóm từ: perform (adjective)",
+    "confusionWords": [
+      "performance",
+      "perform",
+      "performingly"
+    ]
+  },
+  {
+    "id": 851,
+    "word": "performingly",
+    "type": "adverb",
+    "family": "perform",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "hiệu quả",
+    "hint": "Nhóm từ: perform (adverb)",
+    "confusionWords": [
+      "performance",
+      "perform",
+      "performing"
+    ]
+  },
+  {
+    "id": 852,
+    "word": "politeness",
+    "type": "noun",
+    "family": "polite",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự lịch sự",
+    "hint": "Nhóm từ: polite (noun)",
+    "confusionWords": [
+      "polite",
+      "polite",
+      "politely"
+    ]
+  },
+  {
+    "id": 853,
+    "word": "polite",
+    "type": "verb",
+    "family": "polite",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "lịch sự",
+    "hint": "Nhóm từ: polite (verb)",
+    "confusionWords": [
+      "politeness",
+      "politely"
+    ]
+  },
+  {
+    "id": 854,
+    "word": "politely",
+    "type": "adverb",
+    "family": "polite",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách lịch sự",
+    "hint": "Nhóm từ: polite (adverb)",
+    "confusionWords": [
+      "politeness",
+      "polite",
+      "polite"
+    ]
+  },
+  {
+    "id": 855,
+    "word": "popularity",
+    "type": "noun",
+    "family": "popular",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự phổ biến",
+    "hint": "Nhóm từ: popular (noun)",
+    "confusionWords": [
+      "popularize",
+      "popular",
+      "popularly"
+    ]
+  },
+  {
+    "id": 856,
+    "word": "popularize",
+    "type": "verb",
+    "family": "popular",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "phổ biến hóa",
+    "hint": "Nhóm từ: popular (verb)",
+    "confusionWords": [
+      "popularity",
+      "popular",
+      "popularly"
+    ]
+  },
+  {
+    "id": 857,
+    "word": "popular",
+    "type": "adjective",
+    "family": "popular",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "phổ biến",
+    "hint": "Nhóm từ: popular (adjective)",
+    "confusionWords": [
+      "popularity",
+      "popularize",
+      "popularly"
+    ]
+  },
+  {
+    "id": 858,
+    "word": "popularly",
+    "type": "adverb",
+    "family": "popular",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách phổ biến",
+    "hint": "Nhóm từ: popular (adverb)",
+    "confusionWords": [
+      "popularity",
+      "popularize",
+      "popular"
+    ]
+  },
+  {
+    "id": 859,
+    "word": "possibility",
+    "type": "noun",
+    "family": "possible",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "khả năng",
+    "hint": "Nhóm từ: possible (noun)",
+    "confusionWords": [
+      "possible",
+      "possibly"
+    ]
+  },
+  {
+    "id": 860,
+    "word": "possible",
+    "type": "adjective",
+    "family": "possible",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "khả thi",
+    "hint": "Nhóm từ: possible (adjective)",
+    "confusionWords": [
+      "possibility",
+      "possibility",
+      "possibly"
+    ]
+  },
+  {
+    "id": 861,
+    "word": "possibly",
+    "type": "adverb",
+    "family": "possible",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "có lẽ",
+    "hint": "Nhóm từ: possible (adverb)",
+    "confusionWords": [
+      "possibility",
+      "possibility",
+      "possible"
+    ]
+  },
+  {
+    "id": 862,
+    "word": "preparation",
+    "type": "noun",
+    "family": "prepare",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự chuẩn bị",
+    "hint": "Nhóm từ: prepare (noun)",
+    "confusionWords": [
+      "prepare",
+      "prepared",
+      "preparedly"
+    ]
+  },
+  {
+    "id": 863,
+    "word": "prepare",
+    "type": "verb",
+    "family": "prepare",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "chuẩn bị",
+    "hint": "Nhóm từ: prepare (verb)",
+    "confusionWords": [
+      "preparation",
+      "prepared",
+      "preparedly"
+    ]
+  },
+  {
+    "id": 864,
+    "word": "prepared",
+    "type": "adjective",
+    "family": "prepare",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sẵn sàng",
+    "hint": "Nhóm từ: prepare (adjective)",
+    "confusionWords": [
+      "preparation",
+      "prepare",
+      "preparedly"
+    ]
+  },
+  {
+    "id": 865,
+    "word": "preparedly",
+    "type": "adverb",
+    "family": "prepare",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách sẵn sàng",
+    "hint": "Nhóm từ: prepare (adverb)",
+    "confusionWords": [
+      "preparation",
+      "prepare",
+      "prepared"
+    ]
+  },
+  {
+    "id": 866,
+    "word": "production",
+    "type": "noun",
+    "family": "produce",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự sản xuất",
+    "hint": "Nhóm từ: produce (noun)",
+    "confusionWords": [
+      "produce",
+      "productive",
+      "productively"
+    ]
+  },
+  {
+    "id": 867,
+    "word": "produce",
+    "type": "verb",
+    "family": "produce",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "sản xuất",
+    "hint": "Nhóm từ: produce (verb)",
+    "confusionWords": [
+      "production",
+      "productive",
+      "productively"
+    ]
+  },
+  {
+    "id": 868,
+    "word": "productive",
+    "type": "adjective",
+    "family": "produce",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "năng suất",
+    "hint": "Nhóm từ: produce (adjective)",
+    "confusionWords": [
+      "production",
+      "produce",
+      "productively"
+    ]
+  },
+  {
+    "id": 869,
+    "word": "productively",
+    "type": "adverb",
+    "family": "produce",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách năng suất",
+    "hint": "Nhóm từ: produce (adverb)",
+    "confusionWords": [
+      "production",
+      "produce",
+      "productive"
+    ]
+  },
+  {
+    "id": 870,
+    "word": "pride",
+    "type": "noun",
+    "family": "proud",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự tự hào",
+    "hint": "Nhóm từ: proud (noun)",
+    "confusionWords": [
+      "proud",
+      "proudly"
+    ]
+  },
+  {
+    "id": 871,
+    "word": "proud",
+    "type": "adjective",
+    "family": "proud",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "tự hào",
+    "hint": "Nhóm từ: proud (adjective)",
+    "confusionWords": [
+      "pride",
+      "pride",
+      "proudly"
+    ]
+  },
+  {
+    "id": 872,
+    "word": "proudly",
+    "type": "adverb",
+    "family": "proud",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách tự hào",
+    "hint": "Nhóm từ: proud (adverb)",
+    "confusionWords": [
+      "pride",
+      "pride",
+      "proud"
+    ]
+  },
+  {
+    "id": 873,
+    "word": "quietness",
+    "type": "noun",
+    "family": "quiet",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự yên tĩnh",
+    "hint": "Nhóm từ: quiet (noun)",
+    "confusionWords": [
+      "quiet",
+      "quiet",
+      "quietly"
+    ]
+  },
+  {
+    "id": 874,
+    "word": "quiet",
+    "type": "verb",
+    "family": "quiet",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm dịu",
+    "hint": "Nhóm từ: quiet (verb)",
+    "confusionWords": [
+      "quietness",
+      "quietly"
+    ]
+  },
+  {
+    "id": 875,
+    "word": "quietly",
+    "type": "adverb",
+    "family": "quiet",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách yên tĩnh",
+    "hint": "Nhóm từ: quiet (adverb)",
+    "confusionWords": [
+      "quietness",
+      "quiet",
+      "quiet"
+    ]
+  },
+  {
+    "id": 876,
+    "word": "reality",
+    "type": "noun",
+    "family": "real",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "thực tế",
+    "hint": "Nhóm từ: real (noun)",
+    "confusionWords": [
+      "realize",
+      "real",
+      "really"
+    ]
+  },
+  {
+    "id": 877,
+    "word": "realize",
+    "type": "verb",
+    "family": "real",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "nhận ra",
+    "hint": "Nhóm từ: real (verb)",
+    "confusionWords": [
+      "reality",
+      "real",
+      "really"
+    ]
+  },
+  {
+    "id": 878,
+    "word": "real",
+    "type": "adjective",
+    "family": "real",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thực tế",
+    "hint": "Nhóm từ: real (adjective)",
+    "confusionWords": [
+      "reality",
+      "realize",
+      "really"
+    ]
+  },
+  {
+    "id": 879,
+    "word": "really",
+    "type": "adverb",
+    "family": "real",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "thực sự",
+    "hint": "Nhóm từ: real (adverb)",
+    "confusionWords": [
+      "reality",
+      "realize",
+      "real"
+    ]
+  },
+  {
+    "id": 880,
+    "word": "relaxation",
+    "type": "noun",
+    "family": "relax",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự thư giãn",
+    "hint": "Nhóm từ: relax (noun)",
+    "confusionWords": [
+      "relax",
+      "relaxing",
+      "relaxingly"
+    ]
+  },
+  {
+    "id": 881,
+    "word": "relax",
+    "type": "verb",
+    "family": "relax",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thư giãn",
+    "hint": "Nhóm từ: relax (verb)",
+    "confusionWords": [
+      "relaxation",
+      "relaxing",
+      "relaxingly"
+    ]
+  },
+  {
+    "id": 882,
+    "word": "relaxing",
+    "type": "adjective",
+    "family": "relax",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thư giãn",
+    "hint": "Nhóm từ: relax (adjective)",
+    "confusionWords": [
+      "relaxation",
+      "relax",
+      "relaxingly"
+    ]
+  },
+  {
+    "id": 883,
+    "word": "relaxingly",
+    "type": "adverb",
+    "family": "relax",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thư giãn",
+    "hint": "Nhóm từ: relax (adverb)",
+    "confusionWords": [
+      "relaxation",
+      "relax",
+      "relaxing"
+    ]
+  },
+  {
+    "id": 884,
+    "word": "safety",
+    "type": "noun",
+    "family": "safe",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự an toàn",
+    "hint": "Nhóm từ: safe (noun)",
+    "confusionWords": [
+      "safe",
+      "safe",
+      "safely"
+    ]
+  },
+  {
+    "id": 885,
+    "word": "safe",
+    "type": "verb",
+    "family": "safe",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "an toàn",
+    "hint": "Nhóm từ: safe (verb)",
+    "confusionWords": [
+      "safety",
+      "safely"
+    ]
+  },
+  {
+    "id": 886,
+    "word": "safely",
+    "type": "adverb",
+    "family": "safe",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách an toàn",
+    "hint": "Nhóm từ: safe (adverb)",
+    "confusionWords": [
+      "safety",
+      "safe",
+      "safe"
+    ]
+  },
+  {
+    "id": 887,
+    "word": "satisfaction",
+    "type": "noun",
+    "family": "satisfy",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự thỏa mãn",
+    "hint": "Nhóm từ: satisfy (noun)",
+    "confusionWords": [
+      "satisfy",
+      "satisfactory",
+      "satisfactorily"
+    ]
+  },
+  {
+    "id": 888,
+    "word": "satisfy",
+    "type": "verb",
+    "family": "satisfy",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "làm hài lòng",
+    "hint": "Nhóm từ: satisfy (verb)",
+    "confusionWords": [
+      "satisfaction",
+      "satisfactory",
+      "satisfactorily"
+    ]
+  },
+  {
+    "id": 889,
+    "word": "satisfactory",
+    "type": "adjective",
+    "family": "satisfy",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "thỏa đáng",
+    "hint": "Nhóm từ: satisfy (adjective)",
+    "confusionWords": [
+      "satisfaction",
+      "satisfy",
+      "satisfactorily"
+    ]
+  },
+  {
+    "id": 890,
+    "word": "satisfactorily",
+    "type": "adverb",
+    "family": "satisfy",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách thỏa đáng",
+    "hint": "Nhóm từ: satisfy (adverb)",
+    "confusionWords": [
+      "satisfaction",
+      "satisfy",
+      "satisfactory"
+    ]
+  },
+  {
+    "id": 891,
+    "word": "shortness",
+    "type": "noun",
+    "family": "short",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự ngắn",
+    "hint": "Nhóm từ: short (noun)",
+    "confusionWords": [
+      "shorten",
+      "short",
+      "shortly"
+    ]
+  },
+  {
+    "id": 892,
+    "word": "shorten",
+    "type": "verb",
+    "family": "short",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "rút ngắn",
+    "hint": "Nhóm từ: short (verb)",
+    "confusionWords": [
+      "shortness",
+      "short",
+      "shortly"
+    ]
+  },
+  {
+    "id": 893,
+    "word": "short",
+    "type": "adjective",
+    "family": "short",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "ngắn",
+    "hint": "Nhóm từ: short (adjective)",
+    "confusionWords": [
+      "shortness",
+      "shorten",
+      "shortly"
+    ]
+  },
+  {
+    "id": 894,
+    "word": "shortly",
+    "type": "adverb",
+    "family": "short",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "sớm, nhanh chóng",
+    "hint": "Nhóm từ: short (adverb)",
+    "confusionWords": [
+      "shortness",
+      "shorten",
+      "short"
+    ]
+  },
+  {
+    "id": 895,
+    "word": "silence",
+    "type": "noun",
+    "family": "silent",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự im lặng",
+    "hint": "Nhóm từ: silent (noun)",
+    "confusionWords": [
+      "silent",
+      "silently"
+    ]
+  },
+  {
+    "id": 896,
+    "word": "silent",
+    "type": "adjective",
+    "family": "silent",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "im lặng",
+    "hint": "Nhóm từ: silent (adjective)",
+    "confusionWords": [
+      "silence",
+      "silence",
+      "silently"
+    ]
+  },
+  {
+    "id": 897,
+    "word": "silently",
+    "type": "adverb",
+    "family": "silent",
+    "level": 3,
+    "difficulty": 5,
+    "vnMeaning": "một cách im lặng",
+    "hint": "Nhóm từ: silent (adverb)",
+    "confusionWords": [
+      "silence",
+      "silence",
+      "silent"
+    ]
+  },
+  {
+    "id": 898,
+    "word": "simplicity",
+    "type": "noun",
+    "family": "simple",
+    "level": 3,
+    "difficulty": 3,
+    "vnMeaning": "sự đơn giản",
+    "hint": "Nhóm từ: simple (noun)",
+    "confusionWords": [
+      "simplify",
+      "simple",
+      "simply"
+    ]
+  },
+  {
+    "id": 899,
+    "word": "simplify",
+    "type": "verb",
+    "family": "simple",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đơn giản hóa",
+    "hint": "Nhóm từ: simple (verb)",
+    "confusionWords": [
+      "simplicity",
+      "simple",
+      "simply"
+    ]
+  },
+  {
+    "id": 900,
+    "word": "simple",
+    "type": "adjective",
+    "family": "simple",
+    "level": 3,
+    "difficulty": 4,
+    "vnMeaning": "đơn giản",
+    "hint": "Nhóm từ: simple (adjective)",
+    "confusionWords": [
+      "simplicity",
+      "simplify",
+      "simply"
+    ]
+  }
+]

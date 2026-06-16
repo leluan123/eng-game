@@ -1,0 +1,4591 @@
+[
+  {
+    "id": 251,
+    "word": "student",
+    "type": "noun",
+    "family": "study",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "học sinh",
+    "hint": "từ chỉ người học",
+    "confusionWords": [
+      "teacher",
+      "doctor",
+      "school"
+    ]
+  },
+  {
+    "id": 252,
+    "word": "teacher",
+    "type": "noun",
+    "family": "teach",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "giáo viên",
+    "hint": "-er chỉ người dạy",
+    "confusionWords": [
+      "student",
+      "doctor",
+      "school"
+    ]
+  },
+  {
+    "id": 253,
+    "word": "doctor",
+    "type": "noun",
+    "family": "doctor",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bác sĩ",
+    "hint": "-or chỉ nghề nghiệp",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "school"
+    ]
+  },
+  {
+    "id": 254,
+    "word": "school",
+    "type": "noun",
+    "family": "school",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "trường học",
+    "hint": "danh từ cơ bản",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 255,
+    "word": "classroom",
+    "type": "noun",
+    "family": "school",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "lớp học",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 256,
+    "word": "book",
+    "type": "noun",
+    "family": "book",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "quyển sách",
+    "hint": "danh từ cơ bản",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 257,
+    "word": "pencil",
+    "type": "noun",
+    "family": "pen",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bút chì",
+    "hint": "danh từ học tập",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 258,
+    "word": "computer",
+    "type": "noun",
+    "family": "compute",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "máy tính",
+    "hint": "-er chỉ đồ vật",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 259,
+    "word": "house",
+    "type": "noun",
+    "family": "house",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngôi nhà",
+    "hint": "danh từ cơ bản",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 260,
+    "word": "family",
+    "type": "noun",
+    "family": "family",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "gia đình",
+    "hint": "danh từ chỉ tập hợp",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 261,
+    "word": "morning",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "buổi sáng",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 262,
+    "word": "night",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "buổi đêm",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 263,
+    "word": "summer",
+    "type": "noun",
+    "family": "season",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mùa hè",
+    "hint": "danh từ chỉ mùa",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 264,
+    "word": "river",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "con sông",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 265,
+    "word": "mountain",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngọn núi",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "student",
+      "teacher",
+      "doctor"
+    ]
+  },
+  {
+    "id": 266,
+    "word": "happy",
+    "type": "adjective",
+    "family": "happy",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "vui vẻ, hạnh phúc",
+    "hint": "tính từ cảm xúc",
+    "confusionWords": [
+      "busy",
+      "fast",
+      "hard"
+    ]
+  },
+  {
+    "id": 267,
+    "word": "busy",
+    "type": "adjective",
+    "family": "busy",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "bận rộn",
+    "hint": "tính từ trạng thái",
+    "confusionWords": [
+      "happy",
+      "fast",
+      "hard"
+    ]
+  },
+  {
+    "id": 268,
+    "word": "fast",
+    "type": "adjective",
+    "family": "fast",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "nhanh",
+    "hint": "tính từ/trạng từ đặc biệt",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "hard"
+    ]
+  },
+  {
+    "id": 269,
+    "word": "hard",
+    "type": "adjective",
+    "family": "hard",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "chăm chỉ, khó",
+    "hint": "tính từ/trạng từ cơ bản",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 270,
+    "word": "big",
+    "type": "adjective",
+    "family": "size",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "to lớn",
+    "hint": "tính từ kích thước",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 271,
+    "word": "small",
+    "type": "adjective",
+    "family": "size",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "nhỏ bé",
+    "hint": "tính từ kích thước",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 272,
+    "word": "hot",
+    "type": "adjective",
+    "family": "weather",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "nóng nực",
+    "hint": "tính từ thời tiết",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 273,
+    "word": "cold",
+    "type": "adjective",
+    "family": "weather",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "lạnh giá",
+    "hint": "tính từ thời tiết",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 274,
+    "word": "new",
+    "type": "adjective",
+    "family": "age",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "mới mẻ",
+    "hint": "tính từ đặc điểm",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 275,
+    "word": "old",
+    "type": "adjective",
+    "family": "age",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "cũ, già",
+    "hint": "tính từ đặc điểm",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 276,
+    "word": "early",
+    "type": "adjective",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "sớm",
+    "hint": "tính từ thời gian",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 277,
+    "word": "late",
+    "type": "adjective",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "muộn, trễ",
+    "hint": "tính từ thời gian",
+    "confusionWords": [
+      "happy",
+      "busy",
+      "fast"
+    ]
+  },
+  {
+    "id": 278,
+    "word": "always",
+    "type": "adverb",
+    "family": "frequency",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "luôn luôn",
+    "hint": "trạng từ tần suất",
+    "confusionWords": [
+      "never",
+      "often",
+      "usually"
+    ]
+  },
+  {
+    "id": 279,
+    "word": "never",
+    "type": "adverb",
+    "family": "frequency",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "không bao giờ",
+    "hint": "trạng từ tần suất",
+    "confusionWords": [
+      "always",
+      "often",
+      "usually"
+    ]
+  },
+  {
+    "id": 280,
+    "word": "often",
+    "type": "adverb",
+    "family": "frequency",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "thường xuyên",
+    "hint": "trạng từ tần suất",
+    "confusionWords": [
+      "always",
+      "never",
+      "usually"
+    ]
+  },
+  {
+    "id": 281,
+    "word": "usually",
+    "type": "adverb",
+    "family": "frequency",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "thường thường",
+    "hint": "trạng từ tần suất",
+    "confusionWords": [
+      "always",
+      "never",
+      "often"
+    ]
+  },
+  {
+    "id": 282,
+    "word": "sometimes",
+    "type": "adverb",
+    "family": "frequency",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "thỉnh thoảng",
+    "hint": "trạng từ tần suất",
+    "confusionWords": [
+      "always",
+      "never",
+      "often"
+    ]
+  },
+  {
+    "id": 283,
+    "word": "today",
+    "type": "adverb",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "hôm nay",
+    "hint": "trạng từ thời gian",
+    "confusionWords": [
+      "always",
+      "never",
+      "often"
+    ]
+  },
+  {
+    "id": 284,
+    "word": "yesterday",
+    "type": "adverb",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "hôm qua",
+    "hint": "trạng từ thời gian",
+    "confusionWords": [
+      "always",
+      "never",
+      "often"
+    ]
+  },
+  {
+    "id": 285,
+    "word": "tomorrow",
+    "type": "adverb",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "ngày mai",
+    "hint": "trạng từ thời gian",
+    "confusionWords": [
+      "always",
+      "never",
+      "often"
+    ]
+  },
+  {
+    "id": 286,
+    "word": "well",
+    "type": "adverb",
+    "family": "good",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "tốt, giỏi",
+    "hint": "trạng từ bất quy tắc",
+    "confusionWords": [
+      "always",
+      "never",
+      "often"
+    ]
+  },
+  {
+    "id": 287,
+    "word": "run",
+    "type": "verb",
+    "family": "run",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chạy bộ",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "walk",
+      "eat",
+      "drink"
+    ]
+  },
+  {
+    "id": 288,
+    "word": "walk",
+    "type": "verb",
+    "family": "walk",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đi bộ",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "run",
+      "eat",
+      "drink"
+    ]
+  },
+  {
+    "id": 289,
+    "word": "eat",
+    "type": "verb",
+    "family": "eat",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ăn",
+    "hint": "động từ cơ bản",
+    "confusionWords": [
+      "run",
+      "walk",
+      "drink"
+    ]
+  },
+  {
+    "id": 290,
+    "word": "drink",
+    "type": "verb",
+    "family": "drink",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "uống",
+    "hint": "động từ cơ bản",
+    "confusionWords": [
+      "run",
+      "walk",
+      "eat"
+    ]
+  },
+  {
+    "id": 291,
+    "word": "sleep",
+    "type": "verb",
+    "family": "sleep",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngủ",
+    "hint": "động từ cơ bản",
+    "confusionWords": [
+      "run",
+      "walk",
+      "eat"
+    ]
+  },
+  {
+    "id": 292,
+    "word": "study",
+    "type": "verb",
+    "family": "study",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "học tập",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "run",
+      "walk",
+      "eat"
+    ]
+  },
+  {
+    "id": 293,
+    "word": "work",
+    "type": "verb",
+    "family": "work",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm việc",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "run",
+      "walk",
+      "eat"
+    ]
+  },
+  {
+    "id": 294,
+    "word": "clean",
+    "type": "verb",
+    "family": "clean",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "lau dọn",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "run",
+      "walk",
+      "eat"
+    ]
+  },
+  {
+    "id": 295,
+    "word": "cook",
+    "type": "verb",
+    "family": "cook",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nấu ăn",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "run",
+      "walk",
+      "eat"
+    ]
+  },
+  {
+    "id": 296,
+    "word": "swim",
+    "type": "verb",
+    "family": "swim",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bơi lội",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "run",
+      "walk",
+      "eat"
+    ]
+  },
+  {
+    "id": 297,
+    "word": "success",
+    "type": "noun",
+    "family": "success",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự thành công",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "succeed",
+      "successful",
+      "successfully"
+    ]
+  },
+  {
+    "id": 298,
+    "word": "succeed",
+    "type": "verb",
+    "family": "success",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thành công",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ]
+  },
+  {
+    "id": 299,
+    "word": "beauty",
+    "type": "noun",
+    "family": "beauty",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "vẻ đẹp",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ]
+  },
+  {
+    "id": 300,
+    "word": "care",
+    "type": "noun",
+    "family": "care",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự cẩn thận",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "care",
+      "careful",
+      "carefully"
+    ]
+  },
+  {
+    "id": 301,
+    "word": "heal",
+    "type": "verb",
+    "family": "health",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chữa lành",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ]
+  },
+  {
+    "id": 302,
+    "word": "decision",
+    "type": "noun",
+    "family": "decide",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự quyết định",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "decide",
+      "decisive",
+      "decisively"
+    ]
+  },
+  {
+    "id": 303,
+    "word": "decide",
+    "type": "verb",
+    "family": "decide",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "quyết định",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ]
+  },
+  {
+    "id": 304,
+    "word": "develop",
+    "type": "verb",
+    "family": "develop",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "phát triển",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ]
+  },
+  {
+    "id": 305,
+    "word": "developing",
+    "type": "adjective",
+    "family": "develop",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đang phát triển",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ]
+  },
+  {
+    "id": 306,
+    "word": "interest",
+    "type": "noun",
+    "family": "interest",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự quan tâm",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "interest",
+      "interesting",
+      "interestingly"
+    ]
+  },
+  {
+    "id": 307,
+    "word": "interesting",
+    "type": "adjective",
+    "family": "interest",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thú vị",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "interest",
+      "interest",
+      "interesting",
+      "interestingly"
+    ]
+  },
+  {
+    "id": 308,
+    "word": "befriend",
+    "type": "verb",
+    "family": "friend",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "kết bạn",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ]
+  },
+  {
+    "id": 309,
+    "word": "danger",
+    "type": "noun",
+    "family": "danger",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự nguy hiểm",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ]
+  },
+  {
+    "id": 310,
+    "word": "endanger",
+    "type": "verb",
+    "family": "danger",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "gây nguy hiểm",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ]
+  },
+  {
+    "id": 311,
+    "word": "use",
+    "type": "noun",
+    "family": "use",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự sử dụng",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "use",
+      "useful",
+      "usefully"
+    ]
+  },
+  {
+    "id": 312,
+    "word": "help",
+    "type": "noun",
+    "family": "help",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự giúp đỡ",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "help",
+      "helpful",
+      "helpfully"
+    ]
+  },
+  {
+    "id": 313,
+    "word": "comfort",
+    "type": "noun",
+    "family": "comfort",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự thoải mái",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "comfort",
+      "comfortable",
+      "comfortably"
+    ]
+  },
+  {
+    "id": 314,
+    "word": "power",
+    "type": "noun",
+    "family": "power",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sức mạnh",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "empower",
+      "powerful",
+      "powerfully"
+    ]
+  },
+  {
+    "id": 315,
+    "word": "empower",
+    "type": "verb",
+    "family": "power",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "trao quyền",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ]
+  },
+  {
+    "id": 316,
+    "word": "peace",
+    "type": "noun",
+    "family": "peace",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "hòa bình",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ]
+  },
+  {
+    "id": 317,
+    "word": "culture",
+    "type": "noun",
+    "family": "culture",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "văn hóa",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "cultivate",
+      "cultural",
+      "culturally"
+    ]
+  },
+  {
+    "id": 318,
+    "word": "music",
+    "type": "noun",
+    "family": "music",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "âm nhạc",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "music",
+      "musical",
+      "musically"
+    ]
+  },
+  {
+    "id": 319,
+    "word": "industry",
+    "type": "noun",
+    "family": "industry",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "công nghiệp",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "industrialize",
+      "industrial",
+      "industrially"
+    ]
+  },
+  {
+    "id": 320,
+    "word": "history",
+    "type": "noun",
+    "family": "history",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "lịch sử",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "history",
+      "historic",
+      "historically"
+    ]
+  },
+  {
+    "id": 321,
+    "word": "nature",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tự nhiên",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "naturalize",
+      "natural",
+      "naturally"
+    ]
+  },
+  {
+    "id": 322,
+    "word": "technology",
+    "type": "noun",
+    "family": "technology",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "công nghệ",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "technology",
+      "technological",
+      "technologically"
+    ]
+  },
+  {
+    "id": 323,
+    "word": "celebrated",
+    "type": "adjective",
+    "family": "celebrate",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nổi tiếng",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ]
+  },
+  {
+    "id": 324,
+    "word": "comparison",
+    "type": "noun",
+    "family": "compare",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự so sánh",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "compare",
+      "comparative",
+      "comparatively"
+    ]
+  },
+  {
+    "id": 325,
+    "word": "compare",
+    "type": "verb",
+    "family": "compare",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "so sánh",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ]
+  },
+  {
+    "id": 326,
+    "word": "protect",
+    "type": "verb",
+    "family": "protect",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bảo vệ",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ]
+  },
+  {
+    "id": 327,
+    "word": "support",
+    "type": "noun",
+    "family": "support",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự ủng hộ",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "support",
+      "supportive",
+      "supportively"
+    ]
+  },
+  {
+    "id": 328,
+    "word": "act",
+    "type": "verb",
+    "family": "act",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "hành động",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ]
+  },
+  {
+    "id": 329,
+    "word": "attract",
+    "type": "verb",
+    "family": "attract",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thu hút",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ]
+  },
+  {
+    "id": 330,
+    "word": "sad",
+    "type": "adjective",
+    "family": "sad",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "buồn bã",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ]
+  },
+  {
+    "id": 331,
+    "word": "enable",
+    "type": "verb",
+    "family": "able",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cho phép",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ]
+  },
+  {
+    "id": 332,
+    "word": "direct",
+    "type": "verb",
+    "family": "direct",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "hướng dẫn",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "direction",
+      "direct",
+      "direct",
+      "directly"
+    ]
+  },
+  {
+    "id": 333,
+    "word": "excite",
+    "type": "noun",
+    "family": "excite",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự phấn khích",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "excite",
+      "exciting",
+      "excitingly"
+    ]
+  },
+  {
+    "id": 334,
+    "word": "exciting",
+    "type": "adjective",
+    "family": "excite",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thú vị, phấn khích",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "excite",
+      "excite",
+      "exciting",
+      "excitingly"
+    ]
+  },
+  {
+    "id": 335,
+    "word": "fame",
+    "type": "noun",
+    "family": "fame",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự nổi tiếng",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "defame",
+      "famous",
+      "famously"
+    ]
+  },
+  {
+    "id": 336,
+    "word": "defame",
+    "type": "verb",
+    "family": "fame",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nói xấu",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ]
+  },
+  {
+    "id": 337,
+    "word": "agree",
+    "type": "verb",
+    "family": "agree",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đồng ý",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ]
+  },
+  {
+    "id": 338,
+    "word": "appear",
+    "type": "verb",
+    "family": "appear",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "xuất hiện",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ]
+  },
+  {
+    "id": 339,
+    "word": "assist",
+    "type": "verb",
+    "family": "assist",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "giúp đỡ",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ]
+  },
+  {
+    "id": 340,
+    "word": "attend",
+    "type": "verb",
+    "family": "attend",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tham gia",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ]
+  },
+  {
+    "id": 341,
+    "word": "bravery",
+    "type": "noun",
+    "family": "brave",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự dũng cảm",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "brave",
+      "brave",
+      "bravely"
+    ]
+  },
+  {
+    "id": 342,
+    "word": "brave",
+    "type": "verb",
+    "family": "brave",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bất chấp",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "bravery",
+      "brave",
+      "brave",
+      "bravely"
+    ]
+  },
+  {
+    "id": 343,
+    "word": "bright",
+    "type": "adjective",
+    "family": "bright",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sáng sủa",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ]
+  },
+  {
+    "id": 344,
+    "word": "collect",
+    "type": "verb",
+    "family": "collect",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sưu tập",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ]
+  },
+  {
+    "id": 345,
+    "word": "compete",
+    "type": "verb",
+    "family": "compete",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cạnh tranh",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ]
+  },
+  {
+    "id": 346,
+    "word": "confide",
+    "type": "verb",
+    "family": "confidence",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tâm sự",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ]
+  },
+  {
+    "id": 347,
+    "word": "connect",
+    "type": "verb",
+    "family": "connect",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "kết nối",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ]
+  },
+  {
+    "id": 348,
+    "word": "connected",
+    "type": "adjective",
+    "family": "connect",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "được kết nối",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ]
+  },
+  {
+    "id": 349,
+    "word": "courage",
+    "type": "noun",
+    "family": "courage",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "lòng can đảm",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "encourage",
+      "courageous",
+      "courageously"
+    ]
+  },
+  {
+    "id": 350,
+    "word": "encourage",
+    "type": "verb",
+    "family": "courage",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "khuyến khích",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ]
+  },
+  {
+    "id": 351,
+    "word": "dark",
+    "type": "adjective",
+    "family": "dark",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tối tăm",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ]
+  },
+  {
+    "id": 352,
+    "word": "deep",
+    "type": "adjective",
+    "family": "deep",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sâu sắc",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ]
+  },
+  {
+    "id": 353,
+    "word": "depend",
+    "type": "verb",
+    "family": "depend",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "phụ thuộc",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ]
+  },
+  {
+    "id": 354,
+    "word": "describe",
+    "type": "verb",
+    "family": "describe",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "miêu tả",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ]
+  },
+  {
+    "id": 355,
+    "word": "differ",
+    "type": "verb",
+    "family": "differ",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "khác biệt",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ]
+  },
+  {
+    "id": 356,
+    "word": "difficulty",
+    "type": "noun",
+    "family": "difficult",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự khó khăn",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "difficulty",
+      "difficult",
+      "difficultly"
+    ]
+  },
+  {
+    "id": 357,
+    "word": "difficult",
+    "type": "adjective",
+    "family": "difficult",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "khó khăn",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "difficulty",
+      "difficulty",
+      "difficult",
+      "difficultly"
+    ]
+  },
+  {
+    "id": 358,
+    "word": "disappoint",
+    "type": "verb",
+    "family": "disappoint",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm thất vọng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ]
+  },
+  {
+    "id": 359,
+    "word": "disappointing",
+    "type": "adjective",
+    "family": "disappoint",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đáng thất vọng",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ]
+  },
+  {
+    "id": 360,
+    "word": "honesty",
+    "type": "noun",
+    "family": "honest",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "lòng trung thực",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "honest",
+      "honest",
+      "honestly"
+    ]
+  },
+  {
+    "id": 361,
+    "word": "honest",
+    "type": "verb",
+    "family": "honest",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "trung thực",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "honesty",
+      "honest",
+      "honest",
+      "honestly"
+    ]
+  },
+  {
+    "id": 362,
+    "word": "economy",
+    "type": "noun",
+    "family": "economy",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nền kinh tế",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "economize",
+      "economic",
+      "economically"
+    ]
+  },
+  {
+    "id": 363,
+    "word": "employ",
+    "type": "verb",
+    "family": "employ",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thuê mướn",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ]
+  },
+  {
+    "id": 364,
+    "word": "employed",
+    "type": "adjective",
+    "family": "employ",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "có việc làm",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ]
+  },
+  {
+    "id": 365,
+    "word": "enjoy",
+    "type": "verb",
+    "family": "enjoy",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thưởng thức",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ]
+  },
+  {
+    "id": 366,
+    "word": "explain",
+    "type": "verb",
+    "family": "explain",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "giải thích",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ]
+  },
+  {
+    "id": 367,
+    "word": "forget",
+    "type": "verb",
+    "family": "forget",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "quên",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ]
+  },
+  {
+    "id": 368,
+    "word": "free",
+    "type": "verb",
+    "family": "free",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "giải phóng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "freedom",
+      "free",
+      "free",
+      "freely"
+    ]
+  },
+  {
+    "id": 369,
+    "word": "grow",
+    "type": "verb",
+    "family": "grow",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tăng trưởng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ]
+  },
+  {
+    "id": 370,
+    "word": "growing",
+    "type": "adjective",
+    "family": "grow",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đang lớn",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ]
+  },
+  {
+    "id": 371,
+    "word": "height",
+    "type": "noun",
+    "family": "high",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chiều cao",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "heighten",
+      "high",
+      "highly"
+    ]
+  },
+  {
+    "id": 372,
+    "word": "high",
+    "type": "adjective",
+    "family": "high",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cao",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ]
+  },
+  {
+    "id": 373,
+    "word": "imagine",
+    "type": "verb",
+    "family": "imagine",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tưởng tượng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ]
+  },
+  {
+    "id": 374,
+    "word": "impression",
+    "type": "noun",
+    "family": "impress",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ấn tượng",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "impress",
+      "impressive",
+      "impressively"
+    ]
+  },
+  {
+    "id": 375,
+    "word": "impress",
+    "type": "verb",
+    "family": "impress",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "gây ấn tượng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ]
+  },
+  {
+    "id": 376,
+    "word": "improve",
+    "type": "verb",
+    "family": "improve",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cải tiến",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ]
+  },
+  {
+    "id": 377,
+    "word": "improved",
+    "type": "adjective",
+    "family": "improve",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "được cải thiện",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ]
+  },
+  {
+    "id": 378,
+    "word": "inform",
+    "type": "verb",
+    "family": "inform",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thông báo",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ]
+  },
+  {
+    "id": 379,
+    "word": "invent",
+    "type": "verb",
+    "family": "invent",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "phát minh",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ]
+  },
+  {
+    "id": 380,
+    "word": "invite",
+    "type": "verb",
+    "family": "invite",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mời",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ]
+  },
+  {
+    "id": 381,
+    "word": "inviting",
+    "type": "adjective",
+    "family": "invite",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "hấp dẫn",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ]
+  },
+  {
+    "id": 382,
+    "word": "kind",
+    "type": "verb",
+    "family": "kind",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tử tế",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "kindness",
+      "kind",
+      "kind",
+      "kindly"
+    ]
+  },
+  {
+    "id": 383,
+    "word": "knowledge",
+    "type": "noun",
+    "family": "know",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "kiến thức",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "know",
+      "knowledgeable",
+      "knowledgeably"
+    ]
+  },
+  {
+    "id": 384,
+    "word": "know",
+    "type": "verb",
+    "family": "know",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "biết",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "knowledge",
+      "know",
+      "knowledgeable",
+      "knowledgeably"
+    ]
+  },
+  {
+    "id": 385,
+    "word": "life",
+    "type": "noun",
+    "family": "live",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cuộc sống",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "live",
+      "lively",
+      "live"
+    ]
+  },
+  {
+    "id": 386,
+    "word": "live",
+    "type": "verb",
+    "family": "live",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sống",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "life",
+      "live",
+      "lively",
+      "live"
+    ]
+  },
+  {
+    "id": 387,
+    "word": "long",
+    "type": "adjective",
+    "family": "long",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "dài",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "length",
+      "lengthen",
+      "long",
+      "longingly"
+    ]
+  },
+  {
+    "id": 388,
+    "word": "love",
+    "type": "noun",
+    "family": "love",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tình yêu",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "love",
+      "lovely",
+      "lovingly"
+    ]
+  },
+  {
+    "id": 389,
+    "word": "move",
+    "type": "verb",
+    "family": "move",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "di chuyển",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "movement",
+      "move",
+      "movable",
+      "movably"
+    ]
+  },
+  {
+    "id": 390,
+    "word": "noise",
+    "type": "noun",
+    "family": "noise",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tiếng ồn",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "noise",
+      "noisy",
+      "noisily"
+    ]
+  },
+  {
+    "id": 391,
+    "word": "perfect",
+    "type": "verb",
+    "family": "perfect",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "hoàn thiện",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "perfection",
+      "perfect",
+      "perfect",
+      "perfectly"
+    ]
+  },
+  {
+    "id": 392,
+    "word": "perform",
+    "type": "verb",
+    "family": "perform",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "biểu diễn",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "performance",
+      "perform",
+      "performing",
+      "performingly"
+    ]
+  },
+  {
+    "id": 393,
+    "word": "performing",
+    "type": "adjective",
+    "family": "perform",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đang biểu diễn",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "performance",
+      "perform",
+      "performing",
+      "performingly"
+    ]
+  },
+  {
+    "id": 394,
+    "word": "polite",
+    "type": "verb",
+    "family": "polite",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "lịch sự",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "politeness",
+      "polite",
+      "polite",
+      "politely"
+    ]
+  },
+  {
+    "id": 395,
+    "word": "popular",
+    "type": "adjective",
+    "family": "popular",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "phổ biến",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "popularity",
+      "popularize",
+      "popular",
+      "popularly"
+    ]
+  },
+  {
+    "id": 396,
+    "word": "prepare",
+    "type": "verb",
+    "family": "prepare",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chuẩn bị",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "preparation",
+      "prepare",
+      "prepared",
+      "preparedly"
+    ]
+  },
+  {
+    "id": 397,
+    "word": "prepared",
+    "type": "adjective",
+    "family": "prepare",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sẵn sàng",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "preparation",
+      "prepare",
+      "prepared",
+      "preparedly"
+    ]
+  },
+  {
+    "id": 398,
+    "word": "produce",
+    "type": "verb",
+    "family": "produce",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sản xuất",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "production",
+      "produce",
+      "productive",
+      "productively"
+    ]
+  },
+  {
+    "id": 399,
+    "word": "pride",
+    "type": "noun",
+    "family": "proud",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự tự hào",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "pride",
+      "proud",
+      "proudly"
+    ]
+  },
+  {
+    "id": 400,
+    "word": "proud",
+    "type": "adjective",
+    "family": "proud",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tự hào",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "pride",
+      "pride",
+      "proud",
+      "proudly"
+    ]
+  },
+  {
+    "id": 401,
+    "word": "quiet",
+    "type": "verb",
+    "family": "quiet",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm dịu",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "quietness",
+      "quiet",
+      "quiet",
+      "quietly"
+    ]
+  },
+  {
+    "id": 402,
+    "word": "relax",
+    "type": "verb",
+    "family": "relax",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thư giãn",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "relaxation",
+      "relax",
+      "relaxing",
+      "relaxingly"
+    ]
+  },
+  {
+    "id": 403,
+    "word": "relaxing",
+    "type": "adjective",
+    "family": "relax",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thư giãn",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "relaxation",
+      "relax",
+      "relaxing",
+      "relaxingly"
+    ]
+  },
+  {
+    "id": 404,
+    "word": "safety",
+    "type": "noun",
+    "family": "safe",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "sự an toàn",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "safe",
+      "safe",
+      "safely"
+    ]
+  },
+  {
+    "id": 405,
+    "word": "safe",
+    "type": "verb",
+    "family": "safe",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "an toàn",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "safety",
+      "safe",
+      "safe",
+      "safely"
+    ]
+  },
+  {
+    "id": 406,
+    "word": "satisfy",
+    "type": "verb",
+    "family": "satisfy",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm hài lòng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "satisfaction",
+      "satisfy",
+      "satisfactory",
+      "satisfactorily"
+    ]
+  },
+  {
+    "id": 407,
+    "word": "short",
+    "type": "adjective",
+    "family": "short",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngắn",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "shortness",
+      "shorten",
+      "short",
+      "shortly"
+    ]
+  },
+  {
+    "id": 408,
+    "word": "simple",
+    "type": "adjective",
+    "family": "simple",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đơn giản",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "simplicity",
+      "simplify",
+      "simple",
+      "simply"
+    ]
+  },
+  {
+    "id": 409,
+    "word": "soft",
+    "type": "adjective",
+    "family": "soft",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mềm",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "softness",
+      "soften",
+      "soft",
+      "softly"
+    ]
+  },
+  {
+    "id": 410,
+    "word": "strong",
+    "type": "adjective",
+    "family": "strong",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mạnh mẽ",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "strength",
+      "strengthen",
+      "strong",
+      "strongly"
+    ]
+  },
+  {
+    "id": 411,
+    "word": "thought",
+    "type": "noun",
+    "family": "thought",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "suy nghĩ",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "think",
+      "thoughtful",
+      "thoughtfully"
+    ]
+  },
+  {
+    "id": 412,
+    "word": "think",
+    "type": "verb",
+    "family": "thought",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "suy nghĩ",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "thought",
+      "think",
+      "thoughtful",
+      "thoughtfully"
+    ]
+  },
+  {
+    "id": 413,
+    "word": "true",
+    "type": "verb",
+    "family": "true",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đúng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "truth",
+      "true",
+      "true",
+      "truly"
+    ]
+  },
+  {
+    "id": 414,
+    "word": "warm",
+    "type": "verb",
+    "family": "warm",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm ấm",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "warmth",
+      "warm",
+      "warm",
+      "warmly"
+    ]
+  },
+  {
+    "id": 415,
+    "word": "weakness",
+    "type": "noun",
+    "family": "weak",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "điểm yếu",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "weaken",
+      "weak",
+      "weakly"
+    ]
+  },
+  {
+    "id": 416,
+    "word": "weaken",
+    "type": "verb",
+    "family": "weak",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm yếu đi",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "weakness",
+      "weaken",
+      "weak",
+      "weakly"
+    ]
+  },
+  {
+    "id": 417,
+    "word": "weak",
+    "type": "adjective",
+    "family": "weak",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "yếu",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "weakness",
+      "weaken",
+      "weak",
+      "weakly"
+    ]
+  },
+  {
+    "id": 418,
+    "word": "width",
+    "type": "noun",
+    "family": "wide",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chiều rộng",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "widen",
+      "wide",
+      "widely"
+    ]
+  },
+  {
+    "id": 419,
+    "word": "widen",
+    "type": "verb",
+    "family": "wide",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mở rộng",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "width",
+      "widen",
+      "wide",
+      "widely"
+    ]
+  },
+  {
+    "id": 420,
+    "word": "wide",
+    "type": "adjective",
+    "family": "wide",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "rộng",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "width",
+      "widen",
+      "wide",
+      "widely"
+    ]
+  },
+  {
+    "id": 421,
+    "word": "wisdom",
+    "type": "noun",
+    "family": "wise",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "trí khôn",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "wise",
+      "wise",
+      "wisely"
+    ]
+  },
+  {
+    "id": 422,
+    "word": "wise",
+    "type": "verb",
+    "family": "wise",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "khôn ngoan",
+    "hint": "Từ phổ biến: verb",
+    "confusionWords": [
+      "wisdom",
+      "wise",
+      "wise",
+      "wisely"
+    ]
+  },
+  {
+    "id": 423,
+    "word": "wonder",
+    "type": "noun",
+    "family": "wonder",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "điều kỳ diệu",
+    "hint": "Từ phổ biến: noun",
+    "confusionWords": [
+      "wonder",
+      "wonderful",
+      "wonderfully"
+    ]
+  },
+  {
+    "id": 424,
+    "word": "wonderful",
+    "type": "adjective",
+    "family": "wonder",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tuyệt vời",
+    "hint": "Từ phổ biến: adjective",
+    "confusionWords": [
+      "wonder",
+      "wonder",
+      "wonderful",
+      "wonderfully"
+    ]
+  },
+  {
+    "id": 425,
+    "word": "window",
+    "type": "noun",
+    "family": "house",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cửa sổ",
+    "hint": "danh từ chỉ vật",
+    "confusionWords": [
+      "door",
+      "table",
+      "chair"
+    ]
+  },
+  {
+    "id": 426,
+    "word": "door",
+    "type": "noun",
+    "family": "house",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cánh cửa",
+    "hint": "danh từ chỉ vật",
+    "confusionWords": [
+      "window",
+      "table",
+      "chair"
+    ]
+  },
+  {
+    "id": 427,
+    "word": "table",
+    "type": "noun",
+    "family": "furniture",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cái bàn",
+    "hint": "danh từ chỉ vật",
+    "confusionWords": [
+      "window",
+      "door",
+      "chair"
+    ]
+  },
+  {
+    "id": 428,
+    "word": "chair",
+    "type": "noun",
+    "family": "furniture",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cái ghế",
+    "hint": "danh từ chỉ vật",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 429,
+    "word": "water",
+    "type": "noun",
+    "family": "drink",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nước",
+    "hint": "danh từ không đếm được",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 430,
+    "word": "food",
+    "type": "noun",
+    "family": "eat",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thức ăn",
+    "hint": "danh từ chỉ đồ ăn",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 431,
+    "word": "friend",
+    "type": "noun",
+    "family": "friend",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "người bạn",
+    "hint": "danh từ chỉ người",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 432,
+    "word": "parent",
+    "type": "noun",
+    "family": "family",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "phụ huynh",
+    "hint": "danh từ chỉ người",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 433,
+    "word": "brother",
+    "type": "noun",
+    "family": "family",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "anh em trai",
+    "hint": "danh từ chỉ người",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 434,
+    "word": "sister",
+    "type": "noun",
+    "family": "family",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chị em gái",
+    "hint": "danh từ chỉ người",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 435,
+    "word": "cat",
+    "type": "noun",
+    "family": "animal",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "con mèo",
+    "hint": "danh từ động vật",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 436,
+    "word": "dog",
+    "type": "noun",
+    "family": "animal",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "con chó",
+    "hint": "danh từ động vật",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 437,
+    "word": "bird",
+    "type": "noun",
+    "family": "animal",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "con chim",
+    "hint": "danh từ động vật",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 438,
+    "word": "fish",
+    "type": "noun",
+    "family": "animal",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "con cá",
+    "hint": "danh từ động vật",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 439,
+    "word": "tree",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cái cây",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 440,
+    "word": "flower",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bông hoa",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 441,
+    "word": "sun",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mặt trời",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 442,
+    "word": "moon",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mặt trăng",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 443,
+    "word": "star",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngôi sao",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 444,
+    "word": "sky",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bầu trời",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 445,
+    "word": "cloud",
+    "type": "noun",
+    "family": "nature",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đám mây",
+    "hint": "danh từ tự nhiên",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 446,
+    "word": "rain",
+    "type": "noun",
+    "family": "weather",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cơn mưa",
+    "hint": "danh từ thời tiết",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 447,
+    "word": "snow",
+    "type": "noun",
+    "family": "weather",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tuyết",
+    "hint": "danh từ thời tiết",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 448,
+    "word": "wind",
+    "type": "noun",
+    "family": "weather",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cơn gió",
+    "hint": "danh từ thời tiết",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 449,
+    "word": "street",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đường phố",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 450,
+    "word": "city",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thành phố",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 451,
+    "word": "village",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngôi làng",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 452,
+    "word": "country",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đất nước",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 453,
+    "word": "world",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thế giới",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 454,
+    "word": "time",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thời gian",
+    "hint": "danh từ trừu tượng",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 455,
+    "word": "year",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "năm",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 456,
+    "word": "month",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tháng",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 457,
+    "word": "week",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tuần",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 458,
+    "word": "day",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngày",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 459,
+    "word": "hour",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "giờ",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 460,
+    "word": "minute",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "phút",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 461,
+    "word": "second",
+    "type": "noun",
+    "family": "time",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "giây",
+    "hint": "danh từ thời gian",
+    "confusionWords": [
+      "window",
+      "door",
+      "table"
+    ]
+  },
+  {
+    "id": 462,
+    "word": "good",
+    "type": "adjective",
+    "family": "good",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "tốt",
+    "hint": "tính từ đặc điểm",
+    "confusionWords": [
+      "bad",
+      "beautiful",
+      "ugly"
+    ]
+  },
+  {
+    "id": 463,
+    "word": "bad",
+    "type": "adjective",
+    "family": "bad",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "xấu, tồi",
+    "hint": "tính từ đặc điểm",
+    "confusionWords": [
+      "good",
+      "beautiful",
+      "ugly"
+    ]
+  },
+  {
+    "id": 464,
+    "word": "beautiful",
+    "type": "adjective",
+    "family": "beauty",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "đẹp",
+    "hint": "tính từ mô tả",
+    "confusionWords": [
+      "good",
+      "bad",
+      "ugly"
+    ]
+  },
+  {
+    "id": 465,
+    "word": "ugly",
+    "type": "adjective",
+    "family": "ugly",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "xấu xí",
+    "hint": "tính từ mô tả",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 466,
+    "word": "dirty",
+    "type": "adjective",
+    "family": "dirty",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "bẩn thỉu",
+    "hint": "tính từ trạng thái",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 467,
+    "word": "smart",
+    "type": "adjective",
+    "family": "smart",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "thông minh",
+    "hint": "tính từ chỉ phẩm chất",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 468,
+    "word": "stupid",
+    "type": "adjective",
+    "family": "stupid",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "ngốc nghếch",
+    "hint": "tính từ chỉ phẩm chất",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 469,
+    "word": "rich",
+    "type": "adjective",
+    "family": "rich",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "giàu có",
+    "hint": "tính từ tình trạng",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 470,
+    "word": "poor",
+    "type": "adjective",
+    "family": "poor",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "nghèo khó",
+    "hint": "tính từ tình trạng",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 471,
+    "word": "tall",
+    "type": "adjective",
+    "family": "size",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "cao",
+    "hint": "tính từ kích thước",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 472,
+    "word": "heavy",
+    "type": "adjective",
+    "family": "weight",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "nặng",
+    "hint": "tính từ trọng lượng",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 473,
+    "word": "light",
+    "type": "adjective",
+    "family": "weight",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "nhẹ, sáng",
+    "hint": "tính từ trọng lượng/đặc điểm",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 474,
+    "word": "easy",
+    "type": "adjective",
+    "family": "difficulty",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "dễ dàng",
+    "hint": "tính từ mức độ",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 475,
+    "word": "scared",
+    "type": "adjective",
+    "family": "fear",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "sợ hãi",
+    "hint": "tính từ cảm xúc",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 476,
+    "word": "funny",
+    "type": "adjective",
+    "family": "fun",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "buồn cười",
+    "hint": "tính từ cảm xúc",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 477,
+    "word": "angry",
+    "type": "adjective",
+    "family": "anger",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "tức giận",
+    "hint": "tính từ cảm xúc",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 478,
+    "word": "tired",
+    "type": "adjective",
+    "family": "tired",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "mệt mỏi",
+    "hint": "tính từ cảm xúc",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 479,
+    "word": "hungry",
+    "type": "adjective",
+    "family": "hunger",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "đói",
+    "hint": "tính từ cảm xúc",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 480,
+    "word": "thirsty",
+    "type": "adjective",
+    "family": "thirst",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "khát",
+    "hint": "tính từ cảm xúc",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 481,
+    "word": "sick",
+    "type": "adjective",
+    "family": "illness",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "ốm",
+    "hint": "tính từ tình trạng",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 482,
+    "word": "healthy",
+    "type": "adjective",
+    "family": "health",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "khỏe mạnh",
+    "hint": "tính từ tình trạng",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 483,
+    "word": "young",
+    "type": "adjective",
+    "family": "age",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "trẻ tuổi",
+    "hint": "tính từ độ tuổi",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 484,
+    "word": "right",
+    "type": "adjective",
+    "family": "direction",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "đúng, bên phải",
+    "hint": "tính từ vị trí/đặc điểm",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 485,
+    "word": "left",
+    "type": "adjective",
+    "family": "direction",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "bên trái",
+    "hint": "tính từ vị trí",
+    "confusionWords": [
+      "good",
+      "bad",
+      "beautiful"
+    ]
+  },
+  {
+    "id": 486,
+    "word": "here",
+    "type": "adverb",
+    "family": "place",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "ở đây",
+    "hint": "trạng từ nơi chốn",
+    "confusionWords": [
+      "there",
+      "up",
+      "down"
+    ]
+  },
+  {
+    "id": 487,
+    "word": "there",
+    "type": "adverb",
+    "family": "place",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "ở đó",
+    "hint": "trạng từ nơi chốn",
+    "confusionWords": [
+      "here",
+      "up",
+      "down"
+    ]
+  },
+  {
+    "id": 488,
+    "word": "up",
+    "type": "adverb",
+    "family": "direction",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "lên",
+    "hint": "trạng từ hướng",
+    "confusionWords": [
+      "here",
+      "there",
+      "down"
+    ]
+  },
+  {
+    "id": 489,
+    "word": "down",
+    "type": "adverb",
+    "family": "direction",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "xuống",
+    "hint": "trạng từ hướng",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 490,
+    "word": "in",
+    "type": "adverb",
+    "family": "position",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "vào trong",
+    "hint": "trạng từ vị trí",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 491,
+    "word": "out",
+    "type": "adverb",
+    "family": "position",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "ra ngoài",
+    "hint": "trạng từ vị trí",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 492,
+    "word": "now",
+    "type": "adverb",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "bây giờ",
+    "hint": "trạng từ thời gian",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 493,
+    "word": "then",
+    "type": "adverb",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "sau đó",
+    "hint": "trạng từ thời gian",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 494,
+    "word": "soon",
+    "type": "adverb",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "sớm thôi",
+    "hint": "trạng từ thời gian",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 495,
+    "word": "again",
+    "type": "adverb",
+    "family": "frequency",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "lại, nữa",
+    "hint": "trạng từ tần suất",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 496,
+    "word": "together",
+    "type": "adverb",
+    "family": "manner",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "cùng nhau",
+    "hint": "trạng từ cách thức",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 497,
+    "word": "alone",
+    "type": "adverb",
+    "family": "manner",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "một mình",
+    "hint": "trạng từ cách thức",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 498,
+    "word": "very",
+    "type": "adverb",
+    "family": "degree",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "rất",
+    "hint": "trạng từ mức độ",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 499,
+    "word": "too",
+    "type": "adverb",
+    "family": "degree",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "quá, cũng",
+    "hint": "trạng từ mức độ",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 500,
+    "word": "so",
+    "type": "adverb",
+    "family": "degree",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "vì vậy, quá",
+    "hint": "trạng từ mức độ",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 501,
+    "word": "really",
+    "type": "adverb",
+    "family": "degree",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "thật sự",
+    "hint": "trạng từ mức độ",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 502,
+    "word": "just",
+    "type": "adverb",
+    "family": "time",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "vừa mới, chỉ",
+    "hint": "trạng từ thời gian/mức độ",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 503,
+    "word": "only",
+    "type": "adverb",
+    "family": "degree",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "chỉ",
+    "hint": "trạng từ mức độ",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 504,
+    "word": "almost",
+    "type": "adverb",
+    "family": "degree",
+    "level": 2,
+    "difficulty": 3,
+    "vnMeaning": "gần như",
+    "hint": "trạng từ mức độ",
+    "confusionWords": [
+      "here",
+      "there",
+      "up"
+    ]
+  },
+  {
+    "id": 505,
+    "word": "see",
+    "type": "verb",
+    "family": "vision",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nhìn thấy",
+    "hint": "động từ giác quan",
+    "confusionWords": [
+      "hear",
+      "smell",
+      "taste"
+    ]
+  },
+  {
+    "id": 506,
+    "word": "hear",
+    "type": "verb",
+    "family": "hearing",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nghe thấy",
+    "hint": "động từ giác quan",
+    "confusionWords": [
+      "see",
+      "smell",
+      "taste"
+    ]
+  },
+  {
+    "id": 507,
+    "word": "smell",
+    "type": "verb",
+    "family": "smell",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ngửi",
+    "hint": "động từ giác quan",
+    "confusionWords": [
+      "see",
+      "hear",
+      "taste"
+    ]
+  },
+  {
+    "id": 508,
+    "word": "taste",
+    "type": "verb",
+    "family": "taste",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nếm",
+    "hint": "động từ giác quan",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 509,
+    "word": "touch",
+    "type": "verb",
+    "family": "touch",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chạm",
+    "hint": "động từ giác quan",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 510,
+    "word": "understand",
+    "type": "verb",
+    "family": "understand",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "hiểu",
+    "hint": "động từ nhận thức",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 511,
+    "word": "remember",
+    "type": "verb",
+    "family": "memory",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nhớ",
+    "hint": "động từ nhận thức",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 512,
+    "word": "hate",
+    "type": "verb",
+    "family": "hate",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ghét",
+    "hint": "động từ cảm xúc",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 513,
+    "word": "like",
+    "type": "verb",
+    "family": "like",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "thích",
+    "hint": "động từ cảm xúc",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 514,
+    "word": "want",
+    "type": "verb",
+    "family": "desire",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "muốn",
+    "hint": "động từ mong muốn",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 515,
+    "word": "need",
+    "type": "verb",
+    "family": "need",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cần",
+    "hint": "động từ nhu cầu",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 516,
+    "word": "go",
+    "type": "verb",
+    "family": "move",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đi",
+    "hint": "động từ di chuyển",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 517,
+    "word": "come",
+    "type": "verb",
+    "family": "move",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đến",
+    "hint": "động từ di chuyển",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 518,
+    "word": "stop",
+    "type": "verb",
+    "family": "move",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "dừng lại",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 519,
+    "word": "start",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bắt đầu",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 520,
+    "word": "finish",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "kết thúc",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 521,
+    "word": "open",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mở",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 522,
+    "word": "close",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đóng",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 523,
+    "word": "play",
+    "type": "verb",
+    "family": "play",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chơi",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 524,
+    "word": "buy",
+    "type": "verb",
+    "family": "trade",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "mua",
+    "hint": "động từ giao dịch",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 525,
+    "word": "sell",
+    "type": "verb",
+    "family": "trade",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bán",
+    "hint": "động từ giao dịch",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 526,
+    "word": "give",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cho, tặng",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 527,
+    "word": "take",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "lấy",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 528,
+    "word": "make",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm, tạo ra",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 529,
+    "word": "do",
+    "type": "verb",
+    "family": "action",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "làm",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 530,
+    "word": "say",
+    "type": "verb",
+    "family": "speak",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nói",
+    "hint": "động từ giao tiếp",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 531,
+    "word": "tell",
+    "type": "verb",
+    "family": "speak",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "kể, bảo",
+    "hint": "động từ giao tiếp",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 532,
+    "word": "ask",
+    "type": "verb",
+    "family": "speak",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "hỏi",
+    "hint": "động từ giao tiếp",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 533,
+    "word": "answer",
+    "type": "verb",
+    "family": "speak",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "trả lời",
+    "hint": "động từ giao tiếp",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 534,
+    "word": "read",
+    "type": "verb",
+    "family": "read",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "đọc",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 535,
+    "word": "write",
+    "type": "verb",
+    "family": "write",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "viết",
+    "hint": "động từ hành động",
+    "confusionWords": [
+      "see",
+      "hear",
+      "smell"
+    ]
+  },
+  {
+    "id": 536,
+    "word": "car",
+    "type": "noun",
+    "family": "vehicle",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "ô tô",
+    "hint": "danh từ chỉ phương tiện",
+    "confusionWords": [
+      "bus",
+      "train",
+      "plane"
+    ]
+  },
+  {
+    "id": 537,
+    "word": "bus",
+    "type": "noun",
+    "family": "vehicle",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "xe buýt",
+    "hint": "danh từ chỉ phương tiện",
+    "confusionWords": [
+      "car",
+      "train",
+      "plane"
+    ]
+  },
+  {
+    "id": 538,
+    "word": "train",
+    "type": "noun",
+    "family": "vehicle",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tàu hỏa",
+    "hint": "danh từ chỉ phương tiện",
+    "confusionWords": [
+      "car",
+      "bus",
+      "plane"
+    ]
+  },
+  {
+    "id": 539,
+    "word": "plane",
+    "type": "noun",
+    "family": "vehicle",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "máy bay",
+    "hint": "danh từ chỉ phương tiện",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 540,
+    "word": "bike",
+    "type": "noun",
+    "family": "vehicle",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "xe đạp",
+    "hint": "danh từ chỉ phương tiện",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 541,
+    "word": "shirt",
+    "type": "noun",
+    "family": "clothes",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "áo sơ mi",
+    "hint": "danh từ trang phục",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 542,
+    "word": "shoe",
+    "type": "noun",
+    "family": "clothes",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "chiếc giày",
+    "hint": "danh từ trang phục",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 543,
+    "word": "hat",
+    "type": "noun",
+    "family": "clothes",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cái mũ",
+    "hint": "danh từ trang phục",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 544,
+    "word": "money",
+    "type": "noun",
+    "family": "finance",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "tiền",
+    "hint": "danh từ không đếm được",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 545,
+    "word": "shop",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "cửa hàng",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 546,
+    "word": "park",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "công viên",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 547,
+    "word": "hospital",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bệnh viện",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 548,
+    "word": "farm",
+    "type": "noun",
+    "family": "place",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "nông trại",
+    "hint": "danh từ chỉ nơi chốn",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 549,
+    "word": "game",
+    "type": "noun",
+    "family": "play",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "trò chơi",
+    "hint": "danh từ chỉ vật",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  },
+  {
+    "id": 550,
+    "word": "song",
+    "type": "noun",
+    "family": "music",
+    "level": 2,
+    "difficulty": 2,
+    "vnMeaning": "bài hát",
+    "hint": "danh từ chỉ vật",
+    "confusionWords": [
+      "car",
+      "bus",
+      "train"
+    ]
+  }
+]

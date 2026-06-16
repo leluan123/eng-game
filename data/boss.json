@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 901,
+    "family": "success",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "success",
+    "explanation": "VNI: sự thành công - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 902,
+    "family": "beauty",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beauty",
+    "explanation": "VNI: vẻ đẹp - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 903,
+    "family": "health",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "health",
+    "explanation": "VNI: sức khỏe - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 904,
+    "family": "educate",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "education",
+    "explanation": "VNI: nền giáo dục - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 905,
+    "family": "create",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "creation",
+    "explanation": "VNI: sự sáng tạo - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 906,
+    "family": "decide",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decision",
+    "explanation": "VNI: sự quyết định - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 907,
+    "family": "develop",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "development",
+    "explanation": "VNI: sự phát triển - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 908,
+    "family": "friend",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "friendship",
+    "explanation": "VNI: tình bạn - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 909,
+    "family": "danger",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "danger",
+    "explanation": "VNI: sự nguy hiểm - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 910,
+    "family": "power",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "power",
+    "explanation": "VNI: sức mạnh - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 911,
+    "family": "peace",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "peace",
+    "explanation": "VNI: hòa bình - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 912,
+    "family": "nation",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "nation",
+    "explanation": "VNI: quốc gia - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 913,
+    "family": "culture",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "culture",
+    "explanation": "VNI: văn hóa - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 914,
+    "family": "industry",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industry",
+    "explanation": "VNI: công nghiệp - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 915,
+    "family": "nature",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "nature",
+    "explanation": "VNI: tự nhiên - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 916,
+    "family": "communicate",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communication",
+    "explanation": "VNI: sự giao tiếp - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 917,
+    "family": "celebrate",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebration",
+    "explanation": "VNI: lễ kỷ niệm - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 918,
+    "family": "compare",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "comparison",
+    "explanation": "VNI: sự so sánh - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 919,
+    "family": "protect",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protection",
+    "explanation": "VNI: sự bảo vệ - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 920,
+    "family": "organize",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organization",
+    "explanation": "VNI: tổ chức - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 921,
+    "family": "act",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "action",
+    "explanation": "VNI: hành động - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 922,
+    "family": "attract",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attraction",
+    "explanation": "VNI: sự thu hút - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 923,
+    "family": "sad",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sadness",
+    "explanation": "VNI: nỗi buồn - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 924,
+    "family": "able",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "ability",
+    "explanation": "VNI: khả năng - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 925,
+    "family": "fame",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "fame",
+    "explanation": "VNI: sự nổi tiếng - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 926,
+    "family": "agree",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agreement",
+    "explanation": "VNI: sự đồng ý - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 927,
+    "family": "appear",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "appearance",
+    "explanation": "VNI: di diện mạo - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 928,
+    "family": "assist",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assistance",
+    "explanation": "VNI: sự giúp đỡ - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 929,
+    "family": "attend",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attendance",
+    "explanation": "VNI: sự tham gia - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 930,
+    "family": "bright",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "brightness",
+    "explanation": "VNI: độ sáng - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 931,
+    "family": "collect",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collection",
+    "explanation": "VNI: bộ sưu tập - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 932,
+    "family": "compete",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "competition",
+    "explanation": "VNI: cuộc thi - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 933,
+    "family": "confidence",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confidence",
+    "explanation": "VNI: sự tự tin - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 934,
+    "family": "connect",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connection",
+    "explanation": "VNI: sự kết nối - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 935,
+    "family": "courage",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "courage",
+    "explanation": "VNI: lòng can đảm - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 936,
+    "family": "dark",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "darkness",
+    "explanation": "VNI: bóng tối - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 937,
+    "family": "deep",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "depth",
+    "explanation": "VNI: chiều sâu - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 938,
+    "family": "depend",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "dependence",
+    "explanation": "VNI: sự phụ thuộc - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 939,
+    "family": "describe",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "description",
+    "explanation": "VNI: sự miêu tả - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 940,
+    "family": "differ",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "difference",
+    "explanation": "VNI: sự khác biệt - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 941,
+    "family": "disappoint",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappointment",
+    "explanation": "VNI: sự thất vọng - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 942,
+    "family": "economy",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economy",
+    "explanation": "VNI: nền kinh tế - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 943,
+    "family": "employ",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employment",
+    "explanation": "VNI: việc làm - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 944,
+    "family": "enjoy",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoyment",
+    "explanation": "VNI: sự thích thú - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 945,
+    "family": "explain",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explanation",
+    "explanation": "VNI: sự giải thích - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 946,
+    "family": "forget",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forgetfulness",
+    "explanation": "VNI: tính hay quên - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 947,
+    "family": "grow",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "growth",
+    "explanation": "VNI: sự phát triển - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 948,
+    "family": "high",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "height",
+    "explanation": "VNI: chiều cao - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 949,
+    "family": "imagine",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imagination",
+    "explanation": "VNI: sự tưởng tượng - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 950,
+    "family": "impress",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impression",
+    "explanation": "VNI: ấn tượng - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 951,
+    "family": "improve",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improvement",
+    "explanation": "VNI: sự cải thiện - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 952,
+    "family": "inform",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "information",
+    "explanation": "VNI: thông tin - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 953,
+    "family": "invent",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "invention",
+    "explanation": "VNI: sự phát minh - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 954,
+    "family": "invite",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "invitation",
+    "explanation": "VNI: lời mời - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 955,
+    "family": "know",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "knowledge",
+      "know",
+      "knowledgeable",
+      "knowledgeably"
+    ],
+    "answer": "knowledge",
+    "explanation": "VNI: kiến thức - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 956,
+    "family": "long",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "length",
+      "lengthen",
+      "long",
+      "longingly"
+    ],
+    "answer": "length",
+    "explanation": "VNI: chiều dài - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 957,
+    "family": "move",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "movement",
+      "move",
+      "movable",
+      "movably"
+    ],
+    "answer": "movement",
+    "explanation": "VNI: sự di chuyển - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 958,
+    "family": "perform",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "performance",
+      "perform",
+      "performing",
+      "performingly"
+    ],
+    "answer": "performance",
+    "explanation": "VNI: buổi biểu diễn - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 959,
+    "family": "popular",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "popularity",
+      "popularize",
+      "popular",
+      "popularly"
+    ],
+    "answer": "popularity",
+    "explanation": "VNI: sự phổ biến - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 960,
+    "family": "prepare",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "preparation",
+      "prepare",
+      "prepared",
+      "preparedly"
+    ],
+    "answer": "preparation",
+    "explanation": "VNI: sự chuẩn bị - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 961,
+    "family": "produce",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "production",
+      "produce",
+      "productive",
+      "productively"
+    ],
+    "answer": "production",
+    "explanation": "VNI: sự sản xuất - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 962,
+    "family": "real",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "reality",
+      "realize",
+      "real",
+      "really"
+    ],
+    "answer": "reality",
+    "explanation": "VNI: thực tế - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 963,
+    "family": "relax",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "relaxation",
+      "relax",
+      "relaxing",
+      "relaxingly"
+    ],
+    "answer": "relaxation",
+    "explanation": "VNI: sự thư giãn - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 964,
+    "family": "satisfy",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "satisfaction",
+      "satisfy",
+      "satisfactory",
+      "satisfactorily"
+    ],
+    "answer": "satisfaction",
+    "explanation": "VNI: sự thỏa mãn - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 965,
+    "family": "short",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "shortness",
+      "shorten",
+      "short",
+      "shortly"
+    ],
+    "answer": "shortness",
+    "explanation": "VNI: sự ngắn - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 966,
+    "family": "simple",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "simplicity",
+      "simplify",
+      "simple",
+      "simply"
+    ],
+    "answer": "simplicity",
+    "explanation": "VNI: sự đơn giản - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 967,
+    "family": "soft",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "softness",
+      "soften",
+      "soft",
+      "softly"
+    ],
+    "answer": "softness",
+    "explanation": "VNI: sự mềm mại - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 968,
+    "family": "strong",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "strength",
+      "strengthen",
+      "strong",
+      "strongly"
+    ],
+    "answer": "strength",
+    "explanation": "VNI: sức mạnh - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 969,
+    "family": "thought",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "thought",
+      "think",
+      "thoughtful",
+      "thoughtfully"
+    ],
+    "answer": "thought",
+    "explanation": "VNI: suy nghĩ - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 970,
+    "family": "weak",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "weakness",
+      "weaken",
+      "weak",
+      "weakly"
+    ],
+    "answer": "weakness",
+    "explanation": "VNI: điểm yếu - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 971,
+    "family": "wide",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "width",
+      "widen",
+      "wide",
+      "widely"
+    ],
+    "answer": "width",
+    "explanation": "VNI: chiều rộng - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 972,
+    "family": "success",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "success",
+    "explanation": "VNI: sự thành công - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 973,
+    "family": "beauty",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beauty",
+    "explanation": "VNI: vẻ đẹp - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 974,
+    "family": "health",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "health",
+    "explanation": "VNI: sức khỏe - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 975,
+    "family": "educate",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "education",
+    "explanation": "VNI: nền giáo dục - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 976,
+    "family": "create",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "creation",
+    "explanation": "VNI: sự sáng tạo - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 977,
+    "family": "decide",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decision",
+    "explanation": "VNI: sự quyết định - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 978,
+    "family": "develop",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "development",
+    "explanation": "VNI: sự phát triển - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 979,
+    "family": "friend",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "friendship",
+    "explanation": "VNI: tình bạn - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 980,
+    "family": "danger",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "danger",
+    "explanation": "VNI: sự nguy hiểm - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 981,
+    "family": "power",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "power",
+    "explanation": "VNI: sức mạnh - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 982,
+    "family": "peace",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "peace",
+    "explanation": "VNI: hòa bình - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 983,
+    "family": "nation",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "nation",
+    "explanation": "VNI: quốc gia - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 984,
+    "family": "culture",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "culture",
+    "explanation": "VNI: văn hóa - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 985,
+    "family": "industry",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industry",
+    "explanation": "VNI: công nghiệp - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 986,
+    "family": "nature",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "nature",
+    "explanation": "VNI: tự nhiên - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 987,
+    "family": "communicate",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communication",
+    "explanation": "VNI: sự giao tiếp - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 988,
+    "family": "celebrate",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebration",
+    "explanation": "VNI: lễ kỷ niệm - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 989,
+    "family": "compare",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "comparison",
+    "explanation": "VNI: sự so sánh - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 990,
+    "family": "protect",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protection",
+    "explanation": "VNI: sự bảo vệ - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 991,
+    "family": "organize",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organization",
+    "explanation": "VNI: tổ chức - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 992,
+    "family": "act",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "action",
+    "explanation": "VNI: hành động - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 993,
+    "family": "attract",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attraction",
+    "explanation": "VNI: sự thu hút - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 994,
+    "family": "sad",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sadness",
+    "explanation": "VNI: nỗi buồn - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 995,
+    "family": "able",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "ability",
+    "explanation": "VNI: khả năng - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 996,
+    "family": "fame",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "fame",
+    "explanation": "VNI: sự nổi tiếng - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 997,
+    "family": "agree",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agreement",
+    "explanation": "VNI: sự đồng ý - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 998,
+    "family": "appear",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "appearance",
+    "explanation": "VNI: di diện mạo - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 999,
+    "family": "assist",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assistance",
+    "explanation": "VNI: sự giúp đỡ - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 1000,
+    "family": "attend",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attendance",
+    "explanation": "VNI: sự tham gia - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 1001,
+    "family": "bright",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "brightness",
+    "explanation": "VNI: độ sáng - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 1002,
+    "family": "collect",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collection",
+    "explanation": "VNI: bộ sưu tập - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 1003,
+    "family": "compete",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "competition",
+    "explanation": "VNI: cuộc thi - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 1004,
+    "family": "confidence",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confidence",
+    "explanation": "VNI: sự tự tin - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 1005,
+    "family": "connect",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connection",
+    "explanation": "VNI: sự kết nối - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 1006,
+    "family": "courage",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "courage",
+    "explanation": "VNI: lòng can đảm - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 1007,
+    "family": "dark",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "darkness",
+    "explanation": "VNI: bóng tối - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 1008,
+    "family": "deep",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "depth",
+    "explanation": "VNI: chiều sâu - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 1009,
+    "family": "depend",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "dependence",
+    "explanation": "VNI: sự phụ thuộc - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 1010,
+    "family": "describe",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "description",
+    "explanation": "VNI: sự miêu tả - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 1011,
+    "family": "differ",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "difference",
+    "explanation": "VNI: sự khác biệt - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 1012,
+    "family": "disappoint",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappointment",
+    "explanation": "VNI: sự thất vọng - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 1013,
+    "family": "economy",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economy",
+    "explanation": "VNI: nền kinh tế - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 1014,
+    "family": "employ",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employment",
+    "explanation": "VNI: việc làm - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 1015,
+    "family": "enjoy",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoyment",
+    "explanation": "VNI: sự thích thú - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 1016,
+    "family": "explain",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explanation",
+    "explanation": "VNI: sự giải thích - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 1017,
+    "family": "forget",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forgetfulness",
+    "explanation": "VNI: tính hay quên - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 1018,
+    "family": "grow",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "growth",
+    "explanation": "VNI: sự phát triển - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 1019,
+    "family": "high",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "height",
+    "explanation": "VNI: chiều cao - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 1020,
+    "family": "imagine",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imagination",
+    "explanation": "VNI: sự tưởng tượng - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 1021,
+    "family": "impress",
+    "questionType": "choose-noun",
+    "sentence": "We are amazed by the _____ of this country.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impression",
+    "explanation": "VNI: ấn tượng - Grammar: Sau giới từ 'by' và mạo từ 'the' cần một danh từ."
+  },
+  {
+    "id": 1022,
+    "family": "improve",
+    "questionType": "choose-noun",
+    "sentence": "The teacher praised his great _____.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improvement",
+    "explanation": "VNI: sự cải thiện - Grammar: Sau tính từ 'great' cần một danh từ đóng vai trò tân ngữ."
+  },
+  {
+    "id": 1023,
+    "family": "inform",
+    "questionType": "choose-noun",
+    "sentence": "They are working hard for the _____ of the community.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "information",
+    "explanation": "VNI: thông tin - Grammar: Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ."
+  },
+  {
+    "id": 1024,
+    "family": "invent",
+    "questionType": "choose-noun",
+    "sentence": "Her _____ brought joy to everyone in the room.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "invention",
+    "explanation": "VNI: sự phát minh - Grammar: Sau tính từ sở hữu 'Her' làm chủ ngữ cần một danh từ."
+  },
+  {
+    "id": 1025,
+    "family": "invite",
+    "questionType": "choose-noun",
+    "sentence": "We need more _____ to complete the school project.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "invitation",
+    "explanation": "VNI: lời mời - Grammar: Sau từ chỉ lượng 'more' bổ nghĩa cần một danh từ."
+  },
+  {
+    "id": 1026,
+    "family": "success",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "succeed",
+    "explanation": "VNI: thành công - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1027,
+    "family": "beauty",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beautify",
+    "explanation": "VNI: làm đẹp - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1028,
+    "family": "health",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "heal",
+    "explanation": "VNI: chữa lành - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1029,
+    "family": "educate",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "educate",
+    "explanation": "VNI: giáo dục - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1030,
+    "family": "create",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "create",
+    "explanation": "VNI: sáng tạo - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1031,
+    "family": "decide",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decide",
+    "explanation": "VNI: quyết định - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1032,
+    "family": "develop",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "develop",
+    "explanation": "VNI: phát triển - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1033,
+    "family": "friend",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "befriend",
+    "explanation": "VNI: kết bạn - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1034,
+    "family": "danger",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "endanger",
+    "explanation": "VNI: gây nguy hiểm - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1035,
+    "family": "power",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "empower",
+    "explanation": "VNI: trao quyền - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1036,
+    "family": "peace",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "pacify",
+    "explanation": "VNI: làm yên lòng - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1037,
+    "family": "nation",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "nationalize",
+    "explanation": "VNI: quốc gia hóa - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1038,
+    "family": "culture",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "cultivate",
+    "explanation": "VNI: trau dồi - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1039,
+    "family": "industry",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industrialize",
+    "explanation": "VNI: công nghiệp hóa - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1040,
+    "family": "nature",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "naturalize",
+    "explanation": "VNI: tự nhiên hóa - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1041,
+    "family": "communicate",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communicate",
+    "explanation": "VNI: giao tiếp - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1042,
+    "family": "celebrate",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebrate",
+    "explanation": "VNI: ăn mừng - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1043,
+    "family": "compare",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "compare",
+    "explanation": "VNI: so sánh - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1044,
+    "family": "protect",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protect",
+    "explanation": "VNI: bảo vệ - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1045,
+    "family": "organize",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organize",
+    "explanation": "VNI: tổ chức - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1046,
+    "family": "act",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "act",
+    "explanation": "VNI: hành động - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1047,
+    "family": "attract",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attract",
+    "explanation": "VNI: thu hút - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1048,
+    "family": "sad",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sadden",
+    "explanation": "VNI: làm buồn - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1049,
+    "family": "able",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "enable",
+    "explanation": "VNI: cho phép - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1050,
+    "family": "fame",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "defame",
+    "explanation": "VNI: nói xấu - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1051,
+    "family": "agree",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agree",
+    "explanation": "VNI: đồng ý - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1052,
+    "family": "appear",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "appear",
+    "explanation": "VNI: xuất hiện - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1053,
+    "family": "assist",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assist",
+    "explanation": "VNI: giúp đỡ - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1054,
+    "family": "attend",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attend",
+    "explanation": "VNI: tham gia - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1055,
+    "family": "bright",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "brighten",
+    "explanation": "VNI: làm sáng - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1056,
+    "family": "collect",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collect",
+    "explanation": "VNI: sưu tập - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1057,
+    "family": "compete",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "compete",
+    "explanation": "VNI: cạnh tranh - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1058,
+    "family": "confidence",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confide",
+    "explanation": "VNI: tâm sự - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1059,
+    "family": "connect",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connect",
+    "explanation": "VNI: kết nối - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1060,
+    "family": "courage",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "encourage",
+    "explanation": "VNI: khuyến khích - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1061,
+    "family": "dark",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "darken",
+    "explanation": "VNI: làm tối - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1062,
+    "family": "deep",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "deepen",
+    "explanation": "VNI: làm sâu - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1063,
+    "family": "depend",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "depend",
+    "explanation": "VNI: phụ thuộc - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1064,
+    "family": "describe",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "describe",
+    "explanation": "VNI: miêu tả - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1065,
+    "family": "differ",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "differ",
+    "explanation": "VNI: khác biệt - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1066,
+    "family": "disappoint",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappoint",
+    "explanation": "VNI: làm thất vọng - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1067,
+    "family": "economy",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economize",
+    "explanation": "VNI: tiết kiệm - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1068,
+    "family": "employ",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employ",
+    "explanation": "VNI: thuê mướn - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1069,
+    "family": "enjoy",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoy",
+    "explanation": "VNI: thưởng thức - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1070,
+    "family": "explain",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explain",
+    "explanation": "VNI: giải thích - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1071,
+    "family": "forget",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forget",
+    "explanation": "VNI: quên - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1072,
+    "family": "grow",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "grow",
+    "explanation": "VNI: tăng trưởng - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1073,
+    "family": "high",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "heighten",
+    "explanation": "VNI: nâng cao - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1074,
+    "family": "imagine",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imagine",
+    "explanation": "VNI: tưởng tượng - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1075,
+    "family": "impress",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impress",
+    "explanation": "VNI: gây ấn tượng - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1076,
+    "family": "improve",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improve",
+    "explanation": "VNI: cải tiến - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1077,
+    "family": "inform",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "inform",
+    "explanation": "VNI: thông báo - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1078,
+    "family": "invent",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "invent",
+    "explanation": "VNI: phát minh - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1079,
+    "family": "invite",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "invite",
+    "explanation": "VNI: mời - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1080,
+    "family": "know",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "knowledge",
+      "know",
+      "knowledgeable",
+      "knowledgeably"
+    ],
+    "answer": "know",
+    "explanation": "VNI: biết - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1081,
+    "family": "long",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "length",
+      "lengthen",
+      "long",
+      "longingly"
+    ],
+    "answer": "lengthen",
+    "explanation": "VNI: kéo dài - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1082,
+    "family": "move",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "movement",
+      "move",
+      "movable",
+      "movably"
+    ],
+    "answer": "move",
+    "explanation": "VNI: di chuyển - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1083,
+    "family": "perform",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "performance",
+      "perform",
+      "performing",
+      "performingly"
+    ],
+    "answer": "perform",
+    "explanation": "VNI: biểu diễn - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1084,
+    "family": "popular",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "popularity",
+      "popularize",
+      "popular",
+      "popularly"
+    ],
+    "answer": "popularize",
+    "explanation": "VNI: phổ biến hóa - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1085,
+    "family": "prepare",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "preparation",
+      "prepare",
+      "prepared",
+      "preparedly"
+    ],
+    "answer": "prepare",
+    "explanation": "VNI: chuẩn bị - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1086,
+    "family": "produce",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "production",
+      "produce",
+      "productive",
+      "productively"
+    ],
+    "answer": "produce",
+    "explanation": "VNI: sản xuất - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1087,
+    "family": "real",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "reality",
+      "realize",
+      "real",
+      "really"
+    ],
+    "answer": "realize",
+    "explanation": "VNI: nhận ra - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1088,
+    "family": "relax",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "relaxation",
+      "relax",
+      "relaxing",
+      "relaxingly"
+    ],
+    "answer": "relax",
+    "explanation": "VNI: thư giãn - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1089,
+    "family": "satisfy",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "satisfaction",
+      "satisfy",
+      "satisfactory",
+      "satisfactorily"
+    ],
+    "answer": "satisfy",
+    "explanation": "VNI: làm hài lòng - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1090,
+    "family": "short",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "shortness",
+      "shorten",
+      "short",
+      "shortly"
+    ],
+    "answer": "shorten",
+    "explanation": "VNI: rút ngắn - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1091,
+    "family": "simple",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "simplicity",
+      "simplify",
+      "simple",
+      "simply"
+    ],
+    "answer": "simplify",
+    "explanation": "VNI: đơn giản hóa - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1092,
+    "family": "soft",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "softness",
+      "soften",
+      "soft",
+      "softly"
+    ],
+    "answer": "soften",
+    "explanation": "VNI: làm mềm - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1093,
+    "family": "strong",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "strength",
+      "strengthen",
+      "strong",
+      "strongly"
+    ],
+    "answer": "strengthen",
+    "explanation": "VNI: làm mạnh thêm - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1094,
+    "family": "thought",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "thought",
+      "think",
+      "thoughtful",
+      "thoughtfully"
+    ],
+    "answer": "think",
+    "explanation": "VNI: suy nghĩ - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1095,
+    "family": "weak",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "weakness",
+      "weaken",
+      "weak",
+      "weakly"
+    ],
+    "answer": "weaken",
+    "explanation": "VNI: làm yếu đi - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1096,
+    "family": "wide",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "width",
+      "widen",
+      "wide",
+      "widely"
+    ],
+    "answer": "widen",
+    "explanation": "VNI: mở rộng - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1097,
+    "family": "success",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "succeed",
+    "explanation": "VNI: thành công - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1098,
+    "family": "beauty",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beautify",
+    "explanation": "VNI: làm đẹp - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1099,
+    "family": "health",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "heal",
+    "explanation": "VNI: chữa lành - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1100,
+    "family": "educate",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "educate",
+    "explanation": "VNI: giáo dục - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1101,
+    "family": "create",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "create",
+    "explanation": "VNI: sáng tạo - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1102,
+    "family": "decide",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decide",
+    "explanation": "VNI: quyết định - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1103,
+    "family": "develop",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "develop",
+    "explanation": "VNI: phát triển - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1104,
+    "family": "friend",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "befriend",
+    "explanation": "VNI: kết bạn - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1105,
+    "family": "danger",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "endanger",
+    "explanation": "VNI: gây nguy hiểm - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1106,
+    "family": "power",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "empower",
+    "explanation": "VNI: trao quyền - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1107,
+    "family": "peace",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "pacify",
+    "explanation": "VNI: làm yên lòng - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1108,
+    "family": "nation",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "nationalize",
+    "explanation": "VNI: quốc gia hóa - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1109,
+    "family": "culture",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "cultivate",
+    "explanation": "VNI: trau dồi - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1110,
+    "family": "industry",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industrialize",
+    "explanation": "VNI: công nghiệp hóa - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1111,
+    "family": "nature",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "naturalize",
+    "explanation": "VNI: tự nhiên hóa - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1112,
+    "family": "communicate",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communicate",
+    "explanation": "VNI: giao tiếp - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1113,
+    "family": "celebrate",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebrate",
+    "explanation": "VNI: ăn mừng - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1114,
+    "family": "compare",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "compare",
+    "explanation": "VNI: so sánh - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1115,
+    "family": "protect",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protect",
+    "explanation": "VNI: bảo vệ - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1116,
+    "family": "organize",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organize",
+    "explanation": "VNI: tổ chức - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1117,
+    "family": "act",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "act",
+    "explanation": "VNI: hành động - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1118,
+    "family": "attract",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attract",
+    "explanation": "VNI: thu hút - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1119,
+    "family": "sad",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sadden",
+    "explanation": "VNI: làm buồn - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1120,
+    "family": "able",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "enable",
+    "explanation": "VNI: cho phép - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1121,
+    "family": "fame",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "defame",
+    "explanation": "VNI: nói xấu - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1122,
+    "family": "agree",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agree",
+    "explanation": "VNI: đồng ý - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1123,
+    "family": "appear",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "appear",
+    "explanation": "VNI: xuất hiện - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1124,
+    "family": "assist",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assist",
+    "explanation": "VNI: giúp đỡ - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1125,
+    "family": "attend",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attend",
+    "explanation": "VNI: tham gia - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1126,
+    "family": "bright",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "brighten",
+    "explanation": "VNI: làm sáng - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1127,
+    "family": "collect",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collect",
+    "explanation": "VNI: sưu tập - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1128,
+    "family": "compete",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "compete",
+    "explanation": "VNI: cạnh tranh - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1129,
+    "family": "confidence",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confide",
+    "explanation": "VNI: tâm sự - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1130,
+    "family": "connect",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connect",
+    "explanation": "VNI: kết nối - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1131,
+    "family": "courage",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "encourage",
+    "explanation": "VNI: khuyến khích - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1132,
+    "family": "dark",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "darken",
+    "explanation": "VNI: làm tối - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1133,
+    "family": "deep",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "deepen",
+    "explanation": "VNI: làm sâu - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1134,
+    "family": "depend",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "depend",
+    "explanation": "VNI: phụ thuộc - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1135,
+    "family": "describe",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "describe",
+    "explanation": "VNI: miêu tả - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1136,
+    "family": "differ",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "differ",
+    "explanation": "VNI: khác biệt - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1137,
+    "family": "disappoint",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappoint",
+    "explanation": "VNI: làm thất vọng - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1138,
+    "family": "economy",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economize",
+    "explanation": "VNI: tiết kiệm - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1139,
+    "family": "employ",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employ",
+    "explanation": "VNI: thuê mướn - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1140,
+    "family": "enjoy",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoy",
+    "explanation": "VNI: thưởng thức - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1141,
+    "family": "explain",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explain",
+    "explanation": "VNI: giải thích - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1142,
+    "family": "forget",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forget",
+    "explanation": "VNI: quên - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1143,
+    "family": "grow",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "grow",
+    "explanation": "VNI: tăng trưởng - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1144,
+    "family": "high",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "heighten",
+    "explanation": "VNI: nâng cao - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1145,
+    "family": "imagine",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imagine",
+    "explanation": "VNI: tưởng tượng - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1146,
+    "family": "impress",
+    "questionType": "choose-verb",
+    "sentence": "They want to _____ their local park this weekend.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impress",
+    "explanation": "VNI: gây ấn tượng - Grammar: Sau 'to' chỉ mục đích của hành động cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1147,
+    "family": "improve",
+    "questionType": "choose-verb",
+    "sentence": "You must _____ your parents' opinions.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improve",
+    "explanation": "VNI: cải tiến - Grammar: Sau động từ khuyết thiếu 'must' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1148,
+    "family": "inform",
+    "questionType": "choose-verb",
+    "sentence": "We will _____ our traditional festival tomorrow.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "inform",
+    "explanation": "VNI: thông báo - Grammar: Sau trợ động từ tương lai 'will' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1149,
+    "family": "invent",
+    "questionType": "choose-verb",
+    "sentence": "Please _____ your answer to the class.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "invent",
+    "explanation": "VNI: phát minh - Grammar: Đầu câu mệnh lệnh/yêu cầu lịch sự cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1150,
+    "family": "invite",
+    "questionType": "choose-verb",
+    "sentence": "He tried his best to _____ the challenge.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "invite",
+    "explanation": "VNI: mời - Grammar: Cấu trúc 'try one's best to-V' cần một động từ nguyên mẫu."
+  },
+  {
+    "id": 1151,
+    "family": "success",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "successful",
+    "explanation": "VNI: thành công - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1152,
+    "family": "beauty",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beautiful",
+    "explanation": "VNI: xinh đẹp - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1153,
+    "family": "health",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "healthy",
+    "explanation": "VNI: khỏe mạnh - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1154,
+    "family": "educate",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "educational",
+    "explanation": "VNI: mang tính giáo dục - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1155,
+    "family": "create",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "creative",
+    "explanation": "VNI: sáng tạo - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1156,
+    "family": "decide",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decisive",
+    "explanation": "VNI: kiên quyết - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1157,
+    "family": "develop",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "developing",
+    "explanation": "VNI: đang phát triển - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1158,
+    "family": "friend",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "friendly",
+    "explanation": "VNI: thân thiện - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1159,
+    "family": "danger",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "dangerous",
+    "explanation": "VNI: nguy hiểm - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1160,
+    "family": "power",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "powerful",
+    "explanation": "VNI: mạnh mẽ - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1161,
+    "family": "peace",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "peaceful",
+    "explanation": "VNI: yên bình - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1162,
+    "family": "nation",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "national",
+    "explanation": "VNI: thuộc quốc gia - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1163,
+    "family": "culture",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "cultural",
+    "explanation": "VNI: thuộc văn hóa - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1164,
+    "family": "industry",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industrial",
+    "explanation": "VNI: thuộc công nghiệp - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1165,
+    "family": "nature",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "natural",
+    "explanation": "VNI: thuộc tự nhiên - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1166,
+    "family": "communicate",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communicative",
+    "explanation": "VNI: cởi mở giao tiếp - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1167,
+    "family": "celebrate",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebrated",
+    "explanation": "VNI: nổi tiếng - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1168,
+    "family": "compare",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "comparative",
+    "explanation": "VNI: so sánh - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1169,
+    "family": "protect",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protective",
+    "explanation": "VNI: bảo vệ - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1170,
+    "family": "organize",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organizational",
+    "explanation": "VNI: thuộc tổ chức - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1171,
+    "family": "act",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "active",
+    "explanation": "VNI: năng động - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1172,
+    "family": "attract",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attractive",
+    "explanation": "VNI: hấp dẫn - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1173,
+    "family": "sad",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sad",
+    "explanation": "VNI: buồn bã - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1174,
+    "family": "able",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "able",
+    "explanation": "VNI: có thể - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1175,
+    "family": "fame",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "famous",
+    "explanation": "VNI: nổi tiếng - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1176,
+    "family": "agree",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agreeable",
+    "explanation": "VNI: dễ chịu - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1177,
+    "family": "appear",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "apparent",
+    "explanation": "VNI: rõ ràng - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1178,
+    "family": "assist",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assistant",
+    "explanation": "VNI: phụ tá - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1179,
+    "family": "attend",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attentive",
+    "explanation": "VNI: chú ý - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1180,
+    "family": "bright",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "bright",
+    "explanation": "VNI: sáng sủa - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1181,
+    "family": "collect",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collective",
+    "explanation": "VNI: tập thể - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1182,
+    "family": "compete",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "competitive",
+    "explanation": "VNI: mang tính cạnh tranh - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1183,
+    "family": "confidence",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confident",
+    "explanation": "VNI: tự tin - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1184,
+    "family": "connect",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connected",
+    "explanation": "VNI: được kết nối - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1185,
+    "family": "courage",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "courageous",
+    "explanation": "VNI: can đảm - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1186,
+    "family": "dark",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "dark",
+    "explanation": "VNI: tối tăm - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1187,
+    "family": "deep",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "deep",
+    "explanation": "VNI: sâu sắc - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1188,
+    "family": "depend",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "dependent",
+    "explanation": "VNI: phụ thuộc - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1189,
+    "family": "describe",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "descriptive",
+    "explanation": "VNI: có tính miêu tả - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1190,
+    "family": "differ",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "different",
+    "explanation": "VNI: khác nhau - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1191,
+    "family": "disappoint",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappointing",
+    "explanation": "VNI: đáng thất vọng - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1192,
+    "family": "economy",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economic",
+    "explanation": "VNI: thuộc kinh tế - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1193,
+    "family": "employ",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employed",
+    "explanation": "VNI: có việc làm - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1194,
+    "family": "enjoy",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoyable",
+    "explanation": "VNI: thú vị - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1195,
+    "family": "explain",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explanatory",
+    "explanation": "VNI: mang tính giải thích - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1196,
+    "family": "forget",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forgetful",
+    "explanation": "VNI: hay quên - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1197,
+    "family": "grow",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "growing",
+    "explanation": "VNI: đang lớn - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1198,
+    "family": "high",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "high",
+    "explanation": "VNI: cao - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1199,
+    "family": "imagine",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imaginative",
+    "explanation": "VNI: giàu tưởng tượng - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1200,
+    "family": "impress",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impressive",
+    "explanation": "VNI: gợi ấn tượng - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1201,
+    "family": "improve",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improved",
+    "explanation": "VNI: được cải thiện - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1202,
+    "family": "inform",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "informative",
+    "explanation": "VNI: nhiều thông tin - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1203,
+    "family": "invent",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "inventive",
+    "explanation": "VNI: sáng tạo - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1204,
+    "family": "invite",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "inviting",
+    "explanation": "VNI: hấp dẫn - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1205,
+    "family": "know",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "knowledge",
+      "know",
+      "knowledgeable",
+      "knowledgeably"
+    ],
+    "answer": "knowledgeable",
+    "explanation": "VNI: am hiểu - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1206,
+    "family": "long",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "length",
+      "lengthen",
+      "long",
+      "longingly"
+    ],
+    "answer": "long",
+    "explanation": "VNI: dài - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1207,
+    "family": "move",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "movement",
+      "move",
+      "movable",
+      "movably"
+    ],
+    "answer": "movable",
+    "explanation": "VNI: có thể di chuyển - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1208,
+    "family": "perform",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "performance",
+      "perform",
+      "performing",
+      "performingly"
+    ],
+    "answer": "performing",
+    "explanation": "VNI: đang biểu diễn - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1209,
+    "family": "popular",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "popularity",
+      "popularize",
+      "popular",
+      "popularly"
+    ],
+    "answer": "popular",
+    "explanation": "VNI: phổ biến - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1210,
+    "family": "prepare",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "preparation",
+      "prepare",
+      "prepared",
+      "preparedly"
+    ],
+    "answer": "prepared",
+    "explanation": "VNI: sẵn sàng - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1211,
+    "family": "produce",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "production",
+      "produce",
+      "productive",
+      "productively"
+    ],
+    "answer": "productive",
+    "explanation": "VNI: năng suất - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1212,
+    "family": "real",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "reality",
+      "realize",
+      "real",
+      "really"
+    ],
+    "answer": "real",
+    "explanation": "VNI: thực tế - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1213,
+    "family": "relax",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "relaxation",
+      "relax",
+      "relaxing",
+      "relaxingly"
+    ],
+    "answer": "relaxing",
+    "explanation": "VNI: thư giãn - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1214,
+    "family": "satisfy",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "satisfaction",
+      "satisfy",
+      "satisfactory",
+      "satisfactorily"
+    ],
+    "answer": "satisfactory",
+    "explanation": "VNI: thỏa đáng - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1215,
+    "family": "short",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "shortness",
+      "shorten",
+      "short",
+      "shortly"
+    ],
+    "answer": "short",
+    "explanation": "VNI: ngắn - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1216,
+    "family": "simple",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "simplicity",
+      "simplify",
+      "simple",
+      "simply"
+    ],
+    "answer": "simple",
+    "explanation": "VNI: đơn giản - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1217,
+    "family": "soft",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "softness",
+      "soften",
+      "soft",
+      "softly"
+    ],
+    "answer": "soft",
+    "explanation": "VNI: mềm - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1218,
+    "family": "strong",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "strength",
+      "strengthen",
+      "strong",
+      "strongly"
+    ],
+    "answer": "strong",
+    "explanation": "VNI: mạnh mẽ - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1219,
+    "family": "thought",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "thought",
+      "think",
+      "thoughtful",
+      "thoughtfully"
+    ],
+    "answer": "thoughtful",
+    "explanation": "VNI: chu đáo - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1220,
+    "family": "weak",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "weakness",
+      "weaken",
+      "weak",
+      "weakly"
+    ],
+    "answer": "weak",
+    "explanation": "VNI: yếu - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1221,
+    "family": "wide",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "width",
+      "widen",
+      "wide",
+      "widely"
+    ],
+    "answer": "wide",
+    "explanation": "VNI: rộng - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1222,
+    "family": "success",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "successful",
+    "explanation": "VNI: thành công - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1223,
+    "family": "beauty",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beautiful",
+    "explanation": "VNI: xinh đẹp - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1224,
+    "family": "health",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "healthy",
+    "explanation": "VNI: khỏe mạnh - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1225,
+    "family": "educate",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "educational",
+    "explanation": "VNI: mang tính giáo dục - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1226,
+    "family": "create",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "creative",
+    "explanation": "VNI: sáng tạo - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1227,
+    "family": "decide",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decisive",
+    "explanation": "VNI: kiên quyết - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1228,
+    "family": "develop",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "developing",
+    "explanation": "VNI: đang phát triển - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1229,
+    "family": "friend",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "friendly",
+    "explanation": "VNI: thân thiện - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1230,
+    "family": "danger",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "dangerous",
+    "explanation": "VNI: nguy hiểm - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1231,
+    "family": "power",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "powerful",
+    "explanation": "VNI: mạnh mẽ - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1232,
+    "family": "peace",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "peaceful",
+    "explanation": "VNI: yên bình - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1233,
+    "family": "nation",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "national",
+    "explanation": "VNI: thuộc quốc gia - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1234,
+    "family": "culture",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "cultural",
+    "explanation": "VNI: thuộc văn hóa - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1235,
+    "family": "industry",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industrial",
+    "explanation": "VNI: thuộc công nghiệp - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1236,
+    "family": "nature",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "natural",
+    "explanation": "VNI: thuộc tự nhiên - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1237,
+    "family": "communicate",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communicative",
+    "explanation": "VNI: cởi mở giao tiếp - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1238,
+    "family": "celebrate",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebrated",
+    "explanation": "VNI: nổi tiếng - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1239,
+    "family": "compare",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "comparative",
+    "explanation": "VNI: so sánh - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1240,
+    "family": "protect",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protective",
+    "explanation": "VNI: bảo vệ - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1241,
+    "family": "organize",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organizational",
+    "explanation": "VNI: thuộc tổ chức - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1242,
+    "family": "act",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "active",
+    "explanation": "VNI: năng động - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1243,
+    "family": "attract",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attractive",
+    "explanation": "VNI: hấp dẫn - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1244,
+    "family": "sad",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sad",
+    "explanation": "VNI: buồn bã - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1245,
+    "family": "able",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "able",
+    "explanation": "VNI: có thể - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1246,
+    "family": "fame",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "famous",
+    "explanation": "VNI: nổi tiếng - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1247,
+    "family": "agree",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agreeable",
+    "explanation": "VNI: dễ chịu - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1248,
+    "family": "appear",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "apparent",
+    "explanation": "VNI: rõ ràng - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1249,
+    "family": "assist",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assistant",
+    "explanation": "VNI: phụ tá - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1250,
+    "family": "attend",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attentive",
+    "explanation": "VNI: chú ý - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1251,
+    "family": "bright",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "bright",
+    "explanation": "VNI: sáng sủa - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1252,
+    "family": "collect",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collective",
+    "explanation": "VNI: tập thể - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1253,
+    "family": "compete",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "competitive",
+    "explanation": "VNI: mang tính cạnh tranh - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1254,
+    "family": "confidence",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confident",
+    "explanation": "VNI: tự tin - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1255,
+    "family": "connect",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connected",
+    "explanation": "VNI: được kết nối - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1256,
+    "family": "courage",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "courageous",
+    "explanation": "VNI: can đảm - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1257,
+    "family": "dark",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "dark",
+    "explanation": "VNI: tối tăm - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1258,
+    "family": "deep",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "deep",
+    "explanation": "VNI: sâu sắc - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1259,
+    "family": "depend",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "dependent",
+    "explanation": "VNI: phụ thuộc - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1260,
+    "family": "describe",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "descriptive",
+    "explanation": "VNI: có tính miêu tả - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1261,
+    "family": "differ",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "different",
+    "explanation": "VNI: khác nhau - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1262,
+    "family": "disappoint",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappointing",
+    "explanation": "VNI: đáng thất vọng - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1263,
+    "family": "economy",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economic",
+    "explanation": "VNI: thuộc kinh tế - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1264,
+    "family": "employ",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employed",
+    "explanation": "VNI: có việc làm - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1265,
+    "family": "enjoy",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoyable",
+    "explanation": "VNI: thú vị - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1266,
+    "family": "explain",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explanatory",
+    "explanation": "VNI: mang tính giải thích - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1267,
+    "family": "forget",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forgetful",
+    "explanation": "VNI: hay quên - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1268,
+    "family": "grow",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "growing",
+    "explanation": "VNI: đang lớn - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1269,
+    "family": "high",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "high",
+    "explanation": "VNI: cao - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1270,
+    "family": "imagine",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imaginative",
+    "explanation": "VNI: giàu tưởng tượng - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1271,
+    "family": "impress",
+    "questionType": "choose-adjective",
+    "sentence": "She is a highly _____ person in our team.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impressive",
+    "explanation": "VNI: gợi ấn tượng - Grammar: Giữa trạng từ chỉ mức độ và danh từ cần một tính từ bổ nghĩa."
+  },
+  {
+    "id": 1272,
+    "family": "improve",
+    "questionType": "choose-adjective",
+    "sentence": "The scientific experiment was very _____.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improved",
+    "explanation": "VNI: được cải thiện - Grammar: Sau động từ tobe 'was' và trạng từ 'very' cần một tính từ chỉ tính chất."
+  },
+  {
+    "id": 1273,
+    "family": "inform",
+    "questionType": "choose-adjective",
+    "sentence": "It is _____ to join outdoor activities.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "informative",
+    "explanation": "VNI: nhiều thông tin - Grammar: Cấu trúc chủ ngữ giả 'It is + Adjective + to-V'."
+  },
+  {
+    "id": 1274,
+    "family": "invent",
+    "questionType": "choose-adjective",
+    "sentence": "He felt _____ after receiving the good news.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "inventive",
+    "explanation": "VNI: sáng tạo - Grammar: Sau động từ chỉ cảm giác/trạng thái (linking verb) cần một tính từ."
+  },
+  {
+    "id": 1275,
+    "family": "invite",
+    "questionType": "choose-adjective",
+    "sentence": "Make sure your room is always _____.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "inviting",
+    "explanation": "VNI: hấp dẫn - Grammar: Sau động từ tobe bổ nghĩa cho chủ ngữ cần một tính từ."
+  },
+  {
+    "id": 1276,
+    "family": "success",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "successfully",
+    "explanation": "VNI: một cách thành công - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1277,
+    "family": "beauty",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beautifully",
+    "explanation": "VNI: một cách xinh đẹp - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1278,
+    "family": "health",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "healthily",
+    "explanation": "VNI: một cách lành mạnh - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1279,
+    "family": "educate",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "educationally",
+    "explanation": "VNI: về mặt giáo dục - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1280,
+    "family": "create",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "creatively",
+    "explanation": "VNI: một cách sáng tạo - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1281,
+    "family": "decide",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decisively",
+    "explanation": "VNI: một cách kiên quyết - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1282,
+    "family": "develop",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "developingly",
+    "explanation": "VNI: một cách phát triển - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1283,
+    "family": "friend",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "friendlily",
+    "explanation": "VNI: một cách thân thiện - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1284,
+    "family": "danger",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "dangerously",
+    "explanation": "VNI: một cách nguy hiểm - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1285,
+    "family": "power",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "powerfully",
+    "explanation": "VNI: một cách mạnh mẽ - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1286,
+    "family": "peace",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "peacefully",
+    "explanation": "VNI: một cách hòa bình - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1287,
+    "family": "nation",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "nationally",
+    "explanation": "VNI: trên toàn quốc - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1288,
+    "family": "culture",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "culturally",
+    "explanation": "VNI: về mặt văn hóa - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1289,
+    "family": "industry",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industrially",
+    "explanation": "VNI: về mặt công nghiệp - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1290,
+    "family": "nature",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "naturally",
+    "explanation": "VNI: một cách tự nhiên - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1291,
+    "family": "communicate",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communicatively",
+    "explanation": "VNI: bằng cách giao tiếp - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1292,
+    "family": "celebrate",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebratedly",
+    "explanation": "VNI: một cách nổi tiếng - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1293,
+    "family": "compare",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "comparatively",
+    "explanation": "VNI: tương đối - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1294,
+    "family": "protect",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protectively",
+    "explanation": "VNI: một cách bảo vệ - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1295,
+    "family": "organize",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organizationally",
+    "explanation": "VNI: về mặt tổ chức - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1296,
+    "family": "act",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "actively",
+    "explanation": "VNI: một cách chủ động - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1297,
+    "family": "attract",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attractively",
+    "explanation": "VNI: một cách hấp dẫn - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1298,
+    "family": "sad",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sadly",
+    "explanation": "VNI: một cách buồn bã - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1299,
+    "family": "able",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "ably",
+    "explanation": "VNI: một cách có tài - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1300,
+    "family": "fame",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "famously",
+    "explanation": "VNI: một cách nổi tiếng - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1301,
+    "family": "agree",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agreeably",
+    "explanation": "VNI: một cách dễ chịu - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1302,
+    "family": "appear",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "apparently",
+    "explanation": "VNI: nhìn có vẻ - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1303,
+    "family": "assist",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assistantly",
+    "explanation": "VNI: một cách phụ tá - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1304,
+    "family": "attend",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attentively",
+    "explanation": "VNI: một cách chú ý - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1305,
+    "family": "bright",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "brightly",
+    "explanation": "VNI: một cách sáng sủa - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1306,
+    "family": "collect",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collectively",
+    "explanation": "VNI: một cách tập thể - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1307,
+    "family": "compete",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "competitively",
+    "explanation": "VNI: một cách cạnh tranh - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1308,
+    "family": "confidence",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confidently",
+    "explanation": "VNI: một cách tự tin - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1309,
+    "family": "connect",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connectedly",
+    "explanation": "VNI: liên tục - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1310,
+    "family": "courage",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "courageously",
+    "explanation": "VNI: một cách can đảm - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1311,
+    "family": "dark",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "darkly",
+    "explanation": "VNI: một cách tối tăm - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1312,
+    "family": "deep",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "deeply",
+    "explanation": "VNI: một cách sâu sắc - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1313,
+    "family": "depend",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "dependently",
+    "explanation": "VNI: một cách phụ thuộc - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1314,
+    "family": "describe",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "descriptively",
+    "explanation": "VNI: bằng cách miêu tả - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1315,
+    "family": "differ",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "differently",
+    "explanation": "VNI: một cách khác biệt - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1316,
+    "family": "disappoint",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappointingly",
+    "explanation": "VNI: một cách thất vọng - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1317,
+    "family": "economy",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economically",
+    "explanation": "VNI: về mặt kinh tế - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1318,
+    "family": "employ",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employedly",
+    "explanation": "VNI: theo cách thuê mướn - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1319,
+    "family": "enjoy",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoyably",
+    "explanation": "VNI: một cách thú vị - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1320,
+    "family": "explain",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explainingly",
+    "explanation": "VNI: bằng cách giải thích - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1321,
+    "family": "forget",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forgetfully",
+    "explanation": "VNI: một cách đãng trí - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1322,
+    "family": "grow",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "growingly",
+    "explanation": "VNI: ngày càng tăng - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1323,
+    "family": "high",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "highly",
+    "explanation": "VNI: rất nhiều, cao - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1324,
+    "family": "imagine",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imaginatively",
+    "explanation": "VNI: một cách tưởng tượng - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1325,
+    "family": "impress",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impressively",
+    "explanation": "VNI: một cách ấn tượng - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1326,
+    "family": "improve",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improvingly",
+    "explanation": "VNI: một cách cải thiện - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1327,
+    "family": "inform",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "informatively",
+    "explanation": "VNI: đầy đủ thông tin - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1328,
+    "family": "invent",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "inventively",
+    "explanation": "VNI: một cách sáng tạo - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1329,
+    "family": "invite",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "invitingly",
+    "explanation": "VNI: một cách hấp dẫn - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1330,
+    "family": "know",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "knowledge",
+      "know",
+      "knowledgeable",
+      "knowledgeably"
+    ],
+    "answer": "knowledgeably",
+    "explanation": "VNI: một cách am hiểu - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1331,
+    "family": "long",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "length",
+      "lengthen",
+      "long",
+      "longingly"
+    ],
+    "answer": "longingly",
+    "explanation": "VNI: một cách thèm muốn - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1332,
+    "family": "move",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "movement",
+      "move",
+      "movable",
+      "movably"
+    ],
+    "answer": "movably",
+    "explanation": "VNI: di động - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1333,
+    "family": "perform",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "performance",
+      "perform",
+      "performing",
+      "performingly"
+    ],
+    "answer": "performingly",
+    "explanation": "VNI: hiệu quả - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1334,
+    "family": "popular",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "popularity",
+      "popularize",
+      "popular",
+      "popularly"
+    ],
+    "answer": "popularly",
+    "explanation": "VNI: một cách phổ biến - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1335,
+    "family": "prepare",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "preparation",
+      "prepare",
+      "prepared",
+      "preparedly"
+    ],
+    "answer": "preparedly",
+    "explanation": "VNI: một cách sẵn sàng - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1336,
+    "family": "produce",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "production",
+      "produce",
+      "productive",
+      "productively"
+    ],
+    "answer": "productively",
+    "explanation": "VNI: một cách năng suất - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1337,
+    "family": "real",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "reality",
+      "realize",
+      "real",
+      "really"
+    ],
+    "answer": "really",
+    "explanation": "VNI: thực sự - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1338,
+    "family": "relax",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "relaxation",
+      "relax",
+      "relaxing",
+      "relaxingly"
+    ],
+    "answer": "relaxingly",
+    "explanation": "VNI: một cách thư giãn - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1339,
+    "family": "satisfy",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "satisfaction",
+      "satisfy",
+      "satisfactory",
+      "satisfactorily"
+    ],
+    "answer": "satisfactorily",
+    "explanation": "VNI: một cách thỏa đáng - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1340,
+    "family": "short",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "shortness",
+      "shorten",
+      "short",
+      "shortly"
+    ],
+    "answer": "shortly",
+    "explanation": "VNI: sớm, nhanh chóng - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1341,
+    "family": "simple",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "simplicity",
+      "simplify",
+      "simple",
+      "simply"
+    ],
+    "answer": "simply",
+    "explanation": "VNI: đơn giản là - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1342,
+    "family": "soft",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "softness",
+      "soften",
+      "soft",
+      "softly"
+    ],
+    "answer": "softly",
+    "explanation": "VNI: một cách nhẹ nhàng - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1343,
+    "family": "strong",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "strength",
+      "strengthen",
+      "strong",
+      "strongly"
+    ],
+    "answer": "strongly",
+    "explanation": "VNI: một cách mạnh mẽ - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1344,
+    "family": "thought",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "thought",
+      "think",
+      "thoughtful",
+      "thoughtfully"
+    ],
+    "answer": "thoughtfully",
+    "explanation": "VNI: một cách chu đáo - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1345,
+    "family": "weak",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "weakness",
+      "weaken",
+      "weak",
+      "weakly"
+    ],
+    "answer": "weakly",
+    "explanation": "VNI: một cách yếu ớt - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1346,
+    "family": "wide",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "width",
+      "widen",
+      "wide",
+      "widely"
+    ],
+    "answer": "widely",
+    "explanation": "VNI: rộng rãi - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1347,
+    "family": "success",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "success",
+      "succeed",
+      "successful",
+      "successfully"
+    ],
+    "answer": "successfully",
+    "explanation": "VNI: một cách thành công - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1348,
+    "family": "beauty",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "beauty",
+      "beautify",
+      "beautiful",
+      "beautifully"
+    ],
+    "answer": "beautifully",
+    "explanation": "VNI: một cách xinh đẹp - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1349,
+    "family": "health",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "health",
+      "heal",
+      "healthy",
+      "healthily"
+    ],
+    "answer": "healthily",
+    "explanation": "VNI: một cách lành mạnh - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1350,
+    "family": "educate",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "education",
+      "educate",
+      "educational",
+      "educationally"
+    ],
+    "answer": "educationally",
+    "explanation": "VNI: về mặt giáo dục - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1351,
+    "family": "create",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "creation",
+      "create",
+      "creative",
+      "creatively"
+    ],
+    "answer": "creatively",
+    "explanation": "VNI: một cách sáng tạo - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1352,
+    "family": "decide",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "decision",
+      "decide",
+      "decisive",
+      "decisively"
+    ],
+    "answer": "decisively",
+    "explanation": "VNI: một cách kiên quyết - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1353,
+    "family": "develop",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "development",
+      "develop",
+      "developing",
+      "developingly"
+    ],
+    "answer": "developingly",
+    "explanation": "VNI: một cách phát triển - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1354,
+    "family": "friend",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "friendship",
+      "befriend",
+      "friendly",
+      "friendlily"
+    ],
+    "answer": "friendlily",
+    "explanation": "VNI: một cách thân thiện - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1355,
+    "family": "danger",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "danger",
+      "endanger",
+      "dangerous",
+      "dangerously"
+    ],
+    "answer": "dangerously",
+    "explanation": "VNI: một cách nguy hiểm - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1356,
+    "family": "power",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "power",
+      "empower",
+      "powerful",
+      "powerfully"
+    ],
+    "answer": "powerfully",
+    "explanation": "VNI: một cách mạnh mẽ - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1357,
+    "family": "peace",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "peace",
+      "pacify",
+      "peaceful",
+      "peacefully"
+    ],
+    "answer": "peacefully",
+    "explanation": "VNI: một cách hòa bình - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1358,
+    "family": "nation",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "nation",
+      "nationalize",
+      "national",
+      "nationally"
+    ],
+    "answer": "nationally",
+    "explanation": "VNI: trên toàn quốc - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1359,
+    "family": "culture",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "culture",
+      "cultivate",
+      "cultural",
+      "culturally"
+    ],
+    "answer": "culturally",
+    "explanation": "VNI: về mặt văn hóa - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1360,
+    "family": "industry",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "industry",
+      "industrialize",
+      "industrial",
+      "industrially"
+    ],
+    "answer": "industrially",
+    "explanation": "VNI: về mặt công nghiệp - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1361,
+    "family": "nature",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "nature",
+      "naturalize",
+      "natural",
+      "naturally"
+    ],
+    "answer": "naturally",
+    "explanation": "VNI: một cách tự nhiên - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1362,
+    "family": "communicate",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "communication",
+      "communicate",
+      "communicative",
+      "communicatively"
+    ],
+    "answer": "communicatively",
+    "explanation": "VNI: bằng cách giao tiếp - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1363,
+    "family": "celebrate",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "celebration",
+      "celebrate",
+      "celebrated",
+      "celebratedly"
+    ],
+    "answer": "celebratedly",
+    "explanation": "VNI: một cách nổi tiếng - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1364,
+    "family": "compare",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "comparison",
+      "compare",
+      "comparative",
+      "comparatively"
+    ],
+    "answer": "comparatively",
+    "explanation": "VNI: tương đối - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1365,
+    "family": "protect",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "protection",
+      "protect",
+      "protective",
+      "protectively"
+    ],
+    "answer": "protectively",
+    "explanation": "VNI: một cách bảo vệ - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1366,
+    "family": "organize",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "organization",
+      "organize",
+      "organizational",
+      "organizationally"
+    ],
+    "answer": "organizationally",
+    "explanation": "VNI: về mặt tổ chức - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1367,
+    "family": "act",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "action",
+      "act",
+      "active",
+      "actively"
+    ],
+    "answer": "actively",
+    "explanation": "VNI: một cách chủ động - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1368,
+    "family": "attract",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "attraction",
+      "attract",
+      "attractive",
+      "attractively"
+    ],
+    "answer": "attractively",
+    "explanation": "VNI: một cách hấp dẫn - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1369,
+    "family": "sad",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "sadness",
+      "sadden",
+      "sad",
+      "sadly"
+    ],
+    "answer": "sadly",
+    "explanation": "VNI: một cách buồn bã - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1370,
+    "family": "able",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "ability",
+      "enable",
+      "able",
+      "ably"
+    ],
+    "answer": "ably",
+    "explanation": "VNI: một cách có tài - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1371,
+    "family": "fame",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "fame",
+      "defame",
+      "famous",
+      "famously"
+    ],
+    "answer": "famously",
+    "explanation": "VNI: một cách nổi tiếng - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1372,
+    "family": "agree",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "agreement",
+      "agree",
+      "agreeable",
+      "agreeably"
+    ],
+    "answer": "agreeably",
+    "explanation": "VNI: một cách dễ chịu - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1373,
+    "family": "appear",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "appearance",
+      "appear",
+      "apparent",
+      "apparently"
+    ],
+    "answer": "apparently",
+    "explanation": "VNI: nhìn có vẻ - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1374,
+    "family": "assist",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "assistance",
+      "assist",
+      "assistant",
+      "assistantly"
+    ],
+    "answer": "assistantly",
+    "explanation": "VNI: một cách phụ tá - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1375,
+    "family": "attend",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "attendance",
+      "attend",
+      "attentive",
+      "attentively"
+    ],
+    "answer": "attentively",
+    "explanation": "VNI: một cách chú ý - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1376,
+    "family": "bright",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "brightness",
+      "brighten",
+      "bright",
+      "brightly"
+    ],
+    "answer": "brightly",
+    "explanation": "VNI: một cách sáng sủa - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1377,
+    "family": "collect",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "collection",
+      "collect",
+      "collective",
+      "collectively"
+    ],
+    "answer": "collectively",
+    "explanation": "VNI: một cách tập thể - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1378,
+    "family": "compete",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "competition",
+      "compete",
+      "competitive",
+      "competitively"
+    ],
+    "answer": "competitively",
+    "explanation": "VNI: một cách cạnh tranh - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1379,
+    "family": "confidence",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "confidence",
+      "confide",
+      "confident",
+      "confidently"
+    ],
+    "answer": "confidently",
+    "explanation": "VNI: một cách tự tin - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1380,
+    "family": "connect",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "connection",
+      "connect",
+      "connected",
+      "connectedly"
+    ],
+    "answer": "connectedly",
+    "explanation": "VNI: liên tục - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1381,
+    "family": "courage",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "courage",
+      "encourage",
+      "courageous",
+      "courageously"
+    ],
+    "answer": "courageously",
+    "explanation": "VNI: một cách can đảm - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1382,
+    "family": "dark",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "darkness",
+      "darken",
+      "dark",
+      "darkly"
+    ],
+    "answer": "darkly",
+    "explanation": "VNI: một cách tối tăm - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1383,
+    "family": "deep",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "depth",
+      "deepen",
+      "deep",
+      "deeply"
+    ],
+    "answer": "deeply",
+    "explanation": "VNI: một cách sâu sắc - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1384,
+    "family": "depend",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "dependence",
+      "depend",
+      "dependent",
+      "dependently"
+    ],
+    "answer": "dependently",
+    "explanation": "VNI: một cách phụ thuộc - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1385,
+    "family": "describe",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "description",
+      "describe",
+      "descriptive",
+      "descriptively"
+    ],
+    "answer": "descriptively",
+    "explanation": "VNI: bằng cách miêu tả - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1386,
+    "family": "differ",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "difference",
+      "differ",
+      "different",
+      "differently"
+    ],
+    "answer": "differently",
+    "explanation": "VNI: một cách khác biệt - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1387,
+    "family": "disappoint",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "disappointment",
+      "disappoint",
+      "disappointing",
+      "disappointingly"
+    ],
+    "answer": "disappointingly",
+    "explanation": "VNI: một cách thất vọng - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1388,
+    "family": "economy",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "economy",
+      "economize",
+      "economic",
+      "economically"
+    ],
+    "answer": "economically",
+    "explanation": "VNI: về mặt kinh tế - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1389,
+    "family": "employ",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "employment",
+      "employ",
+      "employed",
+      "employedly"
+    ],
+    "answer": "employedly",
+    "explanation": "VNI: theo cách thuê mướn - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1390,
+    "family": "enjoy",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "enjoyment",
+      "enjoy",
+      "enjoyable",
+      "enjoyably"
+    ],
+    "answer": "enjoyably",
+    "explanation": "VNI: một cách thú vị - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1391,
+    "family": "explain",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "explanation",
+      "explain",
+      "explanatory",
+      "explainingly"
+    ],
+    "answer": "explainingly",
+    "explanation": "VNI: bằng cách giải thích - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1392,
+    "family": "forget",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "forgetfulness",
+      "forget",
+      "forgetful",
+      "forgetfully"
+    ],
+    "answer": "forgetfully",
+    "explanation": "VNI: một cách đãng trí - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1393,
+    "family": "grow",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "growth",
+      "grow",
+      "growing",
+      "growingly"
+    ],
+    "answer": "growingly",
+    "explanation": "VNI: ngày càng tăng - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1394,
+    "family": "high",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "height",
+      "heighten",
+      "high",
+      "highly"
+    ],
+    "answer": "highly",
+    "explanation": "VNI: rất nhiều, cao - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1395,
+    "family": "imagine",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "imagination",
+      "imagine",
+      "imaginative",
+      "imaginatively"
+    ],
+    "answer": "imaginatively",
+    "explanation": "VNI: một cách tưởng tượng - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  },
+  {
+    "id": 1396,
+    "family": "impress",
+    "questionType": "choose-adverb",
+    "sentence": "He completed the final exam _____.",
+    "options": [
+      "impression",
+      "impress",
+      "impressive",
+      "impressively"
+    ],
+    "answer": "impressively",
+    "explanation": "VNI: một cách ấn tượng - Grammar: Cuối câu bổ nghĩa cho động từ thường đã hoàn thành cần một trạng từ."
+  },
+  {
+    "id": 1397,
+    "family": "improve",
+    "questionType": "choose-adverb",
+    "sentence": "The young student answered the question _____.",
+    "options": [
+      "improvement",
+      "improve",
+      "improved",
+      "improvingly"
+    ],
+    "answer": "improvingly",
+    "explanation": "VNI: một cách cải thiện - Grammar: Sau động từ thường và tân ngữ cần một trạng từ để bổ nghĩa."
+  },
+  {
+    "id": 1398,
+    "family": "inform",
+    "questionType": "choose-adverb",
+    "sentence": "_____ , they won the first prize in the competition.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": "informatively",
+    "explanation": "VNI: đầy đủ thông tin - Grammar: Trạng từ đứng ở đầu câu dùng để bổ nghĩa cho cả câu."
+  },
+  {
+    "id": 1399,
+    "family": "invent",
+    "questionType": "choose-adverb",
+    "sentence": "We should listen to the lecture _____.",
+    "options": [
+      "invention",
+      "invent",
+      "inventive",
+      "inventively"
+    ],
+    "answer": "inventively",
+    "explanation": "VNI: một cách sáng tạo - Grammar: Bổ nghĩa cho cụm động từ thường cần một trạng từ ở cuối."
+  },
+  {
+    "id": 1400,
+    "family": "invite",
+    "questionType": "choose-adverb",
+    "sentence": "She speaks English very _____.",
+    "options": [
+      "invitation",
+      "invite",
+      "inviting",
+      "invitingly"
+    ],
+    "answer": "invitingly",
+    "explanation": "VNI: một cách hấp dẫn - Grammar: Sau cụm động từ thường và trạng từ chỉ mức độ 'very' cần một trạng từ."
+  }
+]

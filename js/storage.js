@@ -74,9 +74,11 @@ class Storage {
   }
 
   /**
-   * Reset all statistics to defaults.
+   * Reset all statistics to defaults for the current user.
    */
   static reset() {
+    const key = Storage._getKey();
+    localStorage.removeItem(key);
     localStorage.removeItem(Storage.STORAGE_KEY);
     return { ...Storage.DEFAULT_STATS };
   }
@@ -157,13 +159,16 @@ class Storage {
   }
 
   /**
-   * Update the highest combo if current streak exceeds it.
+   * Update the highest combo and max streak if current streak exceeds them.
    */
   static updateHighestCombo() {
     const stats = Storage.load();
     if (stats.currentStreak > stats.highestCombo) {
       stats.highestCombo = stats.currentStreak;
-      Storage.save(stats);
     }
+    if (stats.currentStreak > stats.maxStreak) {
+      stats.maxStreak = stats.currentStreak;
+    }
+    Storage.save(stats);
   }
 }

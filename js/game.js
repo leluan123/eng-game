@@ -126,8 +126,18 @@ class Game {
 
   _showMenu() {
     this.isPlaying = false;
+    // Save current game state before returning to menu
     const stats = Storage.load();
-    this.ui.updateMenu(stats);
+    if (this.xp > 0 || stats.xp > 0) {
+      stats.xp = this.xp;
+      stats.currentStreak = this.streak;
+      if (this.streak > stats.maxStreak) {
+        stats.maxStreak = this.streak;
+      }
+      Storage.save(stats);
+    }
+    const updatedStats = Storage.load();
+    this.ui.updateMenu(updatedStats);
     this.ui.showScreen('menu');
   }
 
@@ -232,7 +242,9 @@ class Game {
       await this._handleWrongAnswer(stats);
     }
 
-    Storage.recalculateAccuracy();
+    // Calculate accuracy directly on the current stats object
+    const totalQ = stats.totalQuestions || 1;
+    stats.accuracy = Math.round((stats.totalCorrect / totalQ) * 100);
     Storage.save(stats);
 
     this.ui.updateHearts(this.hearts);
@@ -262,6 +274,11 @@ class Game {
     stats.totalCorrect++;
     stats.wordsLearned++;
     this.combo = this.streak;
+
+    // Update max streak in storage immediately
+    if (this.streak > stats.maxStreak) {
+      stats.maxStreak = this.streak;
+    }
 
     let bonusXp = 0;
     if (this.streak === 5) {
@@ -344,7 +361,10 @@ class Game {
       this.xp += this.xpPerCorrect;
       const stats = Storage.load();
       stats.xp = this.xp;
+      stats.totalQuestions++;
       stats.totalCorrect++;
+      const totalQ = stats.totalQuestions || 1;
+      stats.accuracy = Math.round((stats.totalCorrect / totalQ) * 100);
       Storage.save(stats);
       this._updateXpUI();
 
@@ -370,6 +390,9 @@ class Game {
       this.xp = Math.max(0, this.xp + this.xpPerWrong);
       const stats = Storage.load();
       stats.xp = this.xp;
+      stats.totalQuestions++;
+      const totalQ = stats.totalQuestions || 1;
+      stats.accuracy = Math.round((stats.totalCorrect / totalQ) * 100);
       Storage.save(stats);
       this._updateXpUI();
 
@@ -416,13 +439,19 @@ class Game {
     const stats = Storage.load();
     const level = this.currentLevel;
 
+    // Save XP and word count before completing level
+    stats.xp = this.xp;
+    Storage.save(stats);
+
     Storage.completeLevel(level);
 
     const canUnlock = this.levelManager.canUnlockNextLevel(level, stats);
-    if (canUnlock && level < 3) Storage.unlockLevel(level + 1);
-    if (level >= stats.currentLevel && level < 3) {
-      stats.currentLevel = level + 1;
-      Storage.updateField('currentLevel', level + 1);
+    if (canUnlock && level < 3) {
+      Storage.unlockLevel(level + 1);
+      if (level >= stats.currentLevel) {
+        stats.currentLevel = level + 1;
+        Storage.updateField('currentLevel', level + 1);
+      }
     }
 
     const updatedStats = Storage.load();

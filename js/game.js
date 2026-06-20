@@ -122,6 +122,13 @@ class Game {
         this._setDifficulty(btn.dataset.difficulty);
       });
     });
+
+    // Speak button (pronunciation)
+    document.getElementById('btn-speak').addEventListener('click', () => {
+      if (this._currentWord && this._currentWord.word) {
+        this.audio.speakWord(this._currentWord.word);
+      }
+    });
   }
 
   _showMenu() {

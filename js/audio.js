@@ -306,4 +306,41 @@ class AudioManager {
       { freq: 523, duration: 0.1, type: 'sine', gain: 0.25 },
     ]);
   }
+
+  // ==========================================================
+  // TEXT-TO-SPEECH (Pronunciation)
+  // ==========================================================
+
+  /**
+   * Speak a word using the Web Speech API (browser TTS).
+   * Uses an English voice (en-US) if available.
+   * @param {string} word - The word to pronounce
+   */
+  speakWord(word) {
+    if (!window.speechSynthesis) {
+      console.warn('SpeechSynthesis API not supported in this browser.');
+      return;
+    }
+
+    // Cancel any ongoing speech to avoid overlapping
+    window.speechSynthesis.cancel();
+
+    const utterance = new SpeechSynthesisUtterance(word);
+    utterance.lang = 'en-US';
+    utterance.rate = 0.9;      // Slightly slower for clarity
+    utterance.pitch = 1.0;
+    utterance.volume = 1.0;
+
+    // Try to find an English voice
+    const voices = window.speechSynthesis.getVoices();
+    const englishVoice = voices.find(v => v.lang.startsWith('en'));
+    if (englishVoice) {
+      utterance.voice = englishVoice;
+    }
+
+    // Resume audio context in case it was suspended
+    this.resume();
+
+    window.speechSynthesis.speak(utterance);
+  }
 }

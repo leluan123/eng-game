@@ -82,6 +82,8 @@
 html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
+  height: 100%;
+  overflow-y: auto;
 }
 
 body {
@@ -90,7 +92,9 @@ body {
   color: var(--color-text);
   min-height: 100vh;
   min-height: 100dvh;
+  height: auto;
   overflow-x: hidden;
+  overflow-y: auto;
   line-height: 1.5;
 }
 
@@ -617,11 +621,42 @@ button {
 }
 
 .word-text {
-  display: block;
   font-size: var(--font-size-2xl);
   font-weight: 800;
   color: var(--color-text);
   line-height: 1.2;
+}
+
+.word-main-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+}
+
+.btn-speak {
+  background: none;
+  border: none;
+  font-size: var(--font-size-lg);
+  cursor: pointer;
+  padding: var(--space-xs);
+  border-radius: var(--radius-full);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+}
+
+.btn-speak:hover {
+  transform: scale(1.15);
+  background: rgba(108, 99, 255, 0.1);
+}
+
+.btn-speak:active {
+  transform: scale(0.95);
 }
 
 .word-meaning {

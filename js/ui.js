@@ -48,6 +48,7 @@ class UIManager {
     this.wordText = document.getElementById('word-text');
     this.wordHint = document.getElementById('word-hint');
     this.wordMeaning = document.getElementById('word-meaning');
+    this.btnSpeak = document.getElementById('btn-speak');
     this.wordCard = document.getElementById('word-card');
     this.answerButtons = document.querySelectorAll('.btn-type');
 

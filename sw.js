@@ -17,7 +17,7 @@ const ASSETS_TO_CACHE = [
   './icons/icon-192x192.png',
   './icons/icon-512x512.png',
   // WordType game
-  './games/wordtype/index.html',
+  './games/wordtype/wordtype.html',
   './games/wordtype/js/data.js',
   './games/wordtype/js/audio.js',
   './games/wordtype/js/levelManager.js',

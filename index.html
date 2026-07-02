@@ -463,8 +463,17 @@
         <!-- Populated by JS -->
       </div>
 
+      <!-- Google Sheets Config -->
+      <div class="activity-sheets-note" style="text-align:left; background:#e8f5e9; border-color:#4caf50;">
+        <strong>📊 Google Sheets Logging</strong>
+        <p style="font-size:0.8rem; margin:8px 0;">Paste your Google Sheets Web App URL below to enable online logging:</p>
+        <input type="text" id="sheets-url-input" placeholder="https://script.google.com/macros/s/..." style="width:100%; padding:8px; border:1px solid #ccc; border-radius:6px; font-size:0.8rem; font-family:monospace;">
+        <button id="btn-save-sheets-url" style="margin-top:8px; padding:6px 16px; background:#4caf50; color:#fff; border:none; border-radius:6px; cursor:pointer; font-size:0.8rem;">💾 Save URL</button>
+        <p id="sheets-save-status" style="font-size:0.75rem; margin-top:6px; color:#666;"></p>
+      </div>
+
       <!-- Debug Panel -->
-      <div class="activity-sheets-note" style="text-align:left; background:#fff3cd; border-color:#ffc107;">
+      <div class="activity-sheets-note" style="text-align:left; background:#fff3cd; border-color:#ffc107; margin-top:12px;">
         <strong>🐛 Debug Info</strong>
         <div id="debug-events" style="font-family:monospace; font-size:0.75rem; max-height:150px; overflow-y:auto; margin-top:8px; color:#333;">
           <em>No events tracked yet. Play a game to see events here.</em>
@@ -548,6 +557,12 @@
         // Track page view
         Analytics.trackEvent('page_view', { page: 'hub' });
 
+        // Load saved Sheets URL from localStorage
+        const savedUrl = localStorage.getItem('gameenglish_sheets_url');
+        if (savedUrl) {
+          Analytics.SHEETS_WEB_APP_URL = savedUrl;
+        }
+
         this._setupEventListeners();
         this._renderGameGrid();
         this._updateUserInfo();
@@ -561,6 +576,40 @@
         // Activity screen
         document.getElementById('btn-hub-activity').addEventListener('click', () => this._showActivityScreen());
         document.getElementById('btn-activity-back').addEventListener('click', () => this._showHub());
+
+        // Google Sheets URL config
+        document.getElementById('btn-save-sheets-url').addEventListener('click', () => this._saveSheetsUrl());
+      }
+
+      _saveSheetsUrl() {
+        const input = document.getElementById('sheets-url-input');
+        const status = document.getElementById('sheets-save-status');
+        const url = input.value.trim();
+
+        if (!url) {
+          status.textContent = '❌ Please enter a URL';
+          status.style.color = 'red';
+          return;
+        }
+
+        if (!url.includes('script.google.com/macros/s/')) {
+          status.textContent = '❌ Invalid URL. Must be a Google Apps Script Web App URL.';
+          status.style.color = 'red';
+          return;
+        }
+
+        // Save to localStorage
+        localStorage.setItem('gameenglish_sheets_url', url);
+        Analytics.SHEETS_WEB_APP_URL = url;
+
+        status.textContent = '✅ URL saved! Data will now be logged to Google Sheets.';
+        status.style.color = 'green';
+
+        // Update debug panel
+        const sheetsStatus = document.getElementById('sheets-status');
+        if (sheetsStatus) {
+          sheetsStatus.innerHTML = '<span style="color:green;">✅ Configured</span>';
+        }
       }
 
       _showHub() {

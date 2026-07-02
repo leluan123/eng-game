@@ -58,6 +58,12 @@ class Game {
       Analytics.startSession();
       Analytics.trackEvent('page_view', { page: 'wordtype_game' });
 
+      // Load saved Sheets URL from localStorage
+      const savedUrl = localStorage.getItem('gameenglish_sheets_url');
+      if (savedUrl) {
+        Analytics.SHEETS_WEB_APP_URL = savedUrl;
+      }
+
       document.querySelector('.btn-primary').textContent = 'Loading...';
       await Promise.all([
         this.levelManager.loadAllLevels(),

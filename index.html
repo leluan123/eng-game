@@ -566,6 +566,12 @@
         this._setupEventListeners();
         this._renderGameGrid();
         this._updateUserInfo();
+
+        // Log progress when hub page is closed/refreshed
+        window.addEventListener('beforeunload', () => {
+          const gameIds = GAMES.filter(g => !g.comingSoon).map(g => g.id);
+          gameIds.forEach(gameId => Analytics.logCurrentProgress(gameId));
+        });
       }
 
       _setupEventListeners() {

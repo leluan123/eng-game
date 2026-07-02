@@ -94,6 +94,11 @@ class Game {
       document.addEventListener('click', resumeAudio);
       document.addEventListener('touchstart', resumeAudio);
 
+      // Log progress when page is closed/refreshed
+      window.addEventListener('beforeunload', () => {
+        Analytics.logCurrentProgress(this.GAME_ID);
+      });
+
       console.log('Game initialized successfully');
     } catch (e) {
       console.error('Failed to initialize game:', e);

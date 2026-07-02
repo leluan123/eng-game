@@ -20,7 +20,7 @@ class Analytics {
   static DAILY_KEY = 'gameenglish_daily';
 
   /** Google Sheets Web App URL - set this after deploying the Apps Script */
-  static SHEETS_WEB_APP_URL = '';
+  static SHEETS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyx2iQBrXhkmE_EdidUgXS89xmp5gMh7Gx_mROhRm8T_utjML_VEJAbiumZAx5jho92/exec';
 
   /**
    * Get or create a persistent Device ID.
@@ -112,6 +112,38 @@ class Analytics {
       gtag('event', eventName, eventParams);
       console.log(`[Analytics] Flushed: ${eventName}`, eventParams);
     });
+  }
+
+  /**
+   * Log current progress to Google Sheets.
+   * Reads current stats from Storage and sends them.
+   * Use this when user exits/pauses the game.
+   * @param {string} gameId - Game identifier
+   */
+  static logCurrentProgress(gameId) {
+    if (!Analytics.SHEETS_WEB_APP_URL) return;
+
+    try {
+      const stats = Storage.load(gameId);
+      const payload = {
+        deviceId: Analytics.getDeviceId(),
+        timestamp: new Date().toISOString(),
+        gameId: gameId,
+        xp: stats.xp || 0,
+        playTime: Analytics.endSession(),
+        level: stats.currentLevel || 0,
+        accuracy: stats.accuracy || 0,
+        bossDefeated: (stats.bossesDefeated || 0) > 0 ? 1 : 0,
+        totalQuestions: stats.totalQuestions || 0,
+        totalCorrect: stats.totalCorrect || 0
+      };
+
+      const blob = new Blob([JSON.stringify(payload)], { type: 'application/json' });
+      navigator.sendBeacon(Analytics.SHEETS_WEB_APP_URL, blob);
+      console.log('[Analytics] Logged progress to Sheets:', payload);
+    } catch (e) {
+      console.error('[Analytics] Failed to log progress:', e);
+    }
   }
 
   /**

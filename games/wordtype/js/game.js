@@ -130,6 +130,7 @@ class Game {
 
     // Back to Hub
     document.getElementById('btn-back-to-hub').addEventListener('click', () => {
+      Analytics.logCurrentProgress(this.GAME_ID);
       window.location.href = '../../index.html';
     });
 
@@ -164,6 +165,9 @@ class Game {
     const updatedStats = Storage.load(this.GAME_ID);
     this.ui.updateMenu(updatedStats);
     this.ui.showScreen('menu');
+
+    // Log progress when exiting to menu
+    Analytics.logCurrentProgress(this.GAME_ID);
   }
 
   _showLevelsScreen() {

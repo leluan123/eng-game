@@ -6,256 +6,475 @@
   <meta name="theme-color" content="#6c63ff">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="WordType">
-  <meta name="description" content="Learn English Grammar Through Play - WordType">
+  <meta name="apple-mobile-web-app-title" content="Game English">
+  <meta name="description" content="Learn English Through Games - Game English Hub">
   <meta name="mobile-web-app-capable" content="yes">
-  <title>WordType - English Grammar Game</title>
+  <title>Game English - Learn English Through Games</title>
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icons/icon-192x192.png">
   <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192x192.png">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="shared/css/style.css">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DM3H51C9WT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-DM3H51C9WT');
+  </script>
+
+  <style>
+    /* ===== GAME HUB STYLES ===== */
+    .hub-container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px 16px 40px;
+    }
+
+    .hub-header {
+      text-align: center;
+      padding: 30px 0 20px;
+    }
+
+    .hub-header .logo-icon {
+      width: 80px;
+      height: 80px;
+      background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
+      font-weight: 800;
+      color: #fff;
+      margin: 0 auto 16px;
+      box-shadow: 0 4px 20px rgba(108, 99, 255, 0.3);
+    }
+
+    .hub-header h1 {
+      font-size: 1.6rem;
+      color: var(--color-text);
+      margin: 0 0 8px;
+      line-height: 1.4;
+    }
+
+    .hub-header .creator-info {
+      font-size: 0.9rem;
+      color: var(--color-text-secondary);
+      margin: 0;
+    }
+
+    .hub-header .creator-info a {
+      color: var(--color-primary);
+      text-decoration: none;
+    }
+
+    .hub-header .creator-info a:hover {
+      text-decoration: underline;
+    }
+
+    /* User bar */
+    .hub-user-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--color-surface);
+      border-radius: 12px;
+      padding: 12px 16px;
+      margin-bottom: 24px;
+      border: 1px solid var(--color-border);
+    }
+
+    .hub-user-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .hub-user-info .user-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      color: #fff;
+    }
+
+    .hub-user-info .user-details {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hub-user-info .user-name {
+      font-weight: 600;
+      color: var(--color-text);
+      font-size: 0.95rem;
+    }
+
+    .hub-user-info .user-total-xp {
+      font-size: 0.8rem;
+      color: var(--color-text-secondary);
+    }
+
+    .hub-user-bar .btn-switch-user {
+      background: var(--color-bg);
+      border: 1px solid var(--color-border);
+      color: var(--color-text);
+      padding: 6px 14px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .hub-user-bar .btn-switch-user:hover {
+      background: var(--color-primary);
+      color: #fff;
+      border-color: var(--color-primary);
+    }
+
+    /* Section title */
+    .hub-section-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--color-text);
+      margin: 0 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .hub-section-title span {
+      background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    /* Game grid */
+    .game-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+    }
+
+    .game-card {
+      background: var(--color-surface);
+      border-radius: 16px;
+      padding: 20px;
+      border: 1px solid var(--color-border);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .game-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--color-primary), var(--color-accent));
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .game-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+      border-color: var(--color-primary);
+    }
+
+    .game-card:hover::before {
+      opacity: 1;
+    }
+
+    .game-card:active {
+      transform: translateY(-2px);
+    }
+
+    .game-card-icon {
+      width: 56px;
+      height: 56px;
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      margin-bottom: 12px;
+    }
+
+    .game-card-icon.wordtype {
+      background: linear-gradient(135deg, #6c63ff, #4834d4);
+    }
+
+    .game-card-icon.coming-soon {
+      background: linear-gradient(135deg, #95a5a6, #7f8c8d);
+    }
+
+    .game-card h3 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--color-text);
+      margin: 0 0 6px;
+    }
+
+    .game-card p {
+      font-size: 0.85rem;
+      color: var(--color-text-secondary);
+      margin: 0 0 12px;
+      line-height: 1.4;
+    }
+
+    .game-card .game-stats {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 0.8rem;
+      color: var(--color-text-secondary);
+    }
+
+    .game-card .game-stats .stat-badge {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      background: var(--color-bg);
+      padding: 4px 10px;
+      border-radius: 20px;
+    }
+
+    .game-card .game-stats .stat-badge.high-xp {
+      background: linear-gradient(135deg, #f39c12, #e67e22);
+      color: #fff;
+    }
+
+    .game-card .play-badge {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: var(--color-primary);
+      color: #fff;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .game-card:hover .play-badge {
+      opacity: 1;
+    }
+
+    .game-card .new-badge {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: var(--color-accent);
+      color: #fff;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    .game-card.coming-soon-card {
+      opacity: 0.6;
+      cursor: default;
+    }
+
+    .game-card.coming-soon-card:hover {
+      transform: none;
+      box-shadow: none;
+      border-color: var(--color-border);
+    }
+
+    .game-card.coming-soon-card:hover::before {
+      opacity: 0;
+    }
+
+    /* ===== ACTIVITY SCREEN STYLES ===== */
+    #screen-activity .activity-container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .activity-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .activity-card {
+      background: var(--color-surface);
+      border-radius: 12px;
+      padding: 16px;
+      text-align: center;
+      border: 1px solid var(--color-border);
+    }
+
+    .activity-card .activity-value {
+      font-size: 1.6rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .activity-card .activity-label {
+      font-size: 0.8rem;
+      color: var(--color-text-secondary);
+      margin-top: 4px;
+    }
+
+    .activity-device-info {
+      background: var(--color-surface);
+      border-radius: 12px;
+      padding: 16px;
+      border: 1px solid var(--color-border);
+      margin-bottom: 16px;
+    }
+
+    .activity-device-info .info-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--color-border);
+      font-size: 0.9rem;
+    }
+
+    .activity-device-info .info-row:last-child {
+      border-bottom: none;
+    }
+
+    .activity-device-info .info-label {
+      color: var(--color-text-secondary);
+    }
+
+    .activity-device-info .info-value {
+      color: var(--color-text);
+      font-weight: 600;
+      font-family: monospace;
+      font-size: 0.8rem;
+    }
+
+    .activity-sheets-note {
+      background: var(--color-surface);
+      border-radius: 12px;
+      padding: 16px;
+      border: 1px solid var(--color-border);
+      font-size: 0.85rem;
+      color: var(--color-text-secondary);
+      text-align: center;
+    }
+
+    .activity-sheets-note .note-icon {
+      font-size: 1.2rem;
+    }
+
+    /* User management screen */
+    #screen-users .users-container {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      .game-grid {
+        grid-template-columns: 1fr;
+      }
+      .hub-header h1 {
+        font-size: 1.3rem;
+      }
+      .activity-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
 </head>
 <body>
 
-  <!-- ==================== MAIN MENU SCREEN ==================== -->
-  <section id="screen-menu" class="screen active">
-    <div class="menu-container">
-      <div class="logo-area">
+  <!-- ==================== GAME HUB SCREEN ==================== -->
+  <section id="screen-hub" class="screen active">
+    <div class="hub-container">
+      <!-- Header -->
+      <div class="hub-header">
         <div class="logo-icon">En</div>
-        <h1 class="game-title">English Grammar</h1>
-        <p class="game-subtitle">Learn Grammar Through Play</p>
-        <p class="contact-info">Created by: Le Luan</p>
-      </div>  
-
-      <div class="menu-stats-bar">
-        <div class="stat-item">
-          <span class="stat-icon">⭐</span>
-          <span class="stat-value" id="menu-xp">0</span>
-          <span class="stat-label">XP</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-icon">🏆</span>
-          <span class="stat-value" id="menu-level">1</span>
-          <span class="stat-label">Level</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-icon">🔥</span>
-          <span class="stat-value" id="menu-combo">0</span>
-          <span class="stat-label">Best Combo</span>
-        </div>
+        <h1>Welcome to the English Language Game!</h1>
+        <p class="creator-info">Creator: Lê Luân (<a href="mailto:leluanhn25@gmail.com">leluanhn25@gmail.com</a>)</p>
       </div>
 
-      <div class="user-indicator" id="user-indicator">
-        <span class="user-icon">👤</span>
-        <span class="user-name" id="user-name">Player 1</span>
-        <button class="btn-user-switch" id="btn-user-menu">Switch</button>
-      </div>
-
-      <div class="menu-buttons">
-        <button class="btn btn-primary btn-large" id="btn-play">▶ PLAY</button>
-        <button class="btn btn-secondary" id="btn-levels">📊 Levels</button>
-        <button class="btn btn-secondary" id="btn-stats">📈 Statistics</button>
-        <button class="btn btn-secondary" id="btn-users">👥 Users</button>
-      </div>
-
-      <div class="level-progress-indicator">
-        <div class="level-dot active" data-level="1">1</div>
-        <div class="level-dot locked" data-level="2">2</div>
-        <div class="level-dot locked" data-level="3">3</div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ==================== LEVELS SCREEN ==================== -->
-  <section id="screen-levels" class="screen">
-    <div class="screen-header">
-      <button class="btn btn-back" id="btn-levels-back">← Back</button>
-      <h2>Select Level</h2>
-    </div>
-    <div class="levels-container" id="levels-list">
-      <!-- Dynamically populated -->
-    </div>
-  </section>
-
-  <!-- ==================== STATISTICS SCREEN ==================== -->
-  <section id="screen-stats" class="screen">
-    <div class="screen-header">
-      <button class="btn btn-back" id="btn-stats-back">← Back</button>
-      <h2>Statistics</h2>
-    </div>
-    <div class="stats-container" id="stats-content">
-      <!-- Dynamically populated -->
-    </div>
-    <div class="stats-actions">
-      <button class="btn btn-danger" id="btn-reset-stats">Reset All Progress</button>
-    </div>
-  </section>
-
-  <!-- ==================== GAMEPLAY SCREEN ==================== -->
-  <section id="screen-game" class="screen">
-    <!-- Top Bar -->
-    <div class="game-top-bar">
-      <div class="hearts-container" id="hearts-display">
-        <!-- Hearts generated by JS -->
-      </div>
-      <div class="xp-container">
-        <div class="xp-bar-bg">
-          <div class="xp-bar-fill" id="xp-bar-fill" style="width: 0%;"></div>
-        </div>
-        <span class="xp-text" id="xp-text">0 XP</span>
-      </div>
-      <div class="game-level-badge" id="game-level-badge">Level 1</div>
-    </div>
-
-    <!-- Combo Display -->
-    <div class="combo-display" id="combo-display">
-      <span class="combo-count" id="combo-count">0</span>
-      <span class="combo-label">Combo</span>
-    </div>
-
-    <!-- Question Counter -->
-    <div class="question-counter" id="question-counter">
-      Question <span id="question-num">1</span>/<span id="question-total">20</span>
-    </div>
-
-    <!-- Word Display -->
-    <div class="word-area">
-      <div class="word-card" id="word-card">
-        <span class="word-hint" id="word-hint"></span>
-        <div class="word-main-row">
-          <span class="word-text" id="word-text">successful</span>
-          <button class="btn-speak" id="btn-speak" aria-label="Phát âm">🔊</button>
-        </div>
-        <span class="word-meaning" id="word-meaning">thành công</span>
-      </div>
-    </div>
-
-    <!-- Type Buttons -->
-    <div class="answer-buttons" id="answer-buttons">
-      <button class="btn-type btn-noun" data-type="noun">NOUN</button>
-      <button class="btn-type btn-verb" data-type="verb">VERB</button>
-      <button class="btn-type btn-adjective" data-type="adjective">ADJECTIVE</button>
-      <button class="btn-type btn-adverb" data-type="adverb">ADVERB</button>
-    </div>
-
-    <!-- Difficulty Selector -->
-    <div class="difficulty-selector" id="difficulty-selector">
-      <button class="btn-difficulty active" data-difficulty="easy">Easy 30</button>
-      <button class="btn-difficulty" data-difficulty="medium">Medium 50</button>
-      <button class="btn-difficulty" data-difficulty="hard">Hard 80</button>
-    </div>
-
-    <!-- Feedback Overlay -->
-    <div class="feedback-overlay" id="feedback-overlay" style="display:none;">
-      <div class="feedback-content" id="feedback-content">
-        <div class="feedback-icon" id="feedback-icon">✔</div>
-        <div class="feedback-text" id="feedback-text">Correct!</div>
-        <div class="feedback-detail" id="feedback-detail">+10 XP</div>
-        <div class="feedback-extras" id="feedback-extras">
-          <div class="feedback-extra-item" id="feedback-hint-row">
-            <span class="feedback-label">Dấu hiệu:</span>
-            <span class="feedback-value" id="feedback-hint">-ful</span>
-          </div>
-          <div class="feedback-extra-item" id="feedback-family-row">
-            <span class="feedback-label">Family:</span>
-            <span class="feedback-value" id="feedback-family">success, succeed, successfully</span>
+      <!-- User Bar -->
+      <div class="hub-user-bar">
+        <div class="hub-user-info">
+          <div class="user-avatar">👤</div>
+          <div class="user-details">
+            <span class="user-name" id="hub-user-name">Player 1</span>
+            <span class="user-total-xp" id="hub-total-xp">Total XP: 0</span>
           </div>
         </div>
-        <button class="btn btn-primary btn-feedback-ok" id="btn-feedback-ok">OK</button>
-      </div>
-    </div>
-
-    <!-- Combo Popup -->
-    <div class="combo-popup" id="combo-popup" style="display:none;">
-      <div class="combo-popup-text" id="combo-popup-text">🔥 GREAT!</div>
-    </div>
-  </section>
-
-  <!-- ==================== BOSS FIGHT SCREEN ==================== -->
-  <section id="screen-boss" class="screen">
-    <div class="boss-header">
-      <h2 class="boss-title">⚔ BOSS FIGHT ⚔</h2>
-    </div>
-
-    <div class="boss-area">
-      <div class="boss-info">
-        <div class="boss-name" id="boss-name">Word Family Boss</div>
-        <div class="boss-hp-bar-bg">
-          <div class="boss-hp-bar-fill" id="boss-hp-fill" style="width: 100%;"></div>
-        </div>
-        <div class="boss-hp-text" id="boss-hp-text">HP: 100/100</div>
+        <button class="btn-switch-user" id="btn-hub-users">👥 Switch User</button>
       </div>
 
-      <div class="boss-question-area">
-        <div class="boss-sentence" id="boss-sentence">
-          She is a _____ student.
-        </div>
-        <div class="boss-family-tag" id="boss-family">Family: success</div>
+      <!-- Navigation Buttons -->
+      <div style="display:flex; gap:10px; margin-bottom:20px;">
+        <button class="btn btn-secondary" id="btn-hub-activity" style="flex:1; color:#000; font-weight:600;">📊 My Activity</button>
       </div>
 
-      <div class="boss-options" id="boss-options">
+      <!-- Game List -->
+      <h2 class="hub-section-title">🎮 <span>Game Collection</span></h2>
+      <div class="game-grid" id="game-grid">
         <!-- Dynamically populated -->
       </div>
-
-      <div class="boss-explanation" id="boss-explanation" style="display:none;">
-        <div class="explanation-text" id="explanation-text"></div>
-        <button class="btn btn-primary btn-boss-ok" id="btn-boss-ok">OK</button>
-      </div>
-
-      <!-- Boss Hearts Display -->
-      <div class="boss-hearts" id="boss-hearts">
-        <!-- Generated by JS -->
-      </div>
-
-      <div class="boss-damage-animation" id="boss-damage-animation" style="display:none;">
-        <span class="damage-number" id="damage-number">-25</span>
-      </div>
     </div>
   </section>
 
-  <!-- ==================== BOSS VICTORY SCREEN ==================== -->
-  <section id="screen-boss-victory" class="screen">
-    <div class="victory-container">
-      <div class="victory-icon">🏆</div>
-      <h2 class="victory-title">VICTORY!</h2>
-      <p class="victory-subtitle">Boss Defeated!</p>
-      <div class="victory-rewards">
-        <div class="reward-item">+100 XP</div>
-        <div class="reward-item">❤️ +1 Heart</div>
-      </div>
-      <button class="btn btn-primary" id="btn-continue-after-boss">Continue Playing</button>
+  <!-- ==================== ACTIVITY SCREEN ==================== -->
+  <section id="screen-activity" class="screen">
+    <div class="screen-header">
+      <button class="btn btn-back" id="btn-activity-back">← Back</button>
+      <h2>My Activity</h2>
     </div>
-  </section>
+    <div class="activity-container">
+      <!-- Device Info -->
+      <div class="activity-device-info" id="device-info">
+        <!-- Populated by JS -->
+      </div>
 
-  <!-- ==================== LEVEL COMPLETE SCREEN ==================== -->
-  <section id="screen-level-complete" class="screen">
-    <div class="level-complete-container">
-      <div class="level-up-icon">🎉</div>
-      <h2 class="level-complete-title" id="level-complete-title">Level Complete!</h2>
-      <p class="level-complete-subtitle" id="level-complete-subtitle">You've mastered this level!</p>
-      <div class="level-complete-stats" id="level-complete-stats">
-        <!-- Dynamic -->
+      <!-- Today's Stats Grid -->
+      <h3 style="margin: 0 0 12px; font-size:1rem; color:var(--color-text);">Today</h3>
+      <div class="activity-grid" id="today-stats">
+        <!-- Populated by JS -->
       </div>
-      <div class="level-complete-next" id="level-complete-next" style="display:none;">
-        <p class="unlock-text">✨ Level 2 Unlocked! ✨</p>
-      </div>
-      <button class="btn btn-primary" id="btn-next-level">Next Level →</button>
-      <button class="btn btn-secondary" id="btn-continue-same-level">Play Again</button>
-      <button class="btn btn-secondary" id="btn-back-to-menu">Menu</button>
-    </div>
-  </section>
 
-  <!-- ==================== GAME OVER SCREEN ==================== -->
-  <section id="screen-gameover" class="screen">
-    <div class="gameover-container">
-      <div class="gameover-icon">💔</div>
-      <h2 class="gameover-title">Game Over</h2>
-      <p class="gameover-subtitle">You ran out of hearts!</p>
-      <div class="gameover-stats" id="gameover-stats">
-        <!-- Dynamic -->
+      <!-- All Games Stats -->
+      <h3 style="margin: 16px 0 12px; font-size:1rem; color:var(--color-text);">All Games</h3>
+      <div id="games-stats">
+        <!-- Populated by JS -->
       </div>
-      <button class="btn btn-primary" id="btn-retry">🔄 Try Again</button>
-      <button class="btn btn-secondary" id="btn-gameover-menu">🏠 Menu</button>
+
+      <!-- Debug Panel -->
+      <div class="activity-sheets-note" style="text-align:left; background:#fff3cd; border-color:#ffc107;">
+        <strong>🐛 Debug Info</strong>
+        <div id="debug-events" style="font-family:monospace; font-size:0.75rem; max-height:150px; overflow-y:auto; margin-top:8px; color:#333;">
+          <em>No events tracked yet. Play a game to see events here.</em>
+        </div>
+        <div style="margin-top:8px; font-size:0.75rem;">
+          <strong>GA4 Status:</strong> <span id="ga4-status">Checking...</span><br>
+          <strong>Sheets Status:</strong> <span id="sheets-status">Not configured</span><br>
+          <strong>Device ID:</strong> <span id="device-id-display" style="font-family:monospace;"></span>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -265,7 +484,7 @@
       <button class="btn btn-back" id="btn-users-back">← Back</button>
       <h2>User Management</h2>
     </div>
-    <div class="users-container" id="users-container">
+    <div class="users-container">
       <div class="users-list" id="users-list">
         <!-- Dynamically populated -->
       </div>
@@ -282,26 +501,341 @@
   </section>
 
   <!-- ==================== SCRIPTS ==================== -->
-  <script src="js/data.js"></script>
-  <script src="js/userManager.js"></script>
-  <script src="js/storage.js"></script>
-  <script src="js/audio.js"></script>
-  <script src="js/levelManager.js"></script>
-  <script src="js/bossManager.js"></script>
-  <script src="js/ui.js"></script>
-  <script src="js/game.js"></script>
+  <script src="shared/js/userManager.js"></script>
+  <script src="shared/js/storage.js"></script>
+  <script src="shared/js/analytics.js"></script>
   <script>
-    // Register Service Worker for PWA
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js')
-          .then((registration) => {
-            console.log('[PWA] Service Worker registered with scope:', registration.scope);
-          })
-          .catch((error) => {
-            console.error('[PWA] Service Worker registration failed:', error);
+    // ============================================================
+    // GAME HUB - Main entry point for the game collection
+    // ============================================================
+
+    /** Define all available games here */
+    const GAMES = [
+      {
+        id: 'wordtype',
+        name: 'WordType',
+        description: 'Identify word types (Noun, Verb, Adjective, Adverb) by their suffixes. Practice English grammar effectively!',
+        icon: '📝',
+        iconClass: 'wordtype',
+        url: 'games/wordtype/index.html',
+        comingSoon: false
+      },
+      {
+        id: 'coming-soon-1',
+        name: 'Coming Soon...',
+        description: 'A new game is being developed. Check back later!',
+        icon: '🚀',
+        iconClass: 'coming-soon',
+        url: '#',
+        comingSoon: true
+      },
+      {
+        id: 'coming-soon-2',
+        name: 'Coming Soon...',
+        description: 'A new game is being developed. Check back later!',
+        icon: '🎯',
+        iconClass: 'coming-soon',
+        url: '#',
+        comingSoon: true
+      }
+    ];
+
+    class GameHub {
+      constructor() {
+        // Start analytics session
+        Analytics.startSession();
+
+        // Track page view
+        Analytics.trackEvent('page_view', { page: 'hub' });
+
+        this._setupEventListeners();
+        this._renderGameGrid();
+        this._updateUserInfo();
+      }
+
+      _setupEventListeners() {
+        document.getElementById('btn-hub-users').addEventListener('click', () => this._showUserScreen());
+        document.getElementById('btn-users-back').addEventListener('click', () => this._showHub());
+        document.getElementById('btn-create-user').addEventListener('click', () => this._createUser());
+
+        // Activity screen
+        document.getElementById('btn-hub-activity').addEventListener('click', () => this._showActivityScreen());
+        document.getElementById('btn-activity-back').addEventListener('click', () => this._showHub());
+      }
+
+      _showHub() {
+        this._updateUserInfo();
+        this._renderGameGrid();
+        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+        document.getElementById('screen-hub').classList.add('active');
+      }
+
+      _showActivityScreen() {
+        this._renderActivityScreen();
+        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+        document.getElementById('screen-activity').classList.add('active');
+      }
+
+      _showUserScreen() {
+        this._renderUserList();
+        document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+        document.getElementById('screen-users').classList.add('active');
+      }
+
+      _updateUserInfo() {
+        const currentUser = UserManager.getCurrentUser();
+        const displayName = UserManager.getDisplayName(currentUser);
+        document.getElementById('hub-user-name').textContent = displayName;
+
+        // Calculate total XP across all games
+        const gameIds = GAMES.filter(g => !g.comingSoon).map(g => g.id);
+        const allStats = Storage.getAllGameStats(gameIds);
+        const totalXp = allStats.reduce((sum, s) => sum + s.xp, 0);
+        document.getElementById('hub-total-xp').textContent = `Total XP: ${totalXp}`;
+      }
+
+      _renderGameGrid() {
+        const grid = document.getElementById('game-grid');
+        grid.innerHTML = '';
+
+        // Get stats for all games
+        const gameIds = GAMES.filter(g => !g.comingSoon).map(g => g.id);
+        const allStats = Storage.getAllGameStats(gameIds);
+        const statsMap = {};
+        allStats.forEach(s => { statsMap[s.gameId] = s; });
+
+        // Sort games: played games with highest XP first, then unplayed, then coming soon
+        const sortedGames = [...GAMES].sort((a, b) => {
+          // Coming soon always last
+          if (a.comingSoon && !b.comingSoon) return 1;
+          if (!a.comingSoon && b.comingSoon) return -1;
+
+          // Both not coming soon - sort by XP descending
+          if (!a.comingSoon && !b.comingSoon) {
+            const xpA = statsMap[a.id]?.xp || 0;
+            const xpB = statsMap[b.id]?.xp || 0;
+            if (xpA !== xpB) return xpB - xpA; // Higher XP first
+
+            // If same XP, played games come before unplayed
+            const playedA = statsMap[a.id]?.played || false;
+            const playedB = statsMap[b.id]?.played || false;
+            if (playedA && !playedB) return -1;
+            if (!playedA && playedB) return 1;
+          }
+
+          return 0;
+        });
+
+        sortedGames.forEach(game => {
+          const card = document.createElement('div');
+          card.className = 'game-card';
+          if (game.comingSoon) {
+            card.classList.add('coming-soon-card');
+          }
+
+          const stats = statsMap[game.id];
+          const xp = stats?.xp || 0;
+          const played = stats?.played || false;
+
+          card.innerHTML = `
+            <div class="game-card-icon ${game.iconClass}">${game.icon}</div>
+            <h3>${game.name}</h3>
+            <p>${game.description}</p>
+            <div class="game-stats">
+              ${!game.comingSoon ? `
+                <span class="stat-badge ${xp > 0 ? 'high-xp' : ''}">⭐ ${xp} XP</span>
+                ${played ? '<span class="stat-badge">📊 Played</span>' : '<span class="stat-badge">🆕 New</span>'}
+              ` : ''}
+            </div>
+            ${!game.comingSoon && !played ? '<span class="new-badge">New</span>' : ''}
+            ${!game.comingSoon && played ? '<span class="play-badge">▶ Play</span>' : ''}
+          `;
+
+          if (!game.comingSoon) {
+            card.addEventListener('click', () => {
+              Analytics.trackEvent('game_click', { game_id: game.id });
+              window.location.href = game.url;
+            });
+          }
+
+          grid.appendChild(card);
+        });
+      }
+
+      _renderActivityScreen() {
+        // Device info
+        const deviceStats = Analytics.getDeviceStats();
+        document.getElementById('device-info').innerHTML = `
+          <div class="info-row">
+            <span class="info-label">📱 Device ID</span>
+            <span class="info-value">${deviceStats.deviceId.substring(0, 8)}...</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">🆕 First Seen</span>
+            <span class="info-value">${deviceStats.firstSeen}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">📅 Last Seen</span>
+            <span class="info-value">${deviceStats.lastSeen}</span>
+          </div>
+        `;
+
+        const deviceIdDisplay = document.getElementById('device-id-display');
+        if (deviceIdDisplay) deviceIdDisplay.textContent = deviceStats.deviceId;
+
+        // Calculate real Total XP from Storage
+        const gameIds = GAMES.filter(g => !g.comingSoon).map(g => g.id);
+        const allStats = Storage.getAllGameStats(gameIds);
+        const totalXp = allStats.reduce((sum, s) => sum + s.xp, 0);
+
+        // Today's stats - use real XP from storage
+        const daily = Analytics.getDailyStats();
+        document.getElementById('today-stats').innerHTML = `
+          <div class="activity-card">
+            <div class="activity-value">${totalXp}</div>
+            <div class="activity-label">⭐ Total XP</div>
+          </div>
+          <div class="activity-card">
+            <div class="activity-value">${daily.sessions}</div>
+            <div class="activity-label">🎮 Sessions Today</div>
+          </div>
+        `;
+
+        // All games stats
+        const gamesStatsHtml = allStats.map(stat => `
+          <div class="activity-card" style="grid-column: 1 / -1; display:flex; justify-content:space-between; align-items:center; text-align:left;">
+            <div>
+              <div style="font-weight:600; color:var(--color-text);">${stat.gameId}</div>
+              <div style="font-size:0.8rem; color:var(--color-text-secondary);">${stat.played ? '✅ Played' : '🆕 New'}</div>
+            </div>
+            <div style="font-size:1.2rem; font-weight:700; color:var(--color-primary);">${stat.xp} XP</div>
+          </div>
+        `).join('');
+        document.getElementById('games-stats').innerHTML = `<div class="activity-grid">${gamesStatsHtml}</div>`;
+
+        // Debug panel
+        const debugDiv = document.getElementById('debug-events');
+        const ga4Status = document.getElementById('ga4-status');
+        const sheetsStatus = document.getElementById('sheets-status');
+
+        // Show queued/tracked events
+        const queue = Analytics._eventQueue || [];
+        const eventLines = queue.slice(-10).map(e => `${e.eventName}: ${JSON.stringify(e.eventParams)}`).join('<br>');
+        debugDiv.innerHTML = eventLines || '<em>No events tracked yet. Play a game to see events here.</em>';
+
+        // GA4 status
+        if (typeof gtag === 'function') {
+          ga4Status.innerHTML = '<span style="color:green;">✅ Loaded</span>';
+        } else {
+          ga4Status.innerHTML = '<span style="color:orange;">⏳ Loading...</span>';
+        }
+
+        // Sheets status
+        if (Analytics.SHEETS_WEB_APP_URL) {
+          sheetsStatus.innerHTML = '<span style="color:green;">✅ Configured</span>';
+        } else {
+          sheetsStatus.innerHTML = '<span style="color:red;">❌ Not configured</span>';
+        }
+      }
+
+      _renderUserList() {
+        const users = UserManager.getUsers();
+        const currentUser = UserManager.getCurrentUser();
+        const list = document.getElementById('users-list');
+        list.innerHTML = '';
+
+        users.forEach(user => {
+          const card = document.createElement('div');
+          card.className = 'user-card';
+          if (user.username === currentUser) card.classList.add('active-user');
+
+          // Calculate total XP across all games for this user
+          const oldUser = UserManager.getCurrentUser();
+          UserManager.setCurrentUser(user.username);
+          const gameIds = GAMES.filter(g => !g.comingSoon).map(g => g.id);
+          const allStats = Storage.getAllGameStats(gameIds);
+          const totalXp = allStats.reduce((sum, s) => sum + s.xp, 0);
+          UserManager.setCurrentUser(oldUser);
+
+          card.innerHTML = `
+            <div class="user-card-avatar">👤</div>
+            <div class="user-card-info">
+              <div class="user-card-name">${user.displayName}</div>
+              <div class="user-card-username">@${user.username}</div>
+              <div class="user-card-stats">⭐ ${totalXp} Total XP</div>
+            </div>
+            <button class="btn-delete-user" data-username="${user.username}">🗑️</button>
+          `;
+
+          card.addEventListener('click', (e) => {
+            if (e.target.closest('.btn-delete-user')) return;
+            if (user.username !== currentUser) this._switchUser(user.username);
           });
-      });
+
+          const deleteBtn = card.querySelector('.btn-delete-user');
+          deleteBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            this._deleteUser(user.username);
+          });
+
+          list.appendChild(card);
+        });
+      }
+
+      _switchUser(username) {
+        UserManager.setCurrentUser(username);
+        Analytics.trackEvent('switch_user', { username });
+        this._showHub();
+      }
+
+      _deleteUser(username) {
+        const users = UserManager.getUsers();
+        if (users.length <= 1) {
+          alert('Cannot delete the last user!');
+          return;
+        }
+        if (!confirm(`Delete user "${username}"? All progress will be lost.`)) return;
+
+        const isCurrentUser = username === UserManager.getCurrentUser();
+        UserManager.deleteUser(username);
+
+        if (isCurrentUser) {
+          const remaining = UserManager.getUsers();
+          this._switchUser(remaining[0].username);
+        } else {
+          this._renderUserList();
+        }
+      }
+
+      _createUser() {
+        const usernameInput = document.getElementById('input-username');
+        const displayNameInput = document.getElementById('input-displayname');
+        const username = usernameInput.value.trim().toLowerCase();
+        const displayName = displayNameInput.value.trim() || username;
+
+        if (!username) { alert('Please enter a username.'); return; }
+        if (!UserManager.isValidUsername(username)) {
+          alert('Username must be 2-20 characters. Only letters, numbers, underscores, and spaces allowed.');
+          return;
+        }
+
+        if (!UserManager.createUser(username, displayName)) {
+          alert(`User "${username}" already exists!`);
+          return;
+        }
+
+        usernameInput.value = '';
+        displayNameInput.value = '';
+        Analytics.trackEvent('create_user', { username });
+        this._switchUser(username);
+      }
+    }
+
+    // Initialize the hub when DOM is ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', () => new GameHub());
+    } else {
+      new GameHub();
     }
   </script>
 </body>

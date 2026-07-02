@@ -1,13 +1,13 @@
 {
-  "name": "WordType - English Grammar Game",
-  "short_name": "WordType",
-  "description": "Learn English Grammar Through Play",
+  "name": "Game English - Học tiếng Anh qua trò chơi",
+  "short_name": "Game English",
+  "description": "Học tiếng Anh qua trò chơi - Bộ sưu tập các game học ngôn ngữ",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f0f4ff",
   "theme_color": "#6c63ff",
-  "lang": "en",
+  "lang": "vi",
   "scope": "./",
   "icons": [
     {

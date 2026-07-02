@@ -47,9 +47,9 @@ class LevelManager {
   async loadAllLevels() {
     try {
       const [level1, level2, level3] = await Promise.all([
-        this._fetchJSON('data/level1.json'),
-        this._fetchJSON('data/level2.json'),
-        this._fetchJSON('data/level3.json')
+        this._fetchJSON('../data/level1.json'),
+        this._fetchJSON('../data/level2.json'),
+        this._fetchJSON('../data/level3.json')
       ]);
       this.levels = { 1: level1, 2: level2, 3: level3 };
       console.log('Level data loaded from JSON files');

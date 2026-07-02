@@ -1,30 +1,33 @@
 /* ============================================================
-   WordType - Service Worker
+   Game English - Service Worker
    Handles caching for offline PWA support
    ============================================================ */
 
-const CACHE_NAME = 'wordtype-v1';
+const CACHE_NAME = 'gameenglish-v2';
 
 // Files to cache on install
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
-  './css/style.css',
-  './js/data.js',
-  './js/userManager.js',
-  './js/storage.js',
-  './js/audio.js',
-  './js/levelManager.js',
-  './js/bossManager.js',
-  './js/ui.js',
-  './js/game.js',
-  './data/boss.json',
-  './data/level1.json',
-  './data/level2.json',
-  './data/level3.json',
+  './shared/css/style.css',
+  './shared/js/userManager.js',
+  './shared/js/storage.js',
+  './shared/js/audio.js',
   './icons/icon-192x192.png',
-  './icons/icon-512x512.png'
+  './icons/icon-512x512.png',
+  // WordType game
+  './games/wordtype/index.html',
+  './games/wordtype/js/data.js',
+  './games/wordtype/js/audio.js',
+  './games/wordtype/js/levelManager.js',
+  './games/wordtype/js/bossManager.js',
+  './games/wordtype/js/ui.js',
+  './games/wordtype/js/game.js',
+  './games/wordtype/data/boss.json',
+  './games/wordtype/data/level1.json',
+  './games/wordtype/data/level2.json',
+  './games/wordtype/data/level3.json'
 ];
 
 /* ---------- INSTALL ---------- */

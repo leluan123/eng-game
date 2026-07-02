@@ -40,7 +40,7 @@ class BossManager {
    */
   async loadBossData() {
     try {
-      this.bossData = await this._fetchJSON('data/boss.json');
+      this.bossData = await this._fetchJSON('../data/boss.json');
       this.usedQuestions = [];
       console.log('Boss data loaded from JSON file');
     } catch (e) {

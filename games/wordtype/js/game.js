@@ -8,6 +8,9 @@
  */
 class Game {
   constructor() {
+    /** Game identifier for per-game storage */
+    this.GAME_ID = 'wordtype';
+
     this.ui = new UIManager();
     this.audio = new AudioManager();
     this.levelManager = new LevelManager();
@@ -51,6 +54,10 @@ class Game {
 
   async init() {
     try {
+      // Start analytics session
+      Analytics.startSession();
+      Analytics.trackEvent('page_view', { page: 'wordtype_game' });
+
       document.querySelector('.btn-primary').textContent = 'Loading...';
       await Promise.all([
         this.levelManager.loadAllLevels(),
@@ -58,7 +65,7 @@ class Game {
       ]);
       this.dataLoaded = true;
 
-      const stats = Storage.load();
+      const stats = Storage.load(this.GAME_ID);
       this.xp = stats.xp;
       this.currentLevel = stats.currentLevel;
       this.streak = stats.currentStreak || 0;
@@ -115,6 +122,11 @@ class Game {
     document.getElementById('btn-user-menu').addEventListener('click', () => this._showUserScreen());
     document.getElementById('btn-create-user').addEventListener('click', () => this._createUser());
 
+    // Back to Hub
+    document.getElementById('btn-back-to-hub').addEventListener('click', () => {
+      window.location.href = '../../index.html';
+    });
+
     // Difficulty selector
     document.querySelectorAll('.btn-difficulty').forEach(btn => {
       btn.addEventListener('click', () => {
@@ -134,36 +146,36 @@ class Game {
   _showMenu() {
     this.isPlaying = false;
     // Save current game state before returning to menu
-    const stats = Storage.load();
+    const stats = Storage.load(this.GAME_ID);
     if (this.xp > 0 || stats.xp > 0) {
       stats.xp = this.xp;
       stats.currentStreak = this.streak;
       if (this.streak > stats.maxStreak) {
         stats.maxStreak = this.streak;
       }
-      Storage.save(stats);
+      Storage.save(stats, this.GAME_ID);
     }
-    const updatedStats = Storage.load();
+    const updatedStats = Storage.load(this.GAME_ID);
     this.ui.updateMenu(updatedStats);
     this.ui.showScreen('menu');
   }
 
   _showLevelsScreen() {
-    const stats = Storage.load();
+    const stats = Storage.load(this.GAME_ID);
     this.ui.renderLevels(this.levelManager, stats);
     this.ui.showScreen('levels');
   }
 
   _showStatsScreen() {
-    const stats = Storage.load();
+    const stats = Storage.load(this.GAME_ID);
     this.ui.renderStats(stats);
     this.ui.showScreen('stats');
   }
 
   _resetStats() {
     if (confirm('Are you sure you want to reset all progress? This cannot be undone.')) {
-      Storage.reset();
-      const stats = Storage.load();
+      Storage.reset(this.GAME_ID);
+      const stats = Storage.load(this.GAME_ID);
       this.xp = stats.xp;
       this.currentLevel = stats.currentLevel;
       this.streak = 0;
@@ -176,7 +188,7 @@ class Game {
 
   _startLevel(level) {
     if (!this.dataLoaded) return;
-    if (!Storage.isLevelUnlocked(level)) {
+    if (!Storage.isLevelUnlocked(level, this.GAME_ID)) {
       alert('This level is not unlocked yet!');
       return;
     }
@@ -194,6 +206,13 @@ class Game {
 
     // Sync difficulty to bossManager
     this.bossManager.setDifficulty(this.levelManager.currentDifficulty);
+
+    // Track game start
+    Analytics.trackEvent('game_start', {
+      game_id: this.GAME_ID,
+      level: level,
+      difficulty: this.levelManager.currentDifficulty
+    });
 
     this.ui.showScreen('game');
     this.ui.updateHearts(this.hearts);
@@ -240,7 +259,7 @@ class Game {
 
     this.ui.showAnswerFeedback(selectedType, correctType);
 
-    const stats = Storage.load();
+    const stats = Storage.load(this.GAME_ID);
     stats.totalQuestions++;
 
     if (isCorrect) {
@@ -252,18 +271,18 @@ class Game {
     // Calculate accuracy directly on the current stats object
     const totalQ = stats.totalQuestions || 1;
     stats.accuracy = Math.round((stats.totalCorrect / totalQ) * 100);
-    Storage.save(stats);
+    Storage.save(stats, this.GAME_ID);
 
     this.ui.updateHearts(this.hearts);
     this._updateXpUI();
 
     if (this.hearts <= 0) {
       this.isPlaying = false;
-      Storage.updateHighestCombo();
+      Storage.updateHighestCombo(this.GAME_ID);
       stats.highestCombo = Math.max(stats.highestCombo, stats.currentStreak);
-      Storage.save(Storage.load());
+      Storage.save(Storage.load(this.GAME_ID), this.GAME_ID);
       this.audio.playGameOver();
-      this.ui.showGameOver(Storage.load());
+      this.ui.showGameOver(Storage.load(this.GAME_ID));
       return;
     }
 
@@ -366,13 +385,13 @@ class Game {
       this.audio.playBossHit();
 
       this.xp += this.xpPerCorrect;
-      const stats = Storage.load();
+      const stats = Storage.load(this.GAME_ID);
       stats.xp = this.xp;
       stats.totalQuestions++;
       stats.totalCorrect++;
       const totalQ = stats.totalQuestions || 1;
       stats.accuracy = Math.round((stats.totalCorrect / totalQ) * 100);
-      Storage.save(stats);
+      Storage.save(stats, this.GAME_ID);
       this._updateXpUI();
 
       await this.ui.showBossExplanation(this.bossManager.currentQuestion.explanation);
@@ -395,19 +414,19 @@ class Game {
       await this.ui.showBossExplanation(this.bossManager.currentQuestion.explanation);
 
       this.xp = Math.max(0, this.xp + this.xpPerWrong);
-      const stats = Storage.load();
+      const stats = Storage.load(this.GAME_ID);
       stats.xp = this.xp;
       stats.totalQuestions++;
       const totalQ = stats.totalQuestions || 1;
       stats.accuracy = Math.round((stats.totalCorrect / totalQ) * 100);
-      Storage.save(stats);
+      Storage.save(stats, this.GAME_ID);
       this._updateXpUI();
 
       if (this.hearts <= 0) {
         this.isPlaying = false;
         this.isBossFight = false;
-        Storage.updateHighestCombo();
-        this.ui.showGameOver(Storage.load());
+        Storage.updateHighestCombo(this.GAME_ID);
+        this.ui.showGameOver(Storage.load(this.GAME_ID));
         return;
       }
 
@@ -426,12 +445,20 @@ class Game {
 
     if (this.hearts < this.maxHearts) this.hearts++;
 
-    const stats = Storage.load();
+    const stats = Storage.load(this.GAME_ID);
     stats.xp = this.xp;
     stats.bossesDefeated++;
-    Storage.save(stats);
+    Storage.save(stats, this.GAME_ID);
     this._updateXpUI();
     this.ui.showScreen('bossVictory');
+
+    // Track boss defeated
+    Analytics.trackEvent('boss_defeated', {
+      game_id: this.GAME_ID,
+      level: this.currentLevel,
+      difficulty: this.levelManager.currentDifficulty,
+      total_xp: this.xp
+    });
   }
 
   _continueAfterBoss() {
@@ -443,31 +470,55 @@ class Game {
     this.isPlaying = false;
     this.audio.playLevelUp();
 
-    const stats = Storage.load();
+    const stats = Storage.load(this.GAME_ID);
     const level = this.currentLevel;
 
     // Save XP and word count before completing level
     stats.xp = this.xp;
-    Storage.save(stats);
+    Storage.save(stats, this.GAME_ID);
 
-    Storage.completeLevel(level);
+    Storage.completeLevel(level, this.GAME_ID);
 
     const canUnlock = this.levelManager.canUnlockNextLevel(level, stats);
     if (canUnlock && level < 3) {
-      Storage.unlockLevel(level + 1);
+      Storage.unlockLevel(level + 1, this.GAME_ID);
       if (level >= stats.currentLevel) {
         stats.currentLevel = level + 1;
-        Storage.updateField('currentLevel', level + 1);
+        Storage.updateField('currentLevel', level + 1, this.GAME_ID);
       }
     }
 
-    const updatedStats = Storage.load();
+    const updatedStats = Storage.load(this.GAME_ID);
     this.ui.showLevelComplete(level, updatedStats, canUnlock);
+
+    // Track level complete
+    Analytics.trackEvent('level_complete', {
+      game_id: this.GAME_ID,
+      level: level,
+      difficulty: this.levelManager.currentDifficulty,
+      total_xp: this.xp,
+      accuracy: stats.accuracy,
+      next_unlocked: canUnlock ? 1 : 0
+    });
+
+    // Log to Google Sheets & daily stats
+    const playTime = Analytics.endSession();
+    Analytics.logToSheet({
+      gameId: this.GAME_ID,
+      xp: this.xp,
+      playTime: playTime,
+      level: level,
+      accuracy: stats.accuracy || 0,
+      bossDefeated: stats.bossesDefeated > 0,
+      totalQuestions: stats.totalQuestions || 0,
+      totalCorrect: stats.totalCorrect || 0
+    });
+    Analytics.updateDailyStats(this.xp);
   }
 
   _goToNextLevel() {
     const nextLevel = this.currentLevel + 1;
-    if (nextLevel <= 3 && Storage.isLevelUnlocked(nextLevel)) {
+    if (nextLevel <= 3 && Storage.isLevelUnlocked(nextLevel, this.GAME_ID)) {
       this._startLevel(nextLevel);
     } else {
       this._showMenu();
@@ -515,7 +566,7 @@ class Game {
 
       const oldUser = UserManager.getCurrentUser();
       UserManager.setCurrentUser(user.username);
-      const stats = Storage.load();
+      const stats = Storage.load(this.GAME_ID);
       UserManager.setCurrentUser(oldUser);
 
       card.innerHTML = `
@@ -550,7 +601,7 @@ class Game {
     document.getElementById('user-name').textContent = UserManager.getDisplayName(username);
     this.xp = 0;
 
-    const stats = Storage.load();
+    const stats = Storage.load(this.GAME_ID);
     this.xp = stats.xp;
     this.currentLevel = stats.currentLevel;
     this.streak = stats.currentStreak || 0;

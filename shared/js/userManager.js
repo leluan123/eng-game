@@ -86,12 +86,13 @@ class UserManager {
   }
 
   /**
-   * Get the storage key for a user's stats.
+   * Get the storage key for a user's stats for a specific game.
    * @param {string} username
+   * @param {string} [gameId='wordtype'] - The game identifier
    * @returns {string}
    */
-  static getStatsKey(username) {
-    return `wordtype_stats_${username}`;
+  static getStatsKey(username, gameId = 'wordtype') {
+    return `wordtype_stats_${username}_${gameId}`;
   }
 
   /**
